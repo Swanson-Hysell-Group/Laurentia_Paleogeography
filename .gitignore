@@ -1,2 +1,7 @@
 .ipynb_checkpoints/
 .DS_Store
+.texpadtmp/manuscript.aux
+.texpadtmp/manuscript.bbl
+.texpadtmp/manuscript.blg
+.texpadtmp/manuscript.log
+.texpadtmp/manuscript.synctex.gz
