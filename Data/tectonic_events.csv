@@ -1,4 +1,4 @@
-event_type,name,start,end,reference,comment
+event_type,name,start,end,reference,comment,location
 orogeny_collisional,Alleghanian,325,290,,Pangea assembly
 orogeny_accretionary,Acadian,420,390,Wilson2017a,Carolinia and Avalonia collision
 orogeny_accretionary,Taconic,465,445,Macdonald2017a, arc accretion
@@ -10,10 +10,11 @@ orogeny_accretionary,GRP,1500,1430,Bickford2015a
 orogeny_accretionary,Mazatzal,1650,1600,Whitmeyer2007a
 orogeny_accretionary,Yavapai,1710,1680,Whitmeyer2007a
 orogeny_collisional,Trans-Hudson,1860,1820,Skipton2016a and Weller2017a
-rift,Belt,1470,1400,
-rift_failed,MCR,1108,1083,Swanson-Hysell2019a
-rift,Southern Oklahoma,539,500,
-rift,Atlantic,230,200,Olsen1997a
+rift_intracratonic,Belt,1470,1400,,,west
+rift_intracratonic,MCR,1108,1083,Swanson-Hysell2019a,,east
+rift_passive_margin,Southern Oklahoma,539,500,,,east
+rift_passive_margin,Southern Oklahoma,539,500,,,east
+rift_passive_margin,Atlantic,230,200,Olsen1997a,,east
 LIP,Mackenzie,1269,1265,,
 LIP,Sudbury,1240,1236,,
 LIP,Keweenawan,1108,1090,,
