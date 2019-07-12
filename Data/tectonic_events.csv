@@ -1,9 +1,9 @@
 event_type,name,start,end,reference,comment,location
 orogeny_collisional,Alleghanian,325,290,,Pangea assembly
-orogeny_accretionary,Acadian,420,390,Wilson2017a,Carolinia and Avalonia collision
+orogeny_microcontinent,Acadian,420,390,Wilson2017a,Carolinia and Avalonia collision
 orogeny_accretionary,Taconic,465,445,Macdonald2017a, arc accretion
 orogeny_collisional,Grenvillian,1090,980,Rivers2008a
-orogeny_accretionary,Llano,1150,1115,Mosher2008a and Barker2009, Mosher's model is of arc-continent collision followed by collision of continental crust with Barker2009a data showing that there were synkinematic granites emplaced 1119–1116 Ma. There is peak ca. 1050 Ma metamorphism further towards the Laurentia interior ca. 1050 Ma (Grimes2004a) is time coicident with Ottawan orogenesis which Mosher2008a proposes as evidence for continued collisional orogenesis in the region
+orogeny_microcontinent,Llano,1150,1115,Mosher2008a and Barker2009, Mosher's model is of arc-continent collision followed by collision of continental crust with Barker2009a data showing that there were synkinematic granites emplaced 1119–1116 Ma. There is peak ca. 1050 Ma metamorphism further towards the Laurentia interior ca. 1050 Ma (Grimes2004a) is time coicident with Ottawan orogenesis which Mosher2008a proposes as evidence for continued collisional orogenesis in the region
 orogeny_accretionary,Shawinigan,1210,1160,
 orogeny_accretionary,Elzevirian,1245,1225,
 orogeny_accretionary,GRP,1500,1430,Bickford2015a
@@ -12,8 +12,11 @@ orogeny_accretionary,Yavapai,1710,1680,Whitmeyer2007a
 orogeny_collisional,Trans-Hudson,1860,1820,Skipton2016a and Weller2017a
 rift_intracratonic,Belt,1470,1400,,,west
 rift_intracratonic,MCR,1108,1083,Swanson-Hysell2019a,,east
-rift_passive_margin,Southern Oklahoma,539,500,,,east
-rift_passive_margin,Southern Oklahoma,539,500,,,east
+rift_passive_margin,East Greenland,840,820,,Available geochronological constraints and thermal subsidence modeling indicate ca. 820 Ma rifting followed by thermal subsidence of a stable platform \citep{Maloof2006a Halverson2018a}. These data suggest that conjugate continental lithosphere rifted away from northeast Greenland at the time,east
+rift, ,780,630,,,west
+rift_passive_margin, ,630,545,,the timing of the rift-to-drift transition in western Laurentia remains equivocal with arguments that it was ongoing by 630 Ma but the possibility that it is better interpretted as ongoing in the latest Ediacaran. The Levy thermal subsidence modeling paints it as uncertain whether rift-to-drift is in the Wood Canyon (Ediacaran-Cambrian boundary) or the Noonday (635 Ma),west
+rift, ,620,580,,,east
+rift_passive_margin, ,580,539,,the Rome-Reelfoot-OK rifts are stranded portions of successful rifting that resulted in Cambrian passive margin thermal subsidence,east
 rift_passive_margin,Atlantic,230,200,Olsen1997a,,east
 LIP,Mackenzie,1269,1265,,
 LIP,Sudbury,1240,1236,,
