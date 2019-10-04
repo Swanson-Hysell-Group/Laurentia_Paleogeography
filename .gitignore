@@ -5,3 +5,6 @@
 .texpadtmp/manuscript.blg
 .texpadtmp/manuscript.log
 .texpadtmp/manuscript.synctex.gz
+manuscript.synctex.gz
+*.log
+manuscript.aux
