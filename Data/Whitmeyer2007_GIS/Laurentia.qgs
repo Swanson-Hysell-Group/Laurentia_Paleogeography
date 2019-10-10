@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis projectname="" version="3.6.0-Noosa">
+<qgis version="3.4.3-Madeira" projectname="">
   <homePath path=""/>
   <title></title>
   <autotransaction active="0"/>
@@ -19,16 +19,16 @@
   </projectCrs>
   <layer-tree-group>
     <customproperties/>
-    <layer-tree-layer expanded="1" providerKey="ogr" source="./Laurentia.shp|layername=Laurentia" id="Laurentia_334c7448_8d75_45fc_a560_c3ec0418f210" name="Laurentia" checked="Qt::Unchecked">
+    <layer-tree-layer checked="Qt::Checked" expanded="1" id="Laurentia_334c7448_8d75_45fc_a560_c3ec0418f210" source="./Laurentia.shp|layername=Laurentia" providerKey="ogr" name="Laurentia">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" source="../../../../Google Drive/Talks_Meetings/2017_Nordic/Models/Eglington_Evans_Model/PlatePolygons2016Continental.shp" id="PlatePolygons2016Continental_870d6b04_26e6_4abe_ab31_37363aa63ab1" name="PlatePolygons2016Continental" checked="Qt::Checked">
+    <layer-tree-layer checked="Qt::Checked" expanded="1" id="PlatePolygons2016Continental_870d6b04_26e6_4abe_ab31_37363aa63ab1" source="../../../../Google Drive/Talks_Meetings/2017_Nordic/Models/Eglington_Evans_Model/PlatePolygons2016Continental.shp" providerKey="ogr" name="PlatePolygons2016Continental">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" source="./Whitmeyer2007.shp" id="Whitmeyer2007_67668f6a_8d33_4d6a_b6e5_f3fb5998afaf" name="Whitmeyer2007" checked="Qt::Unchecked">
+    <layer-tree-layer checked="Qt::Unchecked" expanded="1" id="Whitmeyer2007_67668f6a_8d33_4d6a_b6e5_f3fb5998afaf" source="./Whitmeyer2007.shp" providerKey="ogr" name="Whitmeyer2007">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" source="./CEUS_pc_Whitmeyer2007_R0.shp" id="CEUS_pc_Whitmeyer2007_R0_4113eb33_82b8_46a8_b51b_fdb7c8674307" name="CEUS_pc_Whitmeyer2007_R0" checked="Qt::Unchecked">
+    <layer-tree-layer checked="Qt::Unchecked" expanded="1" id="CEUS_pc_Whitmeyer2007_R0_4113eb33_82b8_46a8_b51b_fdb7c8674307" source="./CEUS_pc_Whitmeyer2007_R0.shp" providerKey="ogr" name="CEUS_pc_Whitmeyer2007_R0">
       <customproperties/>
     </layer-tree-layer>
     <custom-order enabled="0">
@@ -38,22 +38,22 @@
       <item>PlatePolygons2016Continental_870d6b04_26e6_4abe_ab31_37363aa63ab1</item>
     </custom-order>
   </layer-tree-group>
-  <snapping-settings enabled="1" mode="2" intersection-snapping="0" tolerance="12" type="1" unit="1">
+  <snapping-settings mode="2" unit="1" type="1" enabled="1" tolerance="12" intersection-snapping="0">
     <individual-layer-settings>
-      <layer-setting enabled="1" id="PlatePolygons2016Continental_870d6b04_26e6_4abe_ab31_37363aa63ab1" tolerance="6" units="1" type="1"/>
-      <layer-setting enabled="1" id="Laurentia_334c7448_8d75_45fc_a560_c3ec0418f210" tolerance="12" units="1" type="1"/>
-      <layer-setting enabled="1" id="CEUS_pc_Whitmeyer2007_R0_4113eb33_82b8_46a8_b51b_fdb7c8674307" tolerance="12" units="1" type="1"/>
-      <layer-setting enabled="1" id="Whitmeyer2007_67668f6a_8d33_4d6a_b6e5_f3fb5998afaf" tolerance="12" units="1" type="1"/>
+      <layer-setting id="CEUS_pc_Whitmeyer2007_R0_4113eb33_82b8_46a8_b51b_fdb7c8674307" type="1" units="1" enabled="1" tolerance="12"/>
+      <layer-setting id="Laurentia_334c7448_8d75_45fc_a560_c3ec0418f210" type="1" units="1" enabled="1" tolerance="12"/>
+      <layer-setting id="PlatePolygons2016Continental_870d6b04_26e6_4abe_ab31_37363aa63ab1" type="1" units="1" enabled="1" tolerance="6"/>
+      <layer-setting id="Whitmeyer2007_67668f6a_8d33_4d6a_b6e5_f3fb5998afaf" type="1" units="1" enabled="1" tolerance="12"/>
     </individual-layer-settings>
   </snapping-settings>
   <relations/>
-  <mapcanvas name="theMapCanvas" annotationsVisible="1">
+  <mapcanvas annotationsVisible="1" name="theMapCanvas">
     <units>meters</units>
     <extent>
-      <xmin>-5589713.10582171380519867</xmin>
-      <ymin>-2600634.04693304607644677</ymin>
-      <xmax>761793.67513667605817318</xmax>
-      <ymax>5174120.07290233857929707</ymax>
+      <xmin>-2670248.85496976785361767</xmin>
+      <ymin>-665519.79414206370711327</ymin>
+      <xmax>6292131.82257866486907005</xmax>
+      <ymax>6010817.0392073867842555</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -69,35 +69,34 @@
       </spatialrefsys>
     </destinationsrs>
     <rendermaptile>0</rendermaptile>
-    <expressionContextScope/>
   </mapcanvas>
   <projectModels/>
   <legend updateDrawingOrder="true">
-    <legendlayer open="true" showFeatureCount="0" drawingOrder="-1" name="Laurentia" checked="Qt::Unchecked">
+    <legendlayer checked="Qt::Checked" showFeatureCount="0" drawingOrder="-1" open="true" name="Laurentia">
       <filegroup open="true" hidden="false">
-        <legendlayerfile visible="0" layerid="Laurentia_334c7448_8d75_45fc_a560_c3ec0418f210" isInOverview="0"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="Laurentia_334c7448_8d75_45fc_a560_c3ec0418f210"/>
       </filegroup>
     </legendlayer>
-    <legendlayer open="true" showFeatureCount="0" drawingOrder="-1" name="PlatePolygons2016Continental" checked="Qt::Checked">
+    <legendlayer checked="Qt::Checked" showFeatureCount="0" drawingOrder="-1" open="true" name="PlatePolygons2016Continental">
       <filegroup open="true" hidden="false">
-        <legendlayerfile visible="1" layerid="PlatePolygons2016Continental_870d6b04_26e6_4abe_ab31_37363aa63ab1" isInOverview="0"/>
+        <legendlayerfile visible="1" isInOverview="0" layerid="PlatePolygons2016Continental_870d6b04_26e6_4abe_ab31_37363aa63ab1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer open="true" showFeatureCount="0" drawingOrder="-1" name="Whitmeyer2007" checked="Qt::Unchecked">
+    <legendlayer checked="Qt::Unchecked" showFeatureCount="0" drawingOrder="-1" open="true" name="Whitmeyer2007">
       <filegroup open="true" hidden="false">
-        <legendlayerfile visible="0" layerid="Whitmeyer2007_67668f6a_8d33_4d6a_b6e5_f3fb5998afaf" isInOverview="0"/>
+        <legendlayerfile visible="0" isInOverview="0" layerid="Whitmeyer2007_67668f6a_8d33_4d6a_b6e5_f3fb5998afaf"/>
       </filegroup>
     </legendlayer>
-    <legendlayer open="true" showFeatureCount="0" drawingOrder="-1" name="CEUS_pc_Whitmeyer2007_R0" checked="Qt::Unchecked">
+    <legendlayer checked="Qt::Unchecked" showFeatureCount="0" drawingOrder="-1" open="true" name="CEUS_pc_Whitmeyer2007_R0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile visible="0" layerid="CEUS_pc_Whitmeyer2007_R0_4113eb33_82b8_46a8_b51b_fdb7c8674307" isInOverview="0"/>
+        <legendlayerfile visible="0" isInOverview="0" layerid="CEUS_pc_Whitmeyer2007_R0_4113eb33_82b8_46a8_b51b_fdb7c8674307"/>
       </filegroup>
     </legendlayer>
   </legend>
   <mapViewDocks/>
   <mapViewDocks3D/>
   <projectlayers>
-    <maplayer simplifyDrawingHints="1" refreshOnNotifyMessage="" autoRefreshEnabled="0" maxScale="0" simplifyAlgorithm="0" readOnly="0" styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" simplifyDrawingTol="1" refreshOnNotifyEnabled="0" geometry="Polygon" minScale="1e+08" simplifyMaxScale="1" autoRefreshTime="0" type="vector" simplifyLocal="1">
+    <maplayer geometry="Polygon" autoRefreshEnabled="0" simplifyDrawingTol="1" autoRefreshTime="0" type="vector" hasScaleBasedVisibilityFlag="0" readOnly="0" refreshOnNotifyEnabled="0" maxScale="0" labelsEnabled="0" minScale="1e+08" simplifyDrawingHints="1" simplifyLocal="1" styleCategories="AllStyleCategories" simplifyMaxScale="1" simplifyAlgorithm="0" refreshOnNotifyMessage="">
       <extent>
         <xmin>-136.32436432413086891</xmin>
         <ymin>28.69840352400600736</ymin>
@@ -141,7 +140,7 @@
             <description></description>
             <projectionacronym></projectionacronym>
             <ellipsoidacronym></ellipsoidacronym>
-            <geographicflag>true</geographicflag>
+            <geographicflag>false</geographicflag>
           </spatialrefsys>
         </crs>
         <extent/>
@@ -163,8 +162,8 @@
       </flags>
       <renderer-v2 symbollevels="0" enableorderby="0" type="singleSymbol" forceraster="0">
         <symbols>
-          <symbol force_rhr="0" name="0" clip_to_extent="1" alpha="1" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="0" clip_to_extent="1" alpha="1">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="114,155,111,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -178,9 +177,9 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -214,31 +213,31 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="Id" index="0"/>
-        <alias name="" field="Unit" index="1"/>
+        <alias field="Id" index="0" name=""/>
+        <alias field="Unit" index="1" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default expression="" field="Id" applyOnUpdate="0"/>
-        <default expression="" field="Unit" applyOnUpdate="0"/>
+        <default applyOnUpdate="0" field="Id" expression=""/>
+        <default applyOnUpdate="0" field="Unit" expression=""/>
       </defaults>
       <constraints>
         <constraint notnull_strength="0" field="Id" constraints="0" unique_strength="0" exp_strength="0"/>
         <constraint notnull_strength="0" field="Unit" constraints="0" unique_strength="0" exp_strength="0"/>
       </constraints>
       <constraintExpressions>
-        <constraint desc="" exp="" field="Id"/>
-        <constraint desc="" exp="" field="Unit"/>
+        <constraint exp="" field="Id" desc=""/>
+        <constraint exp="" field="Unit" desc=""/>
       </constraintExpressions>
       <expressionfields/>
       <attributeactions>
-        <defaultAction value="{00000000-0000-0000-0000-000000000000}" key="Canvas"/>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
       <attributetableconfig sortOrder="0" sortExpression="" actionWidgetStyle="dropDown">
         <columns>
-          <column width="-1" name="Id" type="field" hidden="0"/>
-          <column width="561" name="Unit" type="field" hidden="0"/>
+          <column width="-1" type="field" name="Id" hidden="0"/>
+          <column width="561" type="field" name="Unit" hidden="0"/>
           <column width="-1" type="actions" hidden="1"/>
         </columns>
       </attributetableconfig>
@@ -259,7 +258,7 @@
       <previewExpression>"Id"</previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer simplifyDrawingHints="1" refreshOnNotifyMessage="" autoRefreshEnabled="0" maxScale="0" simplifyAlgorithm="0" readOnly="0" styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" simplifyDrawingTol="1" refreshOnNotifyEnabled="0" geometry="Polygon" minScale="1e+08" simplifyMaxScale="1" autoRefreshTime="0" type="vector" simplifyLocal="1">
+    <maplayer geometry="Polygon" autoRefreshEnabled="0" simplifyDrawingTol="1" autoRefreshTime="0" type="vector" hasScaleBasedVisibilityFlag="0" readOnly="0" refreshOnNotifyEnabled="0" maxScale="0" labelsEnabled="0" minScale="1e+08" simplifyDrawingHints="1" simplifyLocal="1" styleCategories="AllStyleCategories" simplifyMaxScale="1" simplifyAlgorithm="0" refreshOnNotifyMessage="">
       <extent>
         <xmin>-136.32436432413086891</xmin>
         <ymin>28.69840352400600736</ymin>
@@ -316,7 +315,7 @@
           </spatialrefsys>
         </crs>
         <extent>
-          <spatial minx="0" miny="0" maxx="0" dimensions="2" minz="0" crs="" maxz="0" maxy="0"/>
+          <spatial crs="" maxy="0" maxz="0" dimensions="2" maxx="0" minx="0" miny="0" minz="0"/>
           <temporal>
             <period>
               <start></start>
@@ -342,32 +341,32 @@
       </flags>
       <renderer-v2 symbollevels="0" enableorderby="0" type="categorizedSymbol" forceraster="0" attr="Unit">
         <categories>
-          <category value="&lt; 0.78 Ga Windermere Supergroup" symbol="0" render="false" label="&lt; 0.78 Ga Windermere Supergroup"/>
-          <category value="> 2.5 Ga Archean crust" symbol="1" render="true" label="> 2.5 Ga Archean crust"/>
-          <category value="1.2 - 1.1 Ga Midcontinent rift system" symbol="2" render="false" label="1.2 - 1.1 Ga Midcontinent rift system"/>
-          <category value="1.3 - 0.95 Ga granitoids" symbol="3" render="false" label="1.3 - 0.95 Ga granitoids"/>
-          <category value="1.3 - 1.0 Ga collisional orogens" symbol="4" render="false" label="1.3 - 1.0 Ga collisional orogens"/>
-          <category value="1.45 - 1.35 Ga granitoids" symbol="5" render="false" label="1.45 - 1.35 Ga granitoids"/>
-          <category value="1.55 - 1.35 Ga juvenile crust" symbol="6" render="false" label="1.55 - 1.35 Ga juvenile crust"/>
-          <category value="1.65 - 1.60 Ga granitoids" symbol="7" render="false" label="1.65 - 1.60 Ga granitoids"/>
-          <category value="1.69 - 1.65 Ga juvenile crust" symbol="8" render="false" label="1.69 - 1.65 Ga juvenile crust"/>
-          <category value="1.72 - 1.68 Ga granitoids" symbol="9" render="false" label="1.72 - 1.68 Ga granitoids"/>
-          <category value="1.72 - 1.68 Ga juvenile arcs" symbol="10" render="false" label="1.72 - 1.68 Ga juvenile arcs"/>
-          <category value="1.76 - 1.72 Ga juvenile crust" symbol="11" render="false" label="1.76 - 1.72 Ga juvenile crust"/>
-          <category value="1.80 - 1.76 Ga juvenile arcs" symbol="12" render="false" label="1.80 - 1.76 Ga juvenile arcs"/>
-          <category value="1.9 - 1.8 Ga reworked Archean crust" symbol="13" render="true" label="1.9 - 1.8 Ga reworked Archean crust"/>
-          <category value="2.0 - 1.8 Ga juvenile arcs" symbol="14" render="true" label="2.0 - 1.8 Ga juvenile arcs"/>
-          <category value="2.0 - 1.8 Ga juvenile orogens" symbol="15" render="true" label="2.0 - 1.8 Ga juvenile orogens"/>
-          <category value="2.5 - 2.0 Ga miogeoclinal sediments" symbol="16" render="false" label="2.5 - 2.0 Ga miogeoclinal sediments"/>
-          <category value="approx 1.70 Ga quartzite deposits" symbol="17" render="false" label="approx 1.70 Ga quartzite deposits"/>
-          <category value="approx. 1.65 Ga quartzite deposits" symbol="18" render="false" label="approx. 1.65 Ga quartzite deposits"/>
-          <category value="Basin" symbol="19" render="false" label="Basin"/>
-          <category value="Eastern rift basins" symbol="20" render="false" label="Eastern rift basins"/>
-          <category value="" symbol="21" render="false" label=""/>
+          <category symbol="0" label="&lt; 0.78 Ga Windermere Supergroup" render="true" value="&lt; 0.78 Ga Windermere Supergroup"/>
+          <category symbol="1" label="> 2.5 Ga Archean crust" render="true" value="> 2.5 Ga Archean crust"/>
+          <category symbol="2" label="1.2 - 1.1 Ga Midcontinent rift system" render="true" value="1.2 - 1.1 Ga Midcontinent rift system"/>
+          <category symbol="3" label="1.3 - 0.95 Ga granitoids" render="true" value="1.3 - 0.95 Ga granitoids"/>
+          <category symbol="4" label="1.3 - 1.0 Ga collisional orogens" render="true" value="1.3 - 1.0 Ga collisional orogens"/>
+          <category symbol="5" label="1.45 - 1.35 Ga granitoids" render="true" value="1.45 - 1.35 Ga granitoids"/>
+          <category symbol="6" label="1.55 - 1.35 Ga juvenile crust" render="true" value="1.55 - 1.35 Ga juvenile crust"/>
+          <category symbol="7" label="1.65 - 1.60 Ga granitoids" render="true" value="1.65 - 1.60 Ga granitoids"/>
+          <category symbol="8" label="1.69 - 1.65 Ga juvenile crust" render="true" value="1.69 - 1.65 Ga juvenile crust"/>
+          <category symbol="9" label="1.72 - 1.68 Ga granitoids" render="true" value="1.72 - 1.68 Ga granitoids"/>
+          <category symbol="10" label="1.72 - 1.68 Ga juvenile arcs" render="true" value="1.72 - 1.68 Ga juvenile arcs"/>
+          <category symbol="11" label="1.76 - 1.72 Ga juvenile crust" render="true" value="1.76 - 1.72 Ga juvenile crust"/>
+          <category symbol="12" label="1.80 - 1.76 Ga juvenile arcs" render="true" value="1.80 - 1.76 Ga juvenile arcs"/>
+          <category symbol="13" label="1.9 - 1.8 Ga reworked Archean crust" render="true" value="1.9 - 1.8 Ga reworked Archean crust"/>
+          <category symbol="14" label="2.0 - 1.8 Ga juvenile arcs" render="true" value="2.0 - 1.8 Ga juvenile arcs"/>
+          <category symbol="15" label="2.0 - 1.8 Ga juvenile orogens" render="true" value="2.0 - 1.8 Ga juvenile orogens"/>
+          <category symbol="16" label="2.5 - 2.0 Ga miogeoclinal sediments" render="true" value="2.5 - 2.0 Ga miogeoclinal sediments"/>
+          <category symbol="17" label="approx 1.70 Ga quartzite deposits" render="true" value="approx 1.70 Ga quartzite deposits"/>
+          <category symbol="18" label="approx. 1.65 Ga quartzite deposits" render="true" value="approx. 1.65 Ga quartzite deposits"/>
+          <category symbol="19" label="Basin" render="true" value="Basin"/>
+          <category symbol="20" label="Eastern rift basins" render="true" value="Eastern rift basins"/>
+          <category symbol="21" label="" render="true" value=""/>
         </categories>
         <symbols>
-          <symbol force_rhr="0" name="0" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="0" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="215,25,28,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -381,15 +380,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="1" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="1" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="223,53,41,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -403,15 +402,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="10" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="10" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="255,248,182,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -425,15 +424,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="11" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="11" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="247,252,189,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -447,15 +446,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="12" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="12" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="231,246,184,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -469,15 +468,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="13" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="13" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="215,239,178,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -491,15 +490,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="14" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="14" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="199,233,173,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -513,15 +512,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="15" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="15" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="183,226,168,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -535,15 +534,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="16" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="16" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="165,217,165,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -557,15 +556,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="17" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="17" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="141,200,169,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -579,15 +578,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="18" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="18" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="116,183,174,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -601,15 +600,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="19" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="19" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="92,165,178,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -623,15 +622,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="2" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="2" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="230,82,54,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -645,15 +644,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="20" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="20" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="67,148,182,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -667,15 +666,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="21" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="21" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="43,131,186,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -689,15 +688,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="3" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="3" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="237,110,67,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -711,15 +710,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="4" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="4" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="244,139,80,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -733,15 +732,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="5" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="5" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="252,167,94,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -755,15 +754,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="6" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="6" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="254,186,110,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -777,15 +776,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="7" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="7" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="254,201,128,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -799,15 +798,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="8" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="8" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="255,217,146,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -821,15 +820,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
-          <symbol force_rhr="0" name="9" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="9" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="255,232,164,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -843,17 +842,17 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
         </symbols>
         <source-symbol>
-          <symbol force_rhr="0" name="0" clip_to_extent="1" alpha="0.527" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="0" clip_to_extent="1" alpha="0.527">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="255,158,23,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -867,15 +866,15 @@
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
           </symbol>
         </source-symbol>
-        <colorramp name="[source]" type="gradient">
+        <colorramp type="gradient" name="[source]">
           <prop v="215,25,28,255" k="color1"/>
           <prop v="43,131,186,255" k="color2"/>
           <prop v="0" k="discrete"/>
@@ -886,25 +885,28 @@
         <sizescale/>
       </renderer-v2>
       <customproperties>
-        <property value="0" key="embeddedWidgets/count"/>
+        <property key="dualview/previewExpressions">
+          <value>Id</value>
+        </property>
+        <property key="embeddedWidgets/count" value="0"/>
         <property key="variableNames"/>
         <property key="variableValues"/>
       </customproperties>
       <blendMode>0</blendMode>
       <featureBlendMode>0</featureBlendMode>
       <layerOpacity>1</layerOpacity>
-      <SingleCategoryDiagramRenderer attributeLegend="1" diagramType="Histogram">
-        <DiagramCategory backgroundColor="#ffffff" diagramOrientation="Up" penAlpha="255" opacity="1" lineSizeType="MM" rotationOffset="270" width="15" minScaleDenominator="0" penWidth="0" sizeType="MM" enabled="0" maxScaleDenominator="1e+08" scaleBasedVisibility="0" penColor="#000000" height="15" scaleDependency="Area" backgroundAlpha="255" minimumSize="0" barWidth="5" labelPlacementMethod="XHeight" sizeScale="3x:0,0,0,0,0,0" lineSizeScale="3x:0,0,0,0,0,0">
+      <SingleCategoryDiagramRenderer diagramType="Histogram" attributeLegend="1">
+        <DiagramCategory lineSizeScale="3x:0,0,0,0,0,0" width="15" maxScaleDenominator="1e+08" sizeType="MM" barWidth="5" scaleBasedVisibility="0" lineSizeType="MM" rotationOffset="270" minScaleDenominator="0" enabled="0" penColor="#000000" minimumSize="0" diagramOrientation="Up" scaleDependency="Area" labelPlacementMethod="XHeight" sizeScale="3x:0,0,0,0,0,0" backgroundColor="#ffffff" penAlpha="255" opacity="1" height="15" backgroundAlpha="255" penWidth="0">
           <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
-          <attribute color="#000000" field="" label=""/>
+          <attribute color="#000000" label="" field=""/>
         </DiagramCategory>
       </SingleCategoryDiagramRenderer>
-      <DiagramLayerSettings obstacle="0" dist="0" linePlacementFlags="18" zIndex="0" placement="1" priority="0" showAll="1">
+      <DiagramLayerSettings placement="1" linePlacementFlags="18" zIndex="0" dist="0" priority="0" obstacle="0" showAll="1">
         <properties>
           <Option type="Map">
-            <Option value="" name="name" type="QString"/>
+            <Option type="QString" name="name" value=""/>
             <Option name="properties"/>
-            <Option value="collection" name="type" type="QString"/>
+            <Option type="QString" name="type" value="collection"/>
           </Option>
         </properties>
       </DiagramLayerSettings>
@@ -957,22 +959,22 @@
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="Id" index="0"/>
-        <alias name="" field="Unit" index="1"/>
-        <alias name="" field="PLATE_ID" index="2"/>
-        <alias name="" field="Name" index="3"/>
-        <alias name="" field="begin" index="4"/>
-        <alias name="" field="end" index="5"/>
+        <alias field="Id" index="0" name=""/>
+        <alias field="Unit" index="1" name=""/>
+        <alias field="PLATE_ID" index="2" name=""/>
+        <alias field="Name" index="3" name=""/>
+        <alias field="begin" index="4" name=""/>
+        <alias field="end" index="5" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default expression="" field="Id" applyOnUpdate="0"/>
-        <default expression="" field="Unit" applyOnUpdate="0"/>
-        <default expression="" field="PLATE_ID" applyOnUpdate="0"/>
-        <default expression="" field="Name" applyOnUpdate="0"/>
-        <default expression="" field="begin" applyOnUpdate="0"/>
-        <default expression="" field="end" applyOnUpdate="0"/>
+        <default applyOnUpdate="0" field="Id" expression=""/>
+        <default applyOnUpdate="0" field="Unit" expression=""/>
+        <default applyOnUpdate="0" field="PLATE_ID" expression=""/>
+        <default applyOnUpdate="0" field="Name" expression=""/>
+        <default applyOnUpdate="0" field="begin" expression=""/>
+        <default applyOnUpdate="0" field="end" expression=""/>
       </defaults>
       <constraints>
         <constraint notnull_strength="0" field="Id" constraints="0" unique_strength="0" exp_strength="0"/>
@@ -983,23 +985,26 @@
         <constraint notnull_strength="0" field="end" constraints="0" unique_strength="0" exp_strength="0"/>
       </constraints>
       <constraintExpressions>
-        <constraint desc="" exp="" field="Id"/>
-        <constraint desc="" exp="" field="Unit"/>
-        <constraint desc="" exp="" field="PLATE_ID"/>
-        <constraint desc="" exp="" field="Name"/>
-        <constraint desc="" exp="" field="begin"/>
-        <constraint desc="" exp="" field="end"/>
+        <constraint exp="" field="Id" desc=""/>
+        <constraint exp="" field="Unit" desc=""/>
+        <constraint exp="" field="PLATE_ID" desc=""/>
+        <constraint exp="" field="Name" desc=""/>
+        <constraint exp="" field="begin" desc=""/>
+        <constraint exp="" field="end" desc=""/>
       </constraintExpressions>
       <expressionfields/>
       <attributeactions>
-        <defaultAction value="{00000000-0000-0000-0000-000000000000}" key="Canvas"/>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
-      <attributetableconfig sortOrder="1" sortExpression="&quot;Unit&quot;" actionWidgetStyle="dropDown">
+      <attributetableconfig sortOrder="0" sortExpression="&quot;Unit&quot;" actionWidgetStyle="dropDown">
         <columns>
-          <column width="-1" name="Id" type="field" hidden="0"/>
-          <column width="367" name="Unit" type="field" hidden="0"/>
+          <column width="-1" type="field" name="Id" hidden="0"/>
+          <column width="367" type="field" name="Unit" hidden="0"/>
           <column width="-1" type="actions" hidden="1"/>
-          <column width="-1" name="PLATE_ID" type="field" hidden="0"/>
+          <column width="-1" type="field" name="PLATE_ID" hidden="0"/>
+          <column width="-1" type="field" name="Name" hidden="0"/>
+          <column width="-1" type="field" name="begin" hidden="0"/>
+          <column width="-1" type="field" name="end" hidden="0"/>
         </columns>
       </attributetableconfig>
       <conditionalstyles>
@@ -1030,8 +1035,8 @@ def my_form_open(dialog, layer, feature):
       <featformsuppress>0</featformsuppress>
       <editorlayout>generatedlayout</editorlayout>
       <editable>
-        <field name="Id" editable="1"/>
-        <field name="Unit" editable="1"/>
+        <field editable="1" name="Id"/>
+        <field editable="1" name="Unit"/>
       </editable>
       <labelOnTop>
         <field labelOnTop="0" name="Id"/>
@@ -1041,7 +1046,7 @@ def my_form_open(dialog, layer, feature):
       <previewExpression>Id</previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer simplifyDrawingHints="1" refreshOnNotifyMessage="" autoRefreshEnabled="0" maxScale="0" simplifyAlgorithm="0" readOnly="0" styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" simplifyDrawingTol="1" refreshOnNotifyEnabled="0" geometry="Polygon" minScale="1e+08" simplifyMaxScale="1" autoRefreshTime="0" type="vector" simplifyLocal="1">
+    <maplayer geometry="Polygon" autoRefreshEnabled="0" simplifyDrawingTol="1" autoRefreshTime="0" type="vector" hasScaleBasedVisibilityFlag="0" readOnly="0" refreshOnNotifyEnabled="0" maxScale="0" labelsEnabled="0" minScale="1e+08" simplifyDrawingHints="1" simplifyLocal="1" styleCategories="AllStyleCategories" simplifyMaxScale="1" simplifyAlgorithm="0" refreshOnNotifyMessage="">
       <extent>
         <xmin>-179.99999999999991473</xmin>
         <ymin>-89.99999999999994316</ymin>
@@ -1107,8 +1112,8 @@ def my_form_open(dialog, layer, feature):
       </flags>
       <renderer-v2 symbollevels="0" enableorderby="0" type="singleSymbol" forceraster="0">
         <symbols>
-          <symbol force_rhr="0" name="0" clip_to_extent="1" alpha="1" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="0" clip_to_extent="1" alpha="1">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="152,125,183,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -1122,9 +1127,9 @@ def my_form_open(dialog, layer, feature):
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -1298,54 +1303,54 @@ def my_form_open(dialog, layer, feature):
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="OBJECTID" index="0"/>
-        <alias name="" field="PlateID" index="1"/>
-        <alias name="" field="PlateName" index="2"/>
-        <alias name="" field="COTID" index="3"/>
-        <alias name="" field="COID" index="4"/>
-        <alias name="" field="LimYng" index="5"/>
-        <alias name="" field="LimOld" index="6"/>
-        <alias name="" field="OmitForNow" index="7"/>
-        <alias name="" field="Shape_Leng" index="8"/>
-        <alias name="" field="Shape_Area" index="9"/>
-        <alias name="" field="PlateIsMaj" index="10"/>
-        <alias name="" field="ParentPlat" index="11"/>
-        <alias name="" field="Plate90" index="12"/>
-        <alias name="" field="Sqkm" index="13"/>
-        <alias name="" field="ArcAssocia" index="14"/>
-        <alias name="" field="CLon" index="15"/>
-        <alias name="" field="CLat" index="16"/>
-        <alias name="" field="DomainID" index="17"/>
-        <alias name="" field="DomainPare" index="18"/>
-        <alias name="" field="DomainPa_1" index="19"/>
-        <alias name="" field="Assoc2450" index="20"/>
-        <alias name="" field="GPGIM_TYPE" index="21"/>
+        <alias field="OBJECTID" index="0" name=""/>
+        <alias field="PlateID" index="1" name=""/>
+        <alias field="PlateName" index="2" name=""/>
+        <alias field="COTID" index="3" name=""/>
+        <alias field="COID" index="4" name=""/>
+        <alias field="LimYng" index="5" name=""/>
+        <alias field="LimOld" index="6" name=""/>
+        <alias field="OmitForNow" index="7" name=""/>
+        <alias field="Shape_Leng" index="8" name=""/>
+        <alias field="Shape_Area" index="9" name=""/>
+        <alias field="PlateIsMaj" index="10" name=""/>
+        <alias field="ParentPlat" index="11" name=""/>
+        <alias field="Plate90" index="12" name=""/>
+        <alias field="Sqkm" index="13" name=""/>
+        <alias field="ArcAssocia" index="14" name=""/>
+        <alias field="CLon" index="15" name=""/>
+        <alias field="CLat" index="16" name=""/>
+        <alias field="DomainID" index="17" name=""/>
+        <alias field="DomainPare" index="18" name=""/>
+        <alias field="DomainPa_1" index="19" name=""/>
+        <alias field="Assoc2450" index="20" name=""/>
+        <alias field="GPGIM_TYPE" index="21" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default expression="" field="OBJECTID" applyOnUpdate="0"/>
-        <default expression="" field="PlateID" applyOnUpdate="0"/>
-        <default expression="" field="PlateName" applyOnUpdate="0"/>
-        <default expression="" field="COTID" applyOnUpdate="0"/>
-        <default expression="" field="COID" applyOnUpdate="0"/>
-        <default expression="" field="LimYng" applyOnUpdate="0"/>
-        <default expression="" field="LimOld" applyOnUpdate="0"/>
-        <default expression="" field="OmitForNow" applyOnUpdate="0"/>
-        <default expression="" field="Shape_Leng" applyOnUpdate="0"/>
-        <default expression="" field="Shape_Area" applyOnUpdate="0"/>
-        <default expression="" field="PlateIsMaj" applyOnUpdate="0"/>
-        <default expression="" field="ParentPlat" applyOnUpdate="0"/>
-        <default expression="" field="Plate90" applyOnUpdate="0"/>
-        <default expression="" field="Sqkm" applyOnUpdate="0"/>
-        <default expression="" field="ArcAssocia" applyOnUpdate="0"/>
-        <default expression="" field="CLon" applyOnUpdate="0"/>
-        <default expression="" field="CLat" applyOnUpdate="0"/>
-        <default expression="" field="DomainID" applyOnUpdate="0"/>
-        <default expression="" field="DomainPare" applyOnUpdate="0"/>
-        <default expression="" field="DomainPa_1" applyOnUpdate="0"/>
-        <default expression="" field="Assoc2450" applyOnUpdate="0"/>
-        <default expression="" field="GPGIM_TYPE" applyOnUpdate="0"/>
+        <default applyOnUpdate="0" field="OBJECTID" expression=""/>
+        <default applyOnUpdate="0" field="PlateID" expression=""/>
+        <default applyOnUpdate="0" field="PlateName" expression=""/>
+        <default applyOnUpdate="0" field="COTID" expression=""/>
+        <default applyOnUpdate="0" field="COID" expression=""/>
+        <default applyOnUpdate="0" field="LimYng" expression=""/>
+        <default applyOnUpdate="0" field="LimOld" expression=""/>
+        <default applyOnUpdate="0" field="OmitForNow" expression=""/>
+        <default applyOnUpdate="0" field="Shape_Leng" expression=""/>
+        <default applyOnUpdate="0" field="Shape_Area" expression=""/>
+        <default applyOnUpdate="0" field="PlateIsMaj" expression=""/>
+        <default applyOnUpdate="0" field="ParentPlat" expression=""/>
+        <default applyOnUpdate="0" field="Plate90" expression=""/>
+        <default applyOnUpdate="0" field="Sqkm" expression=""/>
+        <default applyOnUpdate="0" field="ArcAssocia" expression=""/>
+        <default applyOnUpdate="0" field="CLon" expression=""/>
+        <default applyOnUpdate="0" field="CLat" expression=""/>
+        <default applyOnUpdate="0" field="DomainID" expression=""/>
+        <default applyOnUpdate="0" field="DomainPare" expression=""/>
+        <default applyOnUpdate="0" field="DomainPa_1" expression=""/>
+        <default applyOnUpdate="0" field="Assoc2450" expression=""/>
+        <default applyOnUpdate="0" field="GPGIM_TYPE" expression=""/>
       </defaults>
       <constraints>
         <constraint notnull_strength="0" field="OBJECTID" constraints="0" unique_strength="0" exp_strength="0"/>
@@ -1372,32 +1377,32 @@ def my_form_open(dialog, layer, feature):
         <constraint notnull_strength="0" field="GPGIM_TYPE" constraints="0" unique_strength="0" exp_strength="0"/>
       </constraints>
       <constraintExpressions>
-        <constraint desc="" exp="" field="OBJECTID"/>
-        <constraint desc="" exp="" field="PlateID"/>
-        <constraint desc="" exp="" field="PlateName"/>
-        <constraint desc="" exp="" field="COTID"/>
-        <constraint desc="" exp="" field="COID"/>
-        <constraint desc="" exp="" field="LimYng"/>
-        <constraint desc="" exp="" field="LimOld"/>
-        <constraint desc="" exp="" field="OmitForNow"/>
-        <constraint desc="" exp="" field="Shape_Leng"/>
-        <constraint desc="" exp="" field="Shape_Area"/>
-        <constraint desc="" exp="" field="PlateIsMaj"/>
-        <constraint desc="" exp="" field="ParentPlat"/>
-        <constraint desc="" exp="" field="Plate90"/>
-        <constraint desc="" exp="" field="Sqkm"/>
-        <constraint desc="" exp="" field="ArcAssocia"/>
-        <constraint desc="" exp="" field="CLon"/>
-        <constraint desc="" exp="" field="CLat"/>
-        <constraint desc="" exp="" field="DomainID"/>
-        <constraint desc="" exp="" field="DomainPare"/>
-        <constraint desc="" exp="" field="DomainPa_1"/>
-        <constraint desc="" exp="" field="Assoc2450"/>
-        <constraint desc="" exp="" field="GPGIM_TYPE"/>
+        <constraint exp="" field="OBJECTID" desc=""/>
+        <constraint exp="" field="PlateID" desc=""/>
+        <constraint exp="" field="PlateName" desc=""/>
+        <constraint exp="" field="COTID" desc=""/>
+        <constraint exp="" field="COID" desc=""/>
+        <constraint exp="" field="LimYng" desc=""/>
+        <constraint exp="" field="LimOld" desc=""/>
+        <constraint exp="" field="OmitForNow" desc=""/>
+        <constraint exp="" field="Shape_Leng" desc=""/>
+        <constraint exp="" field="Shape_Area" desc=""/>
+        <constraint exp="" field="PlateIsMaj" desc=""/>
+        <constraint exp="" field="ParentPlat" desc=""/>
+        <constraint exp="" field="Plate90" desc=""/>
+        <constraint exp="" field="Sqkm" desc=""/>
+        <constraint exp="" field="ArcAssocia" desc=""/>
+        <constraint exp="" field="CLon" desc=""/>
+        <constraint exp="" field="CLat" desc=""/>
+        <constraint exp="" field="DomainID" desc=""/>
+        <constraint exp="" field="DomainPare" desc=""/>
+        <constraint exp="" field="DomainPa_1" desc=""/>
+        <constraint exp="" field="Assoc2450" desc=""/>
+        <constraint exp="" field="GPGIM_TYPE" desc=""/>
       </constraintExpressions>
       <expressionfields/>
       <attributeactions>
-        <defaultAction value="{00000000-0000-0000-0000-000000000000}" key="Canvas"/>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
       <attributetableconfig sortOrder="0" sortExpression="" actionWidgetStyle="dropDown">
         <columns/>
@@ -1419,7 +1424,7 @@ def my_form_open(dialog, layer, feature):
       <previewExpression></previewExpression>
       <mapTip></mapTip>
     </maplayer>
-    <maplayer simplifyDrawingHints="1" refreshOnNotifyMessage="" autoRefreshEnabled="0" maxScale="0" simplifyAlgorithm="0" readOnly="0" styleCategories="AllStyleCategories" hasScaleBasedVisibilityFlag="0" labelsEnabled="0" simplifyDrawingTol="1" refreshOnNotifyEnabled="0" geometry="Polygon" minScale="1e+08" simplifyMaxScale="1" autoRefreshTime="0" type="vector" simplifyLocal="1">
+    <maplayer geometry="Polygon" autoRefreshEnabled="0" simplifyDrawingTol="1" autoRefreshTime="0" type="vector" hasScaleBasedVisibilityFlag="0" readOnly="0" refreshOnNotifyEnabled="0" maxScale="0" labelsEnabled="0" minScale="1e+08" simplifyDrawingHints="1" simplifyLocal="1" styleCategories="AllStyleCategories" simplifyMaxScale="1" simplifyAlgorithm="0" refreshOnNotifyMessage="">
       <extent>
         <xmin>-136.32436432413086891</xmin>
         <ymin>28.69840352400600736</ymin>
@@ -1485,8 +1490,8 @@ def my_form_open(dialog, layer, feature):
       </flags>
       <renderer-v2 symbollevels="0" enableorderby="0" type="singleSymbol" forceraster="0">
         <symbols>
-          <symbol force_rhr="0" name="0" clip_to_extent="1" alpha="1" type="fill">
-            <layer enabled="1" locked="0" pass="0" class="SimpleFill">
+          <symbol type="fill" force_rhr="0" name="0" clip_to_extent="1" alpha="1">
+            <layer locked="0" class="SimpleFill" enabled="1" pass="0">
               <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
               <prop v="141,90,153,255" k="color"/>
               <prop v="bevel" k="joinstyle"/>
@@ -1500,9 +1505,9 @@ def my_form_open(dialog, layer, feature):
               <prop v="solid" k="style"/>
               <data_defined_properties>
                 <Option type="Map">
-                  <Option value="" name="name" type="QString"/>
+                  <Option type="QString" name="name" value=""/>
                   <Option name="properties"/>
-                  <Option value="collection" name="type" type="QString"/>
+                  <Option type="QString" name="type" value="collection"/>
                 </Option>
               </data_defined_properties>
             </layer>
@@ -1536,31 +1541,31 @@ def my_form_open(dialog, layer, feature):
         </field>
       </fieldConfiguration>
       <aliases>
-        <alias name="" field="Id" index="0"/>
-        <alias name="" field="Unit" index="1"/>
+        <alias field="Id" index="0" name=""/>
+        <alias field="Unit" index="1" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <defaults>
-        <default expression="" field="Id" applyOnUpdate="0"/>
-        <default expression="" field="Unit" applyOnUpdate="0"/>
+        <default applyOnUpdate="0" field="Id" expression=""/>
+        <default applyOnUpdate="0" field="Unit" expression=""/>
       </defaults>
       <constraints>
         <constraint notnull_strength="0" field="Id" constraints="0" unique_strength="0" exp_strength="0"/>
         <constraint notnull_strength="0" field="Unit" constraints="0" unique_strength="0" exp_strength="0"/>
       </constraints>
       <constraintExpressions>
-        <constraint desc="" exp="" field="Id"/>
-        <constraint desc="" exp="" field="Unit"/>
+        <constraint exp="" field="Id" desc=""/>
+        <constraint exp="" field="Unit" desc=""/>
       </constraintExpressions>
       <expressionfields/>
       <attributeactions>
-        <defaultAction value="{00000000-0000-0000-0000-000000000000}" key="Canvas"/>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
       </attributeactions>
       <attributetableconfig sortOrder="0" sortExpression="" actionWidgetStyle="dropDown">
         <columns>
-          <column width="-1" name="Id" type="field" hidden="0"/>
-          <column width="243" name="Unit" type="field" hidden="0"/>
+          <column width="-1" type="field" name="Id" hidden="0"/>
+          <column width="243" type="field" name="Unit" hidden="0"/>
           <column width="-1" type="actions" hidden="1"/>
         </columns>
       </attributetableconfig>
@@ -1589,102 +1594,102 @@ def my_form_open(dialog, layer, feature):
     <layer id="PlatePolygons2016Continental_870d6b04_26e6_4abe_ab31_37363aa63ab1"/>
   </layerorder>
   <properties>
-    <Measurement>
-      <DistanceUnits type="QString">meters</DistanceUnits>
-      <AreaUnits type="QString">m2</AreaUnits>
-    </Measurement>
-    <WCSUrl type="QString"></WCSUrl>
-    <WMTSMinScale type="int">5000</WMTSMinScale>
-    <WMSKeywordList type="QStringList">
-      <value></value>
-    </WMSKeywordList>
-    <WMTSUrl type="QString"></WMTSUrl>
-    <WFSUrl type="QString"></WFSUrl>
-    <Measure>
-      <Ellipsoid type="QString">NONE</Ellipsoid>
-    </Measure>
     <WMSAddWktGeometry type="bool">false</WMSAddWktGeometry>
-    <WMSContactPerson type="QString"></WMSContactPerson>
-    <WMSRequestDefinedDataSources type="bool">false</WMSRequestDefinedDataSources>
-    <WMSContactPosition type="QString"></WMSContactPosition>
+    <DefaultStyles>
+      <ColorRamp type="QString"></ColorRamp>
+      <Line type="QString"></Line>
+      <RandomColors type="bool">true</RandomColors>
+      <Marker type="QString"></Marker>
+      <Opacity type="double">1</Opacity>
+      <Fill type="QString"></Fill>
+    </DefaultStyles>
     <WMSServiceTitle type="QString"></WMSServiceTitle>
-    <WFSTLayers>
-      <Update type="QStringList"/>
-      <Insert type="QStringList"/>
-      <Delete type="QStringList"/>
-    </WFSTLayers>
-    <WFSLayers type="QStringList"/>
-    <WMSFees type="QString">conditions unknown</WMSFees>
-    <Legend>
-      <filterByMap type="bool">false</filterByMap>
-    </Legend>
-    <WMTSPngLayers>
-      <Group type="QStringList"/>
-      <Layer type="QStringList"/>
-      <Project type="bool">false</Project>
-    </WMTSPngLayers>
-    <WMTSJpegLayers>
-      <Group type="QStringList"/>
-      <Layer type="QStringList"/>
-      <Project type="bool">false</Project>
-    </WMTSJpegLayers>
-    <WMSContactMail type="QString"></WMSContactMail>
-    <WMSContactOrganization type="QString"></WMSContactOrganization>
     <WMTSLayers>
       <Group type="QStringList"/>
       <Layer type="QStringList"/>
       <Project type="bool">false</Project>
     </WMTSLayers>
-    <WCSLayers type="QStringList"/>
-    <WMSUrl type="QString"></WMSUrl>
-    <PAL>
-      <DrawRectOnly type="bool">false</DrawRectOnly>
-      <SearchMethod type="int">0</SearchMethod>
-      <ShowingCandidates type="bool">false</ShowingCandidates>
-      <TextFormat type="int">0</TextFormat>
-      <CandidatesLine type="int">50</CandidatesLine>
-      <CandidatesPoint type="int">16</CandidatesPoint>
-      <ShowingAllLabels type="bool">false</ShowingAllLabels>
-      <CandidatesPolygon type="int">30</CandidatesPolygon>
-      <ShowingPartialsLabels type="bool">true</ShowingPartialsLabels>
-    </PAL>
-    <WMSSegmentizeFeatureInfoGeometry type="bool">false</WMSSegmentizeFeatureInfoGeometry>
-    <DefaultStyles>
-      <Opacity type="double">1</Opacity>
-      <ColorRamp type="QString"></ColorRamp>
-      <RandomColors type="bool">true</RandomColors>
-      <Line type="QString"></Line>
-      <Fill type="QString"></Fill>
-      <Marker type="QString"></Marker>
-    </DefaultStyles>
-    <WMSAccessConstraints type="QString">None</WMSAccessConstraints>
-    <WMSImageQuality type="int">90</WMSImageQuality>
+    <WFSLayers type="QStringList"/>
+    <Measure>
+      <Ellipsoid type="QString">NONE</Ellipsoid>
+    </Measure>
+    <WMSServiceCapabilities type="bool">false</WMSServiceCapabilities>
     <PositionPrecision>
       <DecimalPlaces type="int">2</DecimalPlaces>
       <DegreeFormat type="QString">MU</DegreeFormat>
       <Automatic type="bool">true</Automatic>
     </PositionPrecision>
-    <SpatialRefSys>
-      <ProjectionsEnabled type="int">1</ProjectionsEnabled>
-    </SpatialRefSys>
-    <WMSServiceCapabilities type="bool">false</WMSServiceCapabilities>
-    <WMSUseLayerIDs type="bool">false</WMSUseLayerIDs>
-    <WMSServiceAbstract type="QString"></WMSServiceAbstract>
     <Paths>
       <Absolute type="bool">false</Absolute>
     </Paths>
+    <WFSTLayers>
+      <Delete type="QStringList"/>
+      <Update type="QStringList"/>
+      <Insert type="QStringList"/>
+    </WFSTLayers>
+    <WCSUrl type="QString"></WCSUrl>
+    <WMTSJpegLayers>
+      <Group type="QStringList"/>
+      <Layer type="QStringList"/>
+      <Project type="bool">false</Project>
+    </WMTSJpegLayers>
+    <WMSRequestDefinedDataSources type="bool">false</WMSRequestDefinedDataSources>
+    <WMSUseLayerIDs type="bool">false</WMSUseLayerIDs>
+    <WMSOnlineResource type="QString"></WMSOnlineResource>
+    <WMSContactPhone type="QString"></WMSContactPhone>
+    <WMSServiceAbstract type="QString"></WMSServiceAbstract>
+    <WMSSegmentizeFeatureInfoGeometry type="bool">false</WMSSegmentizeFeatureInfoGeometry>
+    <WMTSUrl type="QString"></WMTSUrl>
+    <WMSKeywordList type="QStringList">
+      <value></value>
+    </WMSKeywordList>
+    <Measurement>
+      <DistanceUnits type="QString">meters</DistanceUnits>
+      <AreaUnits type="QString">m2</AreaUnits>
+    </Measurement>
+    <PAL>
+      <TextFormat type="int">0</TextFormat>
+      <ShowingCandidates type="bool">false</ShowingCandidates>
+      <ShowingAllLabels type="bool">false</ShowingAllLabels>
+      <DrawRectOnly type="bool">false</DrawRectOnly>
+      <ShowingPartialsLabels type="bool">true</ShowingPartialsLabels>
+      <SearchMethod type="int">0</SearchMethod>
+      <CandidatesPoint type="int">16</CandidatesPoint>
+      <CandidatesLine type="int">50</CandidatesLine>
+      <CandidatesPolygon type="int">30</CandidatesPolygon>
+    </PAL>
+    <WMSContactPosition type="QString"></WMSContactPosition>
+    <WMTSMinScale type="int">5000</WMTSMinScale>
+    <WMSUrl type="QString"></WMSUrl>
+    <WMSContactPerson type="QString"></WMSContactPerson>
+    <WFSUrl type="QString"></WFSUrl>
+    <WMSAccessConstraints type="QString">None</WMSAccessConstraints>
     <Gui>
-      <CanvasColorRedPart type="int">255</CanvasColorRedPart>
-      <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
-      <SelectionColorBluePart type="int">0</SelectionColorBluePart>
       <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+      <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+      <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+      <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+      <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
       <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
       <SelectionColorRedPart type="int">255</SelectionColorRedPart>
-      <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
     </Gui>
+    <WMTSPngLayers>
+      <Group type="QStringList"/>
+      <Layer type="QStringList"/>
+      <Project type="bool">false</Project>
+    </WMTSPngLayers>
+    <WCSLayers type="QStringList"/>
+    <WMSImageQuality type="int">90</WMSImageQuality>
+    <WMSFees type="QString">conditions unknown</WMSFees>
+    <WMSContactMail type="QString"></WMSContactMail>
+    <WMSContactOrganization type="QString"></WMSContactOrganization>
+    <SpatialRefSys>
+      <ProjectionsEnabled type="int">1</ProjectionsEnabled>
+    </SpatialRefSys>
     <WMSPrecision type="QString">8</WMSPrecision>
-    <WMSContactPhone type="QString"></WMSContactPhone>
-    <WMSOnlineResource type="QString"></WMSOnlineResource>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
     <Macros>
       <pythonCode type="QString"></pythonCode>
     </Macros>
