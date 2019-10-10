@@ -50,10 +50,10 @@
   <mapcanvas annotationsVisible="1" name="theMapCanvas">
     <units>meters</units>
     <extent>
-      <xmin>-2670248.85496976785361767</xmin>
-      <ymin>-665519.79414206370711327</ymin>
-      <xmax>6292131.82257866486907005</xmax>
-      <ymax>6010817.0392073867842555</ymax>
+      <xmin>2429238.42394209746271372</xmin>
+      <ymin>3314645.93604673072695732</ymin>
+      <xmax>3681439.17794807907193899</xmax>
+      <ymax>4247446.52971721906214952</ymax>
     </extent>
     <rotation>0</rotation>
     <destinationsrs>
@@ -262,8 +262,8 @@
       <extent>
         <xmin>-136.32436432413086891</xmin>
         <ymin>28.69840352400600736</ymin>
-        <xmax>-56.96303641853211985</xmax>
-        <ymax>74.18852605062490113</ymax>
+        <xmax>-0.0130208618937786</xmax>
+        <ymax>83.65833282470737231</ymax>
       </extent>
       <id>Laurentia_334c7448_8d75_45fc_a560_c3ec0418f210</id>
       <datasource>./Laurentia.shp|layername=Laurentia</datasource>
