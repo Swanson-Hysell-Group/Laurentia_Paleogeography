@@ -93,23 +93,47 @@
 1000 1800.0    0.2705    6.6469  277.5901  001 !Laurentia reconstructed using Dubawnt Group pole
 1000 1818.0   -0.0   18.0  270.0  001 !
 1000 1837.0   -0.0   20.0  290.0  001 !
-1013  0.0   90.0    0.0    0.0  1000 !Associate Superior Craton with Laurentia
-1013 1800.0   90.0    0.0    0.0  1000 !Associate Superior Craton with Laurentia
-1022  0.0   90.0    0.0    0.0  001 !hand-off Scotland to absolute reference frame
-1022 320.0   73.0   96.5  -22.0  1000 !
-1022 1800.0   73.0   96.5  -22.0  1000 !Rotate (proto-)Scotland to Laurentia-Greenland fit according to Darabi2004
-1201 250.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
-1201 1800.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
-1202 250.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
-1202 1800.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
-1203 250.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
-1203 1800.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
-1204 250.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
-1204 1800.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
-1205 250.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
-1205 1800.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
-1206 250.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
-1206 1800.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
+10015  0.0   90.0    0.0    0.0  1000 !Associate Hearne with Laurentia
+10015 1800.0   90.0    0.0    0.0  1000 !Associate Hearne with Laurentia
+10023  0.0   90.0    0.0    0.0  1000 !Associate Superior W with Laurentia
+10023 1800.0   90.0    0.0    0.0  1000 !Associate Superior W with Laurentia
+10029  0.0   90.0    0.0    0.0  1000 !Associate Nain with Laurentia
+10029 1800.0   90.0    0.0    0.0  1000 !Associate Nain with Laurentia
+10032  0.0   90.0    0.0    0.0  001 !Present-day Greenland position
+10032 65.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
+10032 1800.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
+10039  0.0   90.0    0.0    0.0  1000 !Associate Sask with Laurentia
+10039 1800.0   90.0    0.0    0.0  1000 !Associate Sask with Laurentia
+10041  0.0   90.0    0.0    0.0  1000 !Associate Slave with Laurentia
+10041 1800.0   90.0    0.0    0.0  1000 !Associate Slave with Laurentia
+10043  0.0   90.0    0.0    0.0  1000 !Associate Superior E with Laurentia
+10043 1800.0   90.0    0.0    0.0  1000 !Associate Superior E with Laurentia
+10049  0.0   90.0    0.0    0.0  1000 !Associate Wyoming with Laurentia
+10049 1800.0   90.0    0.0    0.0  1000 !Associate Wyoming with Laurentia
+10052  0.0   90.0    0.0    0.0  1000 !Associate Mojavia with Laurentia
+10052 1800.0   90.0    0.0    0.0  1000 !Associate Mojavia with Laurentia
+10258  0.0   90.0    0.0    0.0  001 !hand-off Scotland to absolute reference frame
+10258 320.0   73.0   96.5  -22.0  1000 !
+10258 1800.0   73.0   96.5  -22.0  1000 !Rotate (proto-)Scotland to Laurentia-Greenland fit according to Darabi2004
+10296  0.0   90.0    0.0    0.0  001 !
+10296 100.0  -54.13  141.9   36.9  001 !
+10296 100.1  -81.0  125.0   68.0  1000 !
+10296 400.0  -81.0  125.0   68.0  1000 !
+10296 1275.0  -81.0  125.0   68.0  1000 !Rotate Svalbard to Laurentia in fit that works well with East Greenland basin (Maloof et al., 2006 rotation)
+10496  0.0   90.0    0.0    0.0  1000 !Associate Churchill with Laurentia
+10496 1800.0   90.0    0.0    0.0  1000 !Associate Churchill E with Laurentia
+10545  0.0   90.0    0.0    0.0  1000 !Associate MetaIncognita with Laurentia
+10545 1800.0   90.0    0.0    0.0  1000 !Associate MetaIncognita with Laurentia
+10549  0.0   90.0    0.0    0.0  1000 !Associate Nova with Laurentia
+10549 1800.0   90.0    0.0    0.0  1000 !Associate Nova with Laurentia
+10551  0.0   90.0    0.0    0.0  10049 !Associate Medicine Hat Block with Wyoming
+10551  3000.0   90.0    0.0    0.0  10049 !Associate Medicine Hat Block with Wyoming
+10640  0.0   90.0    0.0    0.0  1000 !Associate Rae with Laurentia
+10640 1800.0   90.0    0.0    0.0  1000 !Associate Rae with Laurentia
+19000  0.0   90.0    0.0    0.0  10023 !Associate Marshfield Terrane with Superior W
+19000  3000.0   90.0    0.0    0.0  10023 !Associate Marshfield Terrane with Superior W
+19049  0.0   90.0    0.0    0.0  10049 !Associate Grouse Creek Block with Wyoming
+19049  3000.0   90.0    0.0    0.0  10049 !Associate Grouse Creek Block with Wyoming
 2201  0.0   90.0    0.0    0.0  7702 !
 2201  2.7   62.2  -39.4    0.83  7702 !Torsvik et al 2012, 2014
 2201  9.7   62.05  -40.59    3.18  7702 !Torsvik et al 2012, 2014
@@ -183,11 +207,6 @@
 3000 1120.0   81.5 -110.0  -50.0  1000 !Classic Baltica/Laurentia connection within Rodinia (rotation from Evans2009)
 3000 1274.99   47.51    1.53   48.99  1000 !hand-off of Baltica to Laurentia
 3000 1275.0   43.33  143.86  167.81  001 !Pehrsson2015 Baltica Euler for the end of their model
-3301  0.0   90.0    0.0    0.0  001 !
-3301 100.0  -54.13  141.9   36.9  001 !
-3301 100.1  -81.0  125.0   68.0  1000 !
-3301 400.0  -81.0  125.0   68.0  1000 !
-3301 1275.0  -81.0  125.0   68.0  1000 !Rotate Svalbard to Laurentia in fit that works well with East Greenland basin (Maloof et al., 2006 rotation)
 4306  0.0   90.0    0.0    0.0  3000 !Aldan (All of Siberia) in present day location
 4306 220.0   77.0  144.6    2.0  3000 !
 4306 250.0   77.0  144.6    2.0  3000 !SIB-EUR

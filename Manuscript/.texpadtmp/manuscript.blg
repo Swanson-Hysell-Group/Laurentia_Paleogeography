@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/superior/0000_Github/Laurentia_Paleogeography/Manuscript/.texpadtmp/manuscript.aux
+The style file: ../gsabull.bst
+Database file #1: ../../../references/allrefs.bib
+Repeated entry---line 11213 of file ../../../references/allrefs.bib
+ : @article{Evans2010a
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Skipton2016a"
+Warning--I didn't find a database entry for "Weller2017a"
+Warning--I didn't find a database entry for "St-Onge2009a"
+Warning--I didn't find a database entry for "Veikkolainen2013a"
+Warning--I didn't find a database entry for "Roest1989"
+Warning--I didn't find a database entry for "Torsvik2012"
+Warning--empty journal in Veikkolainen2014a
+You've used 55 entries,
+            2885 wiz_defined-function locations,
+            1064 strings with 24797 characters,
+and the built_in function-call counts, 59346 in all, are:
+= -- 6721
+> -- 1923
+< -- 106
++ -- 959
+- -- 645
+* -- 3433
+:= -- 6535
+add.period$ -- 55
+call.type$ -- 55
+change.case$ -- 490
+chr.to.int$ -- 55
+cite$ -- 56
+duplicate$ -- 5862
+empty$ -- 3044
+format.name$ -- 817
+if$ -- 11986
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 580
+newline$ -- 174
+num.names$ -- 220
+pop$ -- 2056
+preamble$ -- 1
+purify$ -- 434
+quote$ -- 0
+skip$ -- 3601
+stack$ -- 0
+substring$ -- 2906
+swap$ -- 5073
+text.length$ -- 86
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 492
+warning$ -- 1
+while$ -- 332
+width$ -- 0
+write$ -- 646
+(There was 1 error message)
