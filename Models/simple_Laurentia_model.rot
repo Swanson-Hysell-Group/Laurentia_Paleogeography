@@ -2,7 +2,7 @@
 001 788.0   90.0    0.0    0.0  000 !
 001 800.0    0.0  180.0  -50.0  000 !
 001 812.0   90.0    0.0    0.0  000 !
-001 1800.0   90.0    0.0    0.0  000 !
+001 2700.0   90.0    0.0    0.0  000 !
 1000  0.0   90.0    0.0    0.0  7703 !
 1000  5.0   80.9   22.8    1.3  7703 !From Torsvik+2012
 1000 10.0   80.9   22.9    2.6  7703 !From Torsvik+2012
@@ -97,6 +97,10 @@
 10015 1800.0   90.0    0.0    0.0  1000 !Associate Hearne with Laurentia
 10023  0.0   90.0    0.0    0.0  1000 !Associate Superior W with Laurentia
 10023 1800.0   90.0    0.0    0.0  1000 !Associate Superior W with Laurentia
+10023  0.0   90.0    0.0    0.0  10043 !Superior West to Superior East in present-day relative orientation
+10023 1880.0   90.0    0.0    0.0  10043 !Superior West to Superior East in present-day relative orientation
+10023 1900.0   51.0  -85.0  -14.0  10043 !Superior West to Superior East rotation following Evans and Halls (2010)
+10023 2700.0   51.0  -85.0  -14.0  10043 !Superior West to Superior East rotation following Evans and Halls (2010)
 10029  0.0   90.0    0.0    0.0  1000 !Associate Nain with Laurentia
 10029 1800.0   90.0    0.0    0.0  1000 !Associate Nain with Laurentia
 10032  0.0   90.0    0.0    0.0  001 !Present-day Greenland position
@@ -108,6 +112,20 @@
 10041 1800.0   90.0    0.0    0.0  1000 !Associate Slave with Laurentia
 10043  0.0   90.0    0.0    0.0  1000 !Associate Superior E with Laurentia
 10043 1800.0   90.0    0.0    0.0  1000 !Associate Superior E with Laurentia
+10043 1820.0   39.0 -122.0  120.0  001 !Sup E to Spin axis
+10043 1870.0   47.43 -126.51  164.35  001 !Calculated interactively by GPlates
+10043 1885.0   63.3 -146.17  187.49  001 !Calculated interactively by GPlates
+10043 1940.0   64.02 -162.68  110.06  001 !Calculated interactively by GPlates
+10043 1980.0   64.6  129.82   59.34  001 !Calculated interactively by GPlates
+10043 2000.0   34.76  103.59   54.82  001 !Calculated interactively by GPlates
+10043 2000.1   35.55  102.86   54.2  001 !Calculated interactively by GPlates
+10043 2070.0   52.4386  105.3984   56.7735  001 !Split difference between Lac Esprit and Fort Frances pole
+10043 2104.0   63.9809  105.4125   61.5536  001 !Constrained by Marathon R pole
+10043 2124.0   48.3072  118.9823   54.2691  001 !Constrained by Marathon N pole
+10043 2170.0    3.8461  136.4873   64.113  001 !Constrained by Biscotasing pole
+10043 2195.0  -19.7  157.09  116.21  001 !Calculated interactively by GPlates
+10043 2218.0  -18.0104  164.5801  114.0531  001 !Constrained by Senneterre and Nipissing N1 poles
+10043 2230.0  -14.0  166.0  111.0  001 !Sup E to Spin axis
 10049  0.0   90.0    0.0    0.0  1000 !Associate Wyoming with Laurentia
 10049 1800.0   90.0    0.0    0.0  1000 !Associate Wyoming with Laurentia
 10052  0.0   90.0    0.0    0.0  1000 !Associate Mojavia with Laurentia
@@ -127,13 +145,13 @@
 10549  0.0   90.0    0.0    0.0  1000 !Associate Nova with Laurentia
 10549 1800.0   90.0    0.0    0.0  1000 !Associate Nova with Laurentia
 10551  0.0   90.0    0.0    0.0  10049 !Associate Medicine Hat Block with Wyoming
-10551  3000.0   90.0    0.0    0.0  10049 !Associate Medicine Hat Block with Wyoming
+10551 3000.0   90.0    0.0    0.0  10049 !Associate Medicine Hat Block with Wyoming
 10640  0.0   90.0    0.0    0.0  1000 !Associate Rae with Laurentia
 10640 1800.0   90.0    0.0    0.0  1000 !Associate Rae with Laurentia
 19000  0.0   90.0    0.0    0.0  10023 !Associate Marshfield Terrane with Superior W
-19000  3000.0   90.0    0.0    0.0  10023 !Associate Marshfield Terrane with Superior W
+19000 3000.0   90.0    0.0    0.0  10023 !Associate Marshfield Terrane with Superior W
 19049  0.0   90.0    0.0    0.0  10049 !Associate Grouse Creek Block with Wyoming
-19049  3000.0   90.0    0.0    0.0  10049 !Associate Grouse Creek Block with Wyoming
+19049 3000.0   90.0    0.0    0.0  10049 !Associate Grouse Creek Block with Wyoming
 2201  0.0   90.0    0.0    0.0  7702 !
 2201  2.7   62.2  -39.4    0.83  7702 !Torsvik et al 2012, 2014
 2201  9.7   62.05  -40.59    3.18  7702 !Torsvik et al 2012, 2014
