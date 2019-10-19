@@ -91,45 +91,51 @@
 1000 1635.0  -17.631    9.1677  267.5615  001 !Laurentia reconstructed using Melville Bugt pole
 1000 1740.0   -5.3961   10.7109  289.4095  001 !Laurentia reconstructed using Cleaver dikes pole
 1000 1800.0    0.2705    6.6469  277.5901  001 !Laurentia reconstructed using Dubawnt Group pole
-1000 1818.0   -0.0   18.0  270.0  001 !
-1000 1837.0   -0.0   20.0  290.0  001 !
-10015  0.0   90.0    0.0    0.0  1000 !Associate Hearne with Laurentia
-10015 1800.0   90.0    0.0    0.0  1000 !Associate Hearne with Laurentia
-10023  0.0   90.0    0.0    0.0  1000 !Associate Superior W with Laurentia
-10023 1800.0   90.0    0.0    0.0  1000 !Associate Superior W with Laurentia
+1000 1827.0   14.7035    4.3031  277.4074  001 !
+1000 1850.0  -16.1676   -6.6018  262.3377  001 !Mirror Superior
+10015  0.0   90.0    0.0    0.0  10640 !Associate Hearne with Rae
+10015 1900.0   90.0    0.0    0.0  10640 !Associate Hearne with Rae
 10023  0.0   90.0    0.0    0.0  10043 !Superior West to Superior East in present-day relative orientation
 10023 1880.0   90.0    0.0    0.0  10043 !Superior West to Superior East in present-day relative orientation
 10023 1900.0   51.0  -85.0  -14.0  10043 !Superior West to Superior East rotation following Evans and Halls (2010)
 10023 2700.0   51.0  -85.0  -14.0  10043 !Superior West to Superior East rotation following Evans and Halls (2010)
 10029  0.0   90.0    0.0    0.0  1000 !Associate Nain with Laurentia
-10029 1800.0   90.0    0.0    0.0  1000 !Associate Nain with Laurentia
+10029 1850.0   90.0    0.0    0.0  1000 !Associate Nain with Laurentia
 10032  0.0   90.0    0.0    0.0  001 !Present-day Greenland position
 10032 65.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
-10032 1800.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
+10032 1850.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
 10039  0.0   90.0    0.0    0.0  1000 !Associate Sask with Laurentia
-10039 1800.0   90.0    0.0    0.0  1000 !Associate Sask with Laurentia
-10041  0.0   90.0    0.0    0.0  1000 !Associate Slave with Laurentia
-10041 1800.0   90.0    0.0    0.0  1000 !Associate Slave with Laurentia
+10039 1850.0   90.0    0.0    0.0  1000 !Associate Sask with Laurentia
+10041  0.0   90.0    0.0    0.0  10043 !Slave conjoined with Superior in Laurentia
+10041 1850.0   90.0    0.0    0.0  10043 !Conjoined with Superior craton
+10041 1851.0   16.2  173.4 -262.0  001 !Handoff of Slave from spin axis to Superior
+10041 1876.0   -5.2954    7.1759  247.6542  001 !Constrained by Pearson/Douglas
+10041 1885.0   -0.692   16.6252  267.8725  001 !Constrained by Ghost dikes
+10041 1900.0  -36.0   50.0  227.0  001 !
+10041 1960.0  -31.24   69.62  253.34  001 !Calculated interactively by GPlates
+10041 2020.0  -45.3   56.85  226.8  001 !Calculated interactively by GPlates
+10041 2120.0  -57.1   68.67  243.88  001 !Calculated interactively by GPlates
+10041 2160.0  -64.3   59.04  211.51  001 !Calculated interactively by GPlates
+10041 2170.0  -69.54   25.06  209.82  001 !Calculated interactively by GPlates
+10041 2195.0  -65.27  -45.18  188.15  001 !Calculated interactively by GPlates
+10041 2230.0  -71.0  -61.0  207.0  001 !Slav to ghost
 10043  0.0   90.0    0.0    0.0  1000 !Associate Superior E with Laurentia
-10043 1800.0   90.0    0.0    0.0  1000 !Associate Superior E with Laurentia
-10043 1820.0   39.0 -122.0  120.0  001 !Sup E to Spin axis
-10043 1870.0   47.43 -126.51  164.35  001 !Calculated interactively by GPlates
-10043 1885.0   63.3 -146.17  187.49  001 !Calculated interactively by GPlates
-10043 1940.0   64.02 -162.68  110.06  001 !Calculated interactively by GPlates
-10043 1980.0   64.6  129.82   59.34  001 !Calculated interactively by GPlates
-10043 2000.0   34.76  103.59   54.82  001 !Calculated interactively by GPlates
-10043 2000.1   35.55  102.86   54.2  001 !Calculated interactively by GPlates
-10043 2070.0   52.4386  105.3984   56.7735  001 !Split difference between Lac Esprit and Fort Frances pole
-10043 2104.0   63.9809  105.4125   61.5536  001 !Constrained by Marathon R pole
-10043 2124.0   48.3072  118.9823   54.2691  001 !Constrained by Marathon N pole
-10043 2170.0    3.8461  136.4873   64.113  001 !Constrained by Biscotasing pole
-10043 2195.0  -19.7  157.09  116.21  001 !Calculated interactively by GPlates
-10043 2218.0  -18.0104  164.5801  114.0531  001 !Constrained by Senneterre and Nipissing N1 poles
-10043 2230.0  -14.0  166.0  111.0  001 !Sup E to Spin axis
+10043 1849.0   51.996  -70.4105    0.0022  1000 !Associate Superior E with Laurentia
+10043 1850.0  -16.1676   -6.6018  262.3377  001 !Constrained by Haig pole
+10043 1869.0  -15.967   -8.1309  267.0186  001 !Constrained by Haig pole
+10043 1884.0  -16.5447  -39.9733  295.7424  001 !Constrained by Molson pole
+10043 1998.0  -39.6741  -74.6419  291.5472  001 !Constrained by Minto pole
+10043 2070.0  -52.4386  -74.6016  303.2265  001 !Split difference between Lac Esprit and Fort Frances pole
+10043 2104.0  -63.9809  -74.5875  298.4464  001 !Constrained by Marathon R pole
+10043 2124.0  -48.3072  -61.0177  305.7309  001 !Constrained by Marathon N pole
+10043 2170.0   -3.8461  -43.5127  295.887  001 !Constrained by Biscotasing pole
+10043 2195.0   19.7  -22.91  243.79  001 !Calculated interactively by GPlates
+10043 2218.0   18.0104  -15.4199  245.9469  001 !Constrained by Senneterre and Nipissing N1 poles
+10043 2230.0   14.0  -14.0  249.0  001 !Sup E to Spin axis
 10049  0.0   90.0    0.0    0.0  1000 !Associate Wyoming with Laurentia
-10049 1800.0   90.0    0.0    0.0  1000 !Associate Wyoming with Laurentia
+10049 1850.0   90.0    0.0    0.0  1000 !Associate Wyoming with Laurentia
 10052  0.0   90.0    0.0    0.0  1000 !Associate Mojavia with Laurentia
-10052 1800.0   90.0    0.0    0.0  1000 !Associate Mojavia with Laurentia
+10052 1850.0   90.0    0.0    0.0  1000 !Associate Mojavia with Laurentia
 10258  0.0   90.0    0.0    0.0  001 !hand-off Scotland to absolute reference frame
 10258 320.0   73.0   96.5  -22.0  1000 !
 10258 1800.0   73.0   96.5  -22.0  1000 !Rotate (proto-)Scotland to Laurentia-Greenland fit according to Darabi2004
@@ -139,15 +145,15 @@
 10296 400.0  -81.0  125.0   68.0  1000 !
 10296 1275.0  -81.0  125.0   68.0  1000 !Rotate Svalbard to Laurentia in fit that works well with East Greenland basin (Maloof et al., 2006 rotation)
 10496  0.0   90.0    0.0    0.0  1000 !Associate Churchill with Laurentia
-10496 1800.0   90.0    0.0    0.0  1000 !Associate Churchill E with Laurentia
+10496 1850.0   90.0    0.0    0.0  1000 !Associate Churchill E with Laurentia
 10545  0.0   90.0    0.0    0.0  1000 !Associate MetaIncognita with Laurentia
-10545 1800.0   90.0    0.0    0.0  1000 !Associate MetaIncognita with Laurentia
+10545 1850.0   90.0    0.0    0.0  1000 !Associate MetaIncognita with Laurentia
 10549  0.0   90.0    0.0    0.0  1000 !Associate Nova with Laurentia
-10549 1800.0   90.0    0.0    0.0  1000 !Associate Nova with Laurentia
+10549 1850.0   90.0    0.0    0.0  1000 !Associate Nova with Laurentia
 10551  0.0   90.0    0.0    0.0  10049 !Associate Medicine Hat Block with Wyoming
 10551 3000.0   90.0    0.0    0.0  10049 !Associate Medicine Hat Block with Wyoming
-10640  0.0   90.0    0.0    0.0  1000 !Associate Rae with Laurentia
-10640 1800.0   90.0    0.0    0.0  1000 !Associate Rae with Laurentia
+10640  0.0   90.0    0.0    0.0  10041 !Associate Rae with Slave
+10640 1900.0   90.0    0.0    0.0  10041 !Associate Rae with Slave
 19000  0.0   90.0    0.0    0.0  10023 !Associate Marshfield Terrane with Superior W
 19000 3000.0   90.0    0.0    0.0  10023 !Associate Marshfield Terrane with Superior W
 19049  0.0   90.0    0.0    0.0  10049 !Associate Grouse Creek Block with Wyoming
