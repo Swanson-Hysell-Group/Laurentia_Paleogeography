@@ -101,24 +101,31 @@
 10023 2700.0   51.0  -85.0  -14.0  10043 !Superior West to Superior East rotation following Evans and Halls (2010)
 10029  0.0   90.0    0.0    0.0  1000 !Associate Nain with Laurentia
 10029 1850.0   90.0    0.0    0.0  1000 !Associate Nain with Laurentia
-10032  0.0   90.0    0.0    0.0  001 !Present-day Greenland position
+10032  0.0   90.0    0.0    0.0  7703 !Present-day Greenland position
+10032 64.9   82.6    3.2   20.7  7703 !Mirror position of Laurentia from Torsvik+2012 at 65 Ma
 10032 65.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
 10032 1850.0   67.5 -118.5  -13.8  1000 !Rotation of Greenland to Laurentia
+10028  0.0   90.0    0.0    0.0  10032 !Associate Greenland_Aasiaat with Greenland_NorthAtlantic
+10028 1850.0   90.0    0.0    0.0  10032 !Associate Greenland_Aasiaat with Greenland_NorthAtlantic
+10568  0.0   90.0    0.0    0.0  10032 !Associate Greenland_Inglefield with Greenland_NorthAtlantic
+10568 1850.0   90.0    0.0    0.0  10032 !Associate Greenland_Inglefield with Greenland_NorthAtlantic
+10018  0.0   90.0    0.0    0.0  10032 !Associate Greenland_Ketilidian with Greenland_NorthAtlantic
+10018 1850.0   90.0    0.0    0.0  10032 !Associate Greenland_Ketilidian with Greenland_NorthAtlantic
+10036  0.0   90.0    0.0    0.0  10032 !Associate Greenland_Rae with Greenland_NorthAtlantic
+10036 1850.0   90.0    0.0    0.0  10032 !Associate Greenland_Rae with Greenland_NorthAtlantic
 10039  0.0   90.0    0.0    0.0  1000 !Associate Sask with Laurentia
 10039 1850.0   90.0    0.0    0.0  1000 !Associate Sask with Laurentia
 10041  0.0   90.0    0.0    0.0  10043 !Slave conjoined with Superior in Laurentia
 10041 1850.0   90.0    0.0    0.0  10043 !Conjoined with Superior craton
 10041 1851.0   16.2  173.4 -262.0  001 !Handoff of Slave from spin axis to Superior
 10041 1876.0   -5.2954    7.1759  247.6542  001 !Constrained by Pearson/Douglas
-10041 1885.0   -0.692   16.6252  267.8725  001 !Constrained by Ghost dikes
-10041 1900.0  -36.0   50.0  227.0  001 !
-10041 1960.0  -31.24   69.62  253.34  001 !Calculated interactively by GPlates
-10041 2020.0  -45.3   56.85  226.8  001 !Calculated interactively by GPlates
-10041 2120.0  -57.1   68.67  243.88  001 !Calculated interactively by GPlates
-10041 2160.0  -64.3   59.04  211.51  001 !Calculated interactively by GPlates
-10041 2170.0  -69.54   25.06  209.82  001 !Calculated interactively by GPlates
-10041 2195.0  -65.27  -45.18  188.15  001 !Calculated interactively by GPlates
-10041 2230.0  -71.0  -61.0  207.0  001 !Slav to ghost
+10041 1885.0    3.6429    9.9076  263.6634  001 !Constrained by Ghost dikes
+10041 1917.0   30.7342   10.9662  260.0338  001 !Constrained by Rae craton Clearwater pole
+10041 1963.0   35.0797   37.8697  262.3183  001 !Constrained by Rifle Pole
+10041 2026.0  -18.8296   14.081  276.4853  001 !Constrained by Lac de Gras pole
+10041 2126.0  -13.9998   15.4814  226.1721  001 !Constrained by Indin pole
+10041 2193.0    6.7866   33.2597  237.5969  001 !Constrained by Dogrib pole
+10041 2230.0    2.7795   32.3223  218.7823  001 !Constrained by Malley pole
 10043  0.0   90.0    0.0    0.0  1000 !Associate Superior E with Laurentia
 10043 1849.0   51.996  -70.4105    0.0022  1000 !Associate Superior E with Laurentia
 10043 1850.0  -16.1676   -6.6018  262.3377  001 !Constrained by Haig pole
@@ -154,6 +161,7 @@
 10551 3000.0   90.0    0.0    0.0  10049 !Associate Medicine Hat Block with Wyoming
 10640  0.0   90.0    0.0    0.0  10041 !Associate Rae with Slave
 10640 1900.0   90.0    0.0    0.0  10041 !Associate Rae with Slave
+10640 1917.0   90.0    0.0    0.0  10041 !Associate Rae with Slave
 19000  0.0   90.0    0.0    0.0  10023 !Associate Marshfield Terrane with Superior W
 19000 3000.0   90.0    0.0    0.0  10023 !Associate Marshfield Terrane with Superior W
 19049  0.0   90.0    0.0    0.0  10049 !Associate Grouse Creek Block with Wyoming
@@ -323,7 +331,6 @@
 5501 132.1    4.76 -165.5   88.01  8801 !
 5501 160.0    4.7 -165.5   88.25  8801 !This is tricky - India rifting with Mad and Ant and then link back to SAfr
 5501 160.1   29.9   42.3  -60.5  7702 !
-5501 550.0   29.9   42.3  -60.5  7702 !
 5501 550.0   29.9   42.3  -60.5  7702 !
 5501 600.0   19.54   58.3  -79.89  7702 !
 5501 600.1   48.97  -76.38  -47.78  001 !Torsvik et al 2012, 2014
