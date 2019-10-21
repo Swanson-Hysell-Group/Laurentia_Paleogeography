@@ -2,9 +2,9 @@
 <gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0334" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-83745a2d-cbf9-404a-80af-7d936071c33f</gpml:identity>
-            <gpml:revision>GPlates-022433d9-324b-4c32-942f-970c5637ef87</gpml:revision>
-            <gml:name>Otto Stock Dykes and Aureole</gml:name>
+            <gpml:identity>GPlates-714f6534-8ccc-4d6f-861e-d204530346bf</gpml:identity>
+            <gpml:revision>GPlates-9f610b00-fdbb-4ae8-b7bc-ee0b94eb1185</gpml:revision>
+            <gml:name>Otto Stock dykes and aureole</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10043</gpml:value>
@@ -37,9 +37,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-4c1f077a-5d50-4aa7-9406-0ab63bcd4e83</gpml:identity>
-            <gpml:revision>GPlates-f980e474-da01-4a22-ad50-9ae405dad629</gpml:revision>
-            <gml:name>PTARMIGAN MEAN</gml:name>
+            <gpml:identity>GPlates-0438ccf8-8c8e-4215-ad67-473518045176</gpml:identity>
+            <gpml:revision>GPlates-341d2adc-1de9-4255-aee1-1c275e90068f</gpml:revision>
+            <gml:name>Ptarmigan-Mistassini dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10043</gpml:value>
@@ -72,9 +72,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-b07a3b9c-a1c1-4baa-8ab3-cbeabce9c1b6</gpml:identity>
-            <gpml:revision>GPlates-a278a357-7d4b-4ee7-8a4f-09818413b8d8</gpml:revision>
-            <gml:name>MATACHEWAN R</gml:name>
+            <gpml:identity>GPlates-54931c7c-2c78-423e-b0b3-a1b6100392a5</gpml:identity>
+            <gpml:revision>GPlates-8a20370a-e191-4dc2-b23a-15a07d738c95</gpml:revision>
+            <gml:name>Matachewan dykes R</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10043</gpml:value>
@@ -107,9 +107,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-c4480b14-cb9e-4606-af34-9abede01af16</gpml:identity>
-            <gpml:revision>GPlates-0800e0dd-94f6-4687-9c9b-5cd25a7878c0</gpml:revision>
-            <gml:name>MATACHEWAN N</gml:name>
+            <gpml:identity>GPlates-7085cd0a-3d66-412b-9ba6-5e25880607b2</gpml:identity>
+            <gpml:revision>GPlates-d5ca3544-cc5e-4dcb-9b5f-e77bb6a4e5ae</gpml:revision>
+            <gml:name>Matachewan dykes N</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10043</gpml:value>
@@ -142,9 +142,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-9bcca39a-5abd-44f1-affa-aaf9d6331770</gpml:identity>
-            <gpml:revision>GPlates-849730ac-0404-4fd6-9e1c-78be2420f740</gpml:revision>
-            <gml:name>Senneterre</gml:name>
+            <gpml:identity>GPlates-b5c73927-230f-46ba-9d82-79cbdb4d1a13</gpml:identity>
+            <gpml:revision>GPlates-ca4d113f-7409-4c8f-bde5-ab139ecc153f</gpml:revision>
+            <gml:name>Senneterre dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10043</gpml:value>
@@ -177,9 +177,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-1f6e6054-d352-4462-88ba-d6de12e52e10</gpml:identity>
-            <gpml:revision>GPlates-f0b98f4c-042a-4453-b1da-dafe37ec5e99</gpml:revision>
-            <gml:name>Nipissing N1</gml:name>
+            <gpml:identity>GPlates-35e8df4b-eb04-4ba3-91c2-09c649ec5565</gpml:identity>
+            <gpml:revision>GPlates-18d53892-5a5d-4cce-a9b1-545b860542a7</gpml:revision>
+            <gml:name>Nipissing N1 sills</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10043</gpml:value>
@@ -212,9 +212,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-f81111d6-d801-4955-8452-b84495d6b540</gpml:identity>
-            <gpml:revision>GPlates-719f878c-f27b-4bc1-8378-333910416365</gpml:revision>
-            <gml:name>Biscotasing</gml:name>
+            <gpml:identity>GPlates-3cda1ca5-14da-4621-9a93-2ff3c90ed303</gpml:identity>
+            <gpml:revision>GPlates-55b591be-9bef-4234-9f6d-df0ae0e9efa0</gpml:revision>
+            <gml:name>Biscotasing dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10043</gpml:value>
@@ -247,9 +247,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-6e442f6a-b823-468a-9c0a-1712ceed1762</gpml:identity>
-            <gpml:revision>GPlates-cdf1a939-58d3-4ada-b715-90f82820da12</gpml:revision>
-            <gml:name>LAC ESPRIT</gml:name>
+            <gpml:identity>GPlates-b546ade8-6499-4fe7-a8b5-09c678807858</gpml:identity>
+            <gpml:revision>GPlates-b0fdbcd8-b7ce-4dd2-83b9-7d9523a2212b</gpml:revision>
+            <gml:name>Lac Esprit dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10043</gpml:value>
@@ -282,9 +282,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-4b8c779e-c6a7-4774-aa06-3a2fca27b7de</gpml:identity>
-            <gpml:revision>GPlates-b85e205d-9b58-4ae2-9825-5568aec1c6df</gpml:revision>
-            <gml:name>MINTO</gml:name>
+            <gpml:identity>GPlates-66615779-0839-4ff0-bd40-40803449a647</gpml:identity>
+            <gpml:revision>GPlates-a1e0015d-c518-4232-aa65-aba67257f6b6</gpml:revision>
+            <gml:name>Minto dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10043</gpml:value>
@@ -317,9 +317,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-acd23e1e-ec9f-418f-bb2f-15c5c2dbea29</gpml:identity>
-            <gpml:revision>GPlates-9c49f623-382d-43c7-92f0-60e6c460838d</gpml:revision>
-            <gml:name>MARATHON N</gml:name>
+            <gpml:identity>GPlates-d1cf59d4-62e2-4249-b88c-bd3e9c9872b7</gpml:identity>
+            <gpml:revision>GPlates-e231ac32-db8d-4675-a2f3-ef068b2eb167</gpml:revision>
+            <gml:name>Marathon dykes N</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10023</gpml:value>
@@ -352,9 +352,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-0f2ca83f-3d8e-48e5-949e-615267a4242a</gpml:identity>
-            <gpml:revision>GPlates-a2087968-0673-4533-b9f3-48f0ea219c30</gpml:revision>
-            <gml:name>MARATHON R</gml:name>
+            <gpml:identity>GPlates-b7fc5fee-5db4-4b62-841d-3d8ecd0727d6</gpml:identity>
+            <gpml:revision>GPlates-c84ec12a-b68e-4f54-859d-d957584e4cbb</gpml:revision>
+            <gml:name>Marathon dykes R</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10023</gpml:value>
@@ -387,9 +387,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-0ba32096-9080-4f6a-b719-403ee7a2bce6</gpml:identity>
-            <gpml:revision>GPlates-e5bb7f8a-c9f3-4dd6-923e-401389f37996</gpml:revision>
-            <gml:name>CAUCHON LAKE</gml:name>
+            <gpml:identity>GPlates-1f2c990d-a0b9-4a91-adef-24676222786d</gpml:identity>
+            <gpml:revision>GPlates-ce755b14-f204-4e40-97df-3c0113044a0d</gpml:revision>
+            <gml:name>Cauchon Lake dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10023</gpml:value>
@@ -422,9 +422,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-4c93dde6-55ab-4094-846e-349b84d40d1b</gpml:identity>
-            <gpml:revision>GPlates-64c54a69-8e2d-4815-a795-74ce636566b1</gpml:revision>
-            <gml:name>FORT FRANCES</gml:name>
+            <gpml:identity>GPlates-15c9989d-15e3-4912-b0ff-e40478fc5c66</gpml:identity>
+            <gpml:revision>GPlates-9653c96c-beff-447b-9e2a-a989d28720dd</gpml:revision>
+            <gml:name>Fort Frances dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10023</gpml:value>
@@ -457,9 +457,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-5005f641-290d-4d35-86fc-d4d3c78f43a2</gpml:identity>
-            <gpml:revision>GPlates-df556782-0e68-4978-933f-3912ef5e836b</gpml:revision>
-            <gml:name>MOLSON B+C2</gml:name>
+            <gpml:identity>GPlates-9e6bcc7d-1b8d-431b-9800-b118abceae7e</gpml:identity>
+            <gpml:revision>GPlates-a6a3d960-7147-469f-8524-1bc7e00b7552</gpml:revision>
+            <gml:name>Molson (B+C2) dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10023</gpml:value>
@@ -492,9 +492,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-c126aba9-2d51-49c0-8b43-80f33551e233</gpml:identity>
-            <gpml:revision>GPlates-fb1dbbd4-9f9e-42a8-9d9d-238e4915d070</gpml:revision>
-            <gml:name>MEAN Haig/Flaherty/Sutton</gml:name>
+            <gpml:identity>GPlates-dbb27552-8208-4f50-b97f-820dca7cfec3</gpml:identity>
+            <gpml:revision>GPlates-0ef356cb-676e-4b6a-87db-da6dd59b3b2f</gpml:revision>
+            <gml:name>Haig/Flaherty/Sutton Mean </gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10023</gpml:value>
@@ -527,8 +527,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-6e26abce-4f39-4898-87ab-0024bb145aad</gpml:identity>
-            <gpml:revision>GPlates-fd73c7c6-e80a-4c65-b098-9bfd3e2638ec</gpml:revision>
+            <gpml:identity>GPlates-01125f8c-c694-4f90-88f3-ab3d62f66a9f</gpml:identity>
+            <gpml:revision>GPlates-6d90834b-c8be-4221-bfee-dacee23e656d</gpml:revision>
             <gml:name>Stillwater Complex - C2</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -562,8 +562,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-db20e379-3b94-48f1-9de0-573410c0fb4a</gpml:identity>
-            <gpml:revision>GPlates-f6779181-9c20-4d81-8038-1a0ef9381988</gpml:revision>
+            <gpml:identity>GPlates-52543513-4aaa-404a-aa8b-00e122748fd9</gpml:identity>
+            <gpml:revision>GPlates-25490f63-d947-4e06-bb31-f23ada0a3ba9</gpml:revision>
             <gml:name>Rabbit Creek, Powder River and South Path Dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -597,8 +597,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-0bd904ff-29d4-4ff0-8f34-d10933aa66f7</gpml:identity>
-            <gpml:revision>GPlates-b30cf8ed-02f5-4da1-aaf7-c2c742c3e3ef</gpml:revision>
+            <gpml:identity>GPlates-7c40c01e-efa3-4716-99e7-d6dec1267ff1</gpml:identity>
+            <gpml:revision>GPlates-0b979be4-a429-4d72-9b66-29bcea4bed0b</gpml:revision>
             <gml:name>Sourdough mafic dike swarm</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -632,8 +632,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-bedaec85-3d13-4b84-900d-014a70f7a12b</gpml:identity>
-            <gpml:revision>GPlates-ea43f05a-41cb-4df0-9b32-e3c767757314</gpml:revision>
+            <gpml:identity>GPlates-f05e51c2-78a8-4200-93ec-5242861b82f0</gpml:identity>
+            <gpml:revision>GPlates-e51daa06-bbc1-4e44-94f0-53eb44da274b</gpml:revision>
             <gml:name>Boot-Phantom Pluton</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -667,8 +667,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-7a986614-877d-4695-b715-2c4f473f4539</gpml:identity>
-            <gpml:revision>GPlates-69edf233-2a3b-4050-a444-e35fc28d2b56</gpml:revision>
+            <gpml:identity>GPlates-3352a9b4-83aa-48a6-bb92-b44f905339d4</gpml:identity>
+            <gpml:revision>GPlates-232ebb5a-96f5-4e5f-9201-1176b03a22e9</gpml:revision>
             <gml:name>Deschambault Pegmatites</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -702,8 +702,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-9e460c2e-3e9c-4599-b961-ae008a69a701</gpml:identity>
-            <gpml:revision>GPlates-227a466e-f1dd-4c37-a397-c324779e0120</gpml:revision>
+            <gpml:identity>GPlates-fa81fbae-bb60-41c7-ba10-dd404179f984</gpml:identity>
+            <gpml:revision>GPlates-09392fa4-d237-498f-88a8-0b1d06a538bd</gpml:revision>
             <gml:name>Jan Lake Granite</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -737,8 +737,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-6f5e5867-9fc9-4db1-a8ba-ab8bbb917c98</gpml:identity>
-            <gpml:revision>GPlates-5c2b7269-0909-46ab-af7c-baad8a1cf3c7</gpml:revision>
+            <gpml:identity>GPlates-0daf4686-55aa-439d-98f5-da65358253f9</gpml:identity>
+            <gpml:revision>GPlates-b0794bad-7333-4d21-92d9-f468c00d8fc0</gpml:revision>
             <gml:name>Clearwater Anorthosite</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -772,8 +772,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-a27636f1-3d79-411b-8f35-91f1e2172032</gpml:identity>
-            <gpml:revision>GPlates-096a6a95-c51c-457b-b332-f5043528a16a</gpml:revision>
+            <gpml:identity>GPlates-8d9a6a91-469b-4d85-a40c-060b98934b71</gpml:identity>
+            <gpml:revision>GPlates-e2237684-dc7b-411c-9539-0c6e512e1063</gpml:revision>
             <gml:name>Sparrow Dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -807,8 +807,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-449fc4f3-61d7-42f8-b0f0-31424434097b</gpml:identity>
-            <gpml:revision>GPlates-42765db7-90cb-4270-9f3a-cf7cc00c294a</gpml:revision>
+            <gpml:identity>GPlates-ac0b3267-48d6-4591-a4d6-b522b13c169e</gpml:identity>
+            <gpml:revision>GPlates-fb9b5ff2-cc0a-4a53-b203-536b7deb6a8a</gpml:revision>
             <gml:name>Martin Formation</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -842,8 +842,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-75a404de-68eb-46c3-8d57-b4c93d139823</gpml:identity>
-            <gpml:revision>GPlates-fae4c05c-85a2-424d-a3b3-a4e4f75853c9</gpml:revision>
+            <gpml:identity>GPlates-5477c2ae-6642-4c15-8509-5afa089e1482</gpml:identity>
+            <gpml:revision>GPlates-c9901937-8a72-4680-b9c2-cc569df3f478</gpml:revision>
             <gml:name>Defeat Suite</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -877,8 +877,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-c9249d45-4476-4474-8bf7-7fe12b436f91</gpml:identity>
-            <gpml:revision>GPlates-0c8b9b1e-19e9-40f4-9231-7e000fdd645d</gpml:revision>
+            <gpml:identity>GPlates-592a5387-725a-42a8-b4d3-e4808cc93fcd</gpml:identity>
+            <gpml:revision>GPlates-b696221a-eb53-424d-ad6c-941eed8db6fb</gpml:revision>
             <gml:name>Malley dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -912,8 +912,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-0559c96b-7996-44d4-9a21-8596805bd0eb</gpml:identity>
-            <gpml:revision>GPlates-d3ce39e1-430f-46e4-b367-d2c8c378cf77</gpml:revision>
+            <gpml:identity>GPlates-916444c9-c9b9-408d-8e8b-1728d25d5552</gpml:identity>
+            <gpml:revision>GPlates-b9aab11d-91b2-4dda-bf29-34f3f20114b5</gpml:revision>
             <gml:name>Dogrib dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -947,8 +947,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-e07be1e4-cfb3-4ae6-ac0e-f447a61001cb</gpml:identity>
-            <gpml:revision>GPlates-242d6317-e5bc-4acb-bf73-139ae8f83b84</gpml:revision>
+            <gpml:identity>GPlates-542beefe-1702-4a5d-a8b0-f3451e895afd</gpml:identity>
+            <gpml:revision>GPlates-baf481e0-e4ea-4428-a6b7-78761c937cdc</gpml:revision>
             <gml:name>Indin dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -982,8 +982,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-44fbaadd-3695-4695-8044-6dcda72be5f7</gpml:identity>
-            <gpml:revision>GPlates-93c9d3b0-67cc-4a31-ab71-9c28d4b8a448</gpml:revision>
+            <gpml:identity>GPlates-8c056c48-be1f-44db-a5d1-284ac02c857c</gpml:identity>
+            <gpml:revision>GPlates-6ea3a55d-4c3c-470e-871d-25eb2f1d42e8</gpml:revision>
             <gml:name>Lac de Gras dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1017,9 +1017,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-aaa1041b-ffb9-4914-9280-4f6b7f23467c</gpml:identity>
-            <gpml:revision>GPlates-c6c3aa01-9635-407c-839b-80f24f673caa</gpml:revision>
-            <gml:name>Rifle (Western River) Formation</gml:name>
+            <gpml:identity>GPlates-d6ff8a94-0485-4947-b17e-9ea9a4dde9ab</gpml:identity>
+            <gpml:revision>GPlates-1dda9ce6-6d8d-4fcb-b003-323c8d31cfd0</gpml:revision>
+            <gml:name>Rifle Formation</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10041</gpml:value>
@@ -1052,8 +1052,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-9adecf7b-8aa9-4a01-a887-9fbf92b7b946</gpml:identity>
-            <gpml:revision>GPlates-c61d3549-a344-4273-a08c-352131e7728b</gpml:revision>
+            <gpml:identity>GPlates-de08bc4a-4ed0-4232-8459-dec3d67d97e5</gpml:identity>
+            <gpml:revision>GPlates-e3fff5fd-017d-4a60-a684-85853aae3a0b</gpml:revision>
             <gml:name>Ghost Dike Swarm</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1087,9 +1087,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-def8999b-9295-4800-8710-d327702ac439</gpml:identity>
-            <gpml:revision>GPlates-165268ad-59db-477c-8fdb-20eb9c9fbaf0</gpml:revision>
-            <gml:name>MEAN Seton/Akaitcho/Mara</gml:name>
+            <gpml:identity>GPlates-f0e89f43-bc39-4a11-ab4b-2029468c3b42</gpml:identity>
+            <gpml:revision>GPlates-27769a56-2c80-4de9-b4a9-cd3440f1df2d</gpml:revision>
+            <gml:name>Mean Seton/Akaitcho/Mara</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10041</gpml:value>
@@ -1122,9 +1122,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-f6b13bb2-6115-477e-9df7-a11dfc3876fd</gpml:identity>
-            <gpml:revision>GPlates-f778a6f7-8623-4d57-abd7-e3b7cdcd99aa</gpml:revision>
-            <gml:name>MEAN Kahochella, Peacock Hills</gml:name>
+            <gpml:identity>GPlates-3c8b041c-dcb5-4b40-a609-571d49ea47bf</gpml:identity>
+            <gpml:revision>GPlates-f8a8cf29-653f-4a0c-8cdd-55906acc9bc2</gpml:revision>
+            <gml:name>Mean Kahochella, Peacock Hills</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10041</gpml:value>
@@ -1157,8 +1157,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-0164e59a-a3cf-43e7-80a7-59985333d1f1</gpml:identity>
-            <gpml:revision>GPlates-a555cbf3-b24c-4652-b50b-fc507ba2176a</gpml:revision>
+            <gpml:identity>GPlates-d8bb68be-14bb-4d64-8491-9c08dc27c761</gpml:identity>
+            <gpml:revision>GPlates-02c10fe2-5903-48bf-a110-2ddef0ff96a8</gpml:revision>
             <gml:name>Douglas Peninsula Formation, Pethei Group</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1192,8 +1192,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-bc6f1597-bb4a-4317-8d54-88fb928ae56b</gpml:identity>
-            <gpml:revision>GPlates-67215c02-d6e2-42b2-acd1-1a0e3e6ee71e</gpml:revision>
+            <gpml:identity>GPlates-19f1199e-6faf-4c7c-9d29-508088b505e8</gpml:identity>
+            <gpml:revision>GPlates-1b9b9ed5-19ba-4d99-a64a-12e832b5cf28</gpml:revision>
             <gml:name>Takiyuak Formation</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1227,9 +1227,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-246ac1e9-636f-4365-9bf9-f1408cc6c383</gpml:identity>
-            <gpml:revision>GPlates-1df9fdba-461f-47b4-ad36-2a1721613f29</gpml:revision>
-            <gml:name>MEAN Pearson A/Peninsular sill/Kilohigok basin sill</gml:name>
+            <gpml:identity>GPlates-79985109-f70e-408a-b5a5-0b3561b3089b</gpml:identity>
+            <gpml:revision>GPlates-4c90b677-a83a-45c8-b3c8-f80c8cf8f304</gpml:revision>
+            <gml:name>Pearson A/Peninsular/Kilohigok sills</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10041</gpml:value>
@@ -1262,8 +1262,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-e47a25f3-1441-44d9-a406-ff376831bae1</gpml:identity>
-            <gpml:revision>GPlates-1f3ab847-8d1e-4b92-bd93-f8c0cbf98a3b</gpml:revision>
+            <gpml:identity>GPlates-bf4812c8-c689-4736-b028-ebc242668f92</gpml:identity>
+            <gpml:revision>GPlates-78409d99-7a39-48f2-adff-ca036ece18ba</gpml:revision>
             <gml:name>Dubawnt Group</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1297,8 +1297,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-77fdba70-eb51-4470-ad0b-d3b8663198d1</gpml:identity>
-            <gpml:revision>GPlates-4bfa4169-10e5-45fe-ac52-3f645e326973</gpml:revision>
+            <gpml:identity>GPlates-555f3391-9ab0-4924-b75c-d91ceadf42b3</gpml:identity>
+            <gpml:revision>GPlates-67c28614-2951-4391-9ef1-bbe45d5dce42</gpml:revision>
             <gml:name>Cleaver Dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1332,8 +1332,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-4fd67ce7-07cb-443e-8223-bd52fbac4c09</gpml:identity>
-            <gpml:revision>GPlates-5b435d8c-d33b-4cac-9bca-12efaf5d66fd</gpml:revision>
+            <gpml:identity>GPlates-d15e77ea-b940-41ec-ad76-d53ce41cffeb</gpml:identity>
+            <gpml:revision>GPlates-8fefed50-a718-4c97-9d26-0ea3e07e2bd6</gpml:revision>
             <gml:name>Western Channel Diabase</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1367,8 +1367,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-5ddba284-13b3-49f0-b81c-23810433c89c</gpml:identity>
-            <gpml:revision>GPlates-65f4dc99-a8b3-44cc-a965-ab0d7c4a9509</gpml:revision>
+            <gpml:identity>GPlates-5784afbc-6fe7-43f0-9204-56cba771d46a</gpml:identity>
+            <gpml:revision>GPlates-3118625d-b697-43c9-8c80-dc7ce7acff74</gpml:revision>
             <gml:name>St.Francois Mountains Acidic Rocks</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1402,9 +1402,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-7f7e24de-eaf6-40c9-b0c6-b98ee50824cf</gpml:identity>
-            <gpml:revision>GPlates-a99d1b7b-d727-44d8-93a9-2e9ff48abba9</gpml:revision>
-            <gml:name>Michikamau Intrusion Combined</gml:name>
+            <gpml:identity>GPlates-15810b23-f8bb-456c-8cc3-87ea0654bc45</gpml:identity>
+            <gpml:revision>GPlates-77949df7-972c-4b98-8d50-4ccba0dc9085</gpml:revision>
+            <gml:name>Michikamau Intrusion</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1000</gpml:value>
@@ -1437,8 +1437,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-164420f5-aaba-4afe-8a12-cff563993bed</gpml:identity>
-            <gpml:revision>GPlates-fe9f56ad-db53-4133-9e65-84f07426ed5e</gpml:revision>
+            <gpml:identity>GPlates-15a426b9-2cb6-47bd-aeca-bd59cb4a6970</gpml:identity>
+            <gpml:revision>GPlates-1f796a6c-70f3-43e4-abd6-fb5a4f8f975d</gpml:revision>
             <gml:name>Spokane Formation</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1472,8 +1472,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-0fb5b676-994d-4cdb-9504-33a3c96e1bda</gpml:identity>
-            <gpml:revision>GPlates-4fb01d40-a76c-4654-b984-f93b3c794b04</gpml:revision>
+            <gpml:identity>GPlates-55bd8536-5ce0-495b-ba22-7fcd78cdc9dc</gpml:identity>
+            <gpml:revision>GPlates-c5b3255d-4255-4f85-be41-ec5017e8009e</gpml:revision>
             <gml:name>Snowslip Formation</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1507,9 +1507,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-bb7120a2-d089-487c-aa9e-24027c4c792d</gpml:identity>
-            <gpml:revision>GPlates-0afb1a77-4d9e-4953-89bd-8ec704f9f02e</gpml:revision>
-            <gml:name>Tobacco Root Dykes - A combined</gml:name>
+            <gpml:identity>GPlates-794f7d04-6e13-49c4-8228-be7b3c2f59ec</gpml:identity>
+            <gpml:revision>GPlates-5434ed74-bcd7-4b3b-8e54-07b513179b04</gpml:revision>
+            <gml:name>Tobacco Root dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1000</gpml:value>
@@ -1542,8 +1542,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-8fab5087-4fce-4ba3-8ca9-76a37747896c</gpml:identity>
-            <gpml:revision>GPlates-b9d24b95-fc7c-4545-a761-53d68d277b31</gpml:revision>
+            <gpml:identity>GPlates-ccd09e91-8aeb-4cb5-82c9-e0fd2a2bd3db</gpml:identity>
+            <gpml:revision>GPlates-14b7ac6e-3cda-4f4e-a1d1-f28f7324569c</gpml:revision>
             <gml:name>Purcell Lava</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1577,9 +1577,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-34db1dbc-3ddc-4273-a73b-475b7a4b2d37</gpml:identity>
-            <gpml:revision>GPlates-a2db5ab8-c958-4bd1-8145-841a9a571cf4</gpml:revision>
-            <gml:name>MEAN Rocky Mountain intrusions</gml:name>
+            <gpml:identity>GPlates-f1dcc408-3b28-462b-8099-7845fd7e6c8f</gpml:identity>
+            <gpml:revision>GPlates-e0b2baba-7e18-4280-b17f-c80a29bd66be</gpml:revision>
+            <gml:name>Rocky Mountain intrusions</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1000</gpml:value>
@@ -1612,8 +1612,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-98d2eade-fe65-4811-8b51-0faf1c6f3b45</gpml:identity>
-            <gpml:revision>GPlates-28ada0f9-0c58-4bd3-9ca7-1bede63b2aa6</gpml:revision>
+            <gpml:identity>GPlates-b94d24be-e6e6-49c6-9a38-11e4edadda35</gpml:identity>
+            <gpml:revision>GPlates-f9c77bee-1873-4804-b740-4184f695e34e</gpml:revision>
             <gml:name>Mistastin Pluton</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1647,8 +1647,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-b22cef58-a843-459d-ae70-1967553eaeb1</gpml:identity>
-            <gpml:revision>GPlates-d12413a4-b491-4757-9f4a-1bcb487cfce3</gpml:revision>
+            <gpml:identity>GPlates-87033c60-b346-4ead-95b7-578644ba3443</gpml:identity>
+            <gpml:revision>GPlates-64dff478-1900-46c2-ae6b-946333ea69f3</gpml:revision>
             <gml:name>McNamara Formation</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1682,8 +1682,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-8139bafe-c671-41f1-af62-1dd0812f135b</gpml:identity>
-            <gpml:revision>GPlates-6cff1a6b-d1cd-4dfa-8035-1b0e96f37293</gpml:revision>
+            <gpml:identity>GPlates-75287139-0eca-4390-9212-b7641fbb634f</gpml:identity>
+            <gpml:revision>GPlates-7efb89a8-bd78-4ed4-a40e-f6dccc448877</gpml:revision>
             <gml:name>Pilcher, Garnet Range and Libby Formations</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1717,8 +1717,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-210938b7-4608-4a76-8cb5-12f14e04999f</gpml:identity>
-            <gpml:revision>GPlates-1be7eb64-f895-4b25-a58d-1d6c65e7cc7e</gpml:revision>
+            <gpml:identity>GPlates-38ebf78d-6ec1-46b7-8dc4-b8e11cbb5ad1</gpml:identity>
+            <gpml:revision>GPlates-2135e666-fff0-40b5-bc4c-64e87ef7cc46</gpml:revision>
             <gml:name>Nain Anorthosite</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1752,8 +1752,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-d2191b0d-0766-4a75-8583-105c91c945c2</gpml:identity>
-            <gpml:revision>GPlates-76a38d1c-fb2d-48a9-99ba-1f6846c83aa7</gpml:revision>
+            <gpml:identity>GPlates-d5976685-0e90-4f3e-9acf-d72f5c2f88a3</gpml:identity>
+            <gpml:revision>GPlates-a7dbda8e-339a-4ed2-9698-e237b6a356c1</gpml:revision>
             <gml:name>Mackenzie dykes grand mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1787,8 +1787,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-9d218bcf-85da-4c24-b9b9-727e063facfa</gpml:identity>
-            <gpml:revision>GPlates-323acca2-488a-4432-916b-40633bdc74a9</gpml:revision>
+            <gpml:identity>GPlates-107dc460-cf60-4bb6-9a2f-8e822117a250</gpml:identity>
+            <gpml:revision>GPlates-fb7897cc-60d9-49f6-ac87-a694d26000d4</gpml:revision>
             <gml:name>Sudbury Dykes Combined</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1822,8 +1822,43 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-6fdcbaa9-3608-4f2d-a763-74d4b5257a89</gpml:identity>
-            <gpml:revision>GPlates-d0502558-bbb7-494e-ba0b-6d1d5355667e</gpml:revision>
+            <gpml:identity>GPlates-30d1a8b6-ad61-46b2-8d86-ed9a3c36b7c2</gpml:identity>
+            <gpml:revision>GPlates-61d98dbe-ec4b-4871-afa1-bba64aad5f7a</gpml:revision>
+            <gml:name>Ontario lamprophyre dykes</gml:name>
+            <gpml:reconstructionPlateId>
+                <gpml:ConstantValue>
+                    <gpml:value>1000</gpml:value>
+                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:reconstructionPlateId>
+            <gpml:polePosition>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>58.000000000000007 -136.70000000000002</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:polePosition>
+            <gpml:averageSampleSitePosition>
+                <gpml:ConstantValue>
+                    <gpml:value>
+                        <gml:Point>
+                            <gml:pos>48.799999999999997 -86.700000000000017</gml:pos>
+                        </gml:Point>
+                    </gpml:value>
+                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:Point</gpml:valueType>
+                </gpml:ConstantValue>
+            </gpml:averageSampleSitePosition>
+            <gpml:poleA95>9.1999999999999993</gpml:poleA95>
+            <gpml:averageAge>1143</gpml:averageAge>
+        </gpml:VirtualGeomagneticPole>
+    </gml:featureMember>
+    <gml:featureMember>
+        <gpml:VirtualGeomagneticPole>
+            <gpml:identity>GPlates-d5690da1-158b-4e2c-b0c5-6ae97d749064</gpml:identity>
+            <gpml:revision>GPlates-0b3a366a-e3dc-45fa-8c7a-2750d34f5cfd</gpml:revision>
             <gml:name>Abitibi Dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1857,9 +1892,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-7a32e519-e800-4d9e-a803-e56d8f8328e9</gpml:identity>
-            <gpml:revision>GPlates-e40fc53c-e881-4275-858b-8e6dd374d5b8</gpml:revision>
-            <gml:name>MEAN Nipigon sills and lavas</gml:name>
+            <gpml:identity>GPlates-1570310f-bc1e-4da8-a3bd-042f7fcb11ba</gpml:identity>
+            <gpml:revision>GPlates-d0463928-b14f-4104-a03d-0e411e33c92c</gpml:revision>
+            <gml:name>Nipigon sills and lavas</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1000</gpml:value>
@@ -1892,8 +1927,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-42d37922-8f7b-4842-9c10-2faefd3ca708</gpml:identity>
-            <gpml:revision>GPlates-59ae7ffe-c2c0-4e0d-8cb6-e76a57e8be2b</gpml:revision>
+            <gpml:identity>GPlates-089a0c8c-b068-4b85-97eb-d63ded4a33dc</gpml:identity>
+            <gpml:revision>GPlates-7f9d6ad3-67ef-4f3a-84db-421305a3a6e4</gpml:revision>
             <gml:name>Lower Osler volcanics -R</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1927,8 +1962,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-590f91ae-6410-49f8-a78c-64a74bd29e1a</gpml:identity>
-            <gpml:revision>GPlates-55f6b080-e8bb-4f71-a8b9-6d7c65f32493</gpml:revision>
+            <gpml:identity>GPlates-f54d316b-7536-4353-ab40-aa84a051c1cd</gpml:identity>
+            <gpml:revision>GPlates-42584aff-63cb-4bdf-bab3-a8856e588dce</gpml:revision>
             <gml:name>Lowermost Mamainse Point volcanics -R1</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1962,8 +1997,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-4026ddbd-9be6-4de1-81ef-bfdfd827694b</gpml:identity>
-            <gpml:revision>GPlates-0f01b179-a2b1-4781-b28f-e784c8f7e257</gpml:revision>
+            <gpml:identity>GPlates-80641e83-561b-48f7-9c78-00686cdd521e</gpml:identity>
+            <gpml:revision>GPlates-395dbbee-84b1-4d47-a6a2-1fb829a433a9</gpml:revision>
             <gml:name>Middle Osler volcanics -R</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -1997,8 +2032,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-cead4c95-4e09-4f2b-8c95-d31d8a0e4eba</gpml:identity>
-            <gpml:revision>GPlates-ec0d588b-a40c-4e25-9993-526f9aaf1f5e</gpml:revision>
+            <gpml:identity>GPlates-bc0c2ef8-5772-42c5-b230-75d2235a1715</gpml:identity>
+            <gpml:revision>GPlates-0f865775-aa1b-408c-bee8-16900eabc4dc</gpml:revision>
             <gml:name>Upper Osler volcanics -R</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2032,8 +2067,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-b9b6b8a1-6217-4430-929a-2329e59a3648</gpml:identity>
-            <gpml:revision>GPlates-69b5b0d9-613c-4070-aeb3-1ead53a8bdbe</gpml:revision>
+            <gpml:identity>GPlates-6ee431ff-ab2f-4e7c-a9f4-464f43dbbee8</gpml:identity>
+            <gpml:revision>GPlates-f06194df-de3e-42f5-b47f-9742c62b5fdc</gpml:revision>
             <gml:name>Lower Mamainse Point volcanics -R2</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2067,8 +2102,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-f56ebdfd-f6d1-465d-bff1-cd377d39d070</gpml:identity>
-            <gpml:revision>GPlates-7e8dfe5d-17f1-4aab-805e-6668457b6d2d</gpml:revision>
+            <gpml:identity>GPlates-cf94f315-8e52-4a42-8547-e9735b60cb43</gpml:identity>
+            <gpml:revision>GPlates-a67a0e4a-37df-40d7-bec8-8acc99f24700</gpml:revision>
             <gml:name>Mamainse Point volcanics -C (lower N, upper R)</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2102,8 +2137,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-da6919af-8039-4459-9b0e-313c88262ad2</gpml:identity>
-            <gpml:revision>GPlates-ebf6c26c-8a8a-44ac-b05d-b7d756dbd6d2</gpml:revision>
+            <gpml:identity>GPlates-1b017c83-e899-4878-904e-3c6a10960c51</gpml:identity>
+            <gpml:revision>GPlates-5e717568-28a8-49fc-8430-59faf3918da8</gpml:revision>
             <gml:name>Uppermost Mamainse Point volcanics -N</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2137,8 +2172,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-08f5ca19-54af-4c75-8c85-3f35476be8e3</gpml:identity>
-            <gpml:revision>GPlates-197788f4-e1c1-4e81-964f-9749d97201a5</gpml:revision>
+            <gpml:identity>GPlates-31c44742-9116-4d17-84f7-e7f12325f90e</gpml:identity>
+            <gpml:revision>GPlates-e10b5303-aead-4827-9b00-6a42ec5f5277</gpml:revision>
             <gml:name>North Shore lavas -N</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2172,8 +2207,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-10d75306-8ca5-4c67-b7bf-831d31296ebc</gpml:identity>
-            <gpml:revision>GPlates-79d10671-4446-476d-9f74-797f195368e1</gpml:revision>
+            <gpml:identity>GPlates-d47388dc-09c8-4839-a634-8569339b1a22</gpml:identity>
+            <gpml:revision>GPlates-a4e388c4-272d-4d0a-a333-9efb4c99acbc</gpml:revision>
             <gml:name>Chengwatana Volcanics</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2207,8 +2242,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-aa79f66f-87e0-4aff-9a8d-1554dfdf05b6</gpml:identity>
-            <gpml:revision>GPlates-6e72f1c0-d6aa-4be3-820a-4d26564d9b9f</gpml:revision>
+            <gpml:identity>GPlates-c9f78a76-7d58-4efb-b221-8196733618b4</gpml:identity>
+            <gpml:revision>GPlates-db8e3a5a-5f76-41fe-aa43-d10fae3dd087</gpml:revision>
             <gml:name>Portage Lake Volcanics</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2242,8 +2277,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-abecc8e3-7898-485c-8fde-2cac2021fbbf</gpml:identity>
-            <gpml:revision>GPlates-7f0af0c0-d4f4-4199-8639-0a015520fef2</gpml:revision>
+            <gpml:identity>GPlates-8945cb2f-2a05-4c5c-95f7-39ba864f3361</gpml:identity>
+            <gpml:revision>GPlates-e9e7e3f4-85eb-4223-b040-81d164d716c0</gpml:revision>
             <gml:name>Cardenas Basalts and Intrusions</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2277,8 +2312,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-4a99cb04-1826-4b59-bae0-3ebd4b6b8ace</gpml:identity>
-            <gpml:revision>GPlates-61bc0781-f779-4379-9b83-35cdb54c379c</gpml:revision>
+            <gpml:identity>GPlates-b5aa3bd5-5a66-417e-aa96-bc2480de9b57</gpml:identity>
+            <gpml:revision>GPlates-f6d576a3-e364-48cb-a748-68871aae8fb5</gpml:revision>
             <gml:name>Central Arizona diabases -N</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2312,8 +2347,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-c9fdcaba-81e4-4b08-b2cf-d286a051a98f</gpml:identity>
-            <gpml:revision>GPlates-4a19d874-2cf0-4f6d-b377-ea4578849bee</gpml:revision>
+            <gpml:identity>GPlates-f94206a6-1d58-4e87-94cb-f00e292b1c03</gpml:identity>
+            <gpml:revision>GPlates-c4690694-c54f-4ae5-8ba7-53a0ec30ab83</gpml:revision>
             <gml:name>Lake Shore Traps</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2347,8 +2382,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-b8df95ff-b61b-428a-bc02-dd05fb34b19a</gpml:identity>
-            <gpml:revision>GPlates-74f1ad22-8bca-4e50-8a1b-b0924e9f168a</gpml:revision>
+            <gpml:identity>GPlates-73a35a43-3193-44cf-b8bb-28934963247f</gpml:identity>
+            <gpml:revision>GPlates-322dd47c-2944-430a-ab6e-f32452113eb1</gpml:revision>
             <gml:name>Schroeder Lutsen Basalts</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2382,8 +2417,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-72ca669e-7228-4d3e-9356-3255e1671ab3</gpml:identity>
-            <gpml:revision>GPlates-ef1c9357-332a-4267-b425-cf10ae3e403b</gpml:revision>
+            <gpml:identity>GPlates-fa031ad1-18cc-4272-89be-743385ddd9d0</gpml:identity>
+            <gpml:revision>GPlates-7c6d62a9-3735-48a6-8aa7-ebb8c4c72332</gpml:revision>
             <gml:name>Michipicoten Island Formation</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2417,8 +2452,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-c0b47a1b-9562-4473-b337-1437c1e7db0c</gpml:identity>
-            <gpml:revision>GPlates-671b065a-cc4c-421d-9db8-dc03bc7bd05f</gpml:revision>
+            <gpml:identity>GPlates-43bfca7a-a83e-456a-9dbe-9613e2e33aaa</gpml:identity>
+            <gpml:revision>GPlates-ac2b3d4f-65ec-4387-b57d-eeb46eb1bbed</gpml:revision>
             <gml:name>Nonesuch Shale</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2452,8 +2487,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-f5dfec6e-87d0-4a6a-b157-930ea5b3396c</gpml:identity>
-            <gpml:revision>GPlates-0f19af8f-5038-46bb-a9a5-279153e09399</gpml:revision>
+            <gpml:identity>GPlates-14fe51cc-6d82-4803-81d3-dbb336f5abec</gpml:identity>
+            <gpml:revision>GPlates-88614fbe-e099-4101-95ae-41ffeaec3202</gpml:revision>
             <gml:name>Freda Sandstone</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2487,8 +2522,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-56547120-1ef9-49c3-b183-35e01c16cfbd</gpml:identity>
-            <gpml:revision>GPlates-93bbb8f5-4268-4185-9a33-50b1c82b7410</gpml:revision>
+            <gpml:identity>GPlates-bf2ccf1b-6bbb-47eb-b2ca-ea8433998b7f</gpml:identity>
+            <gpml:revision>GPlates-75f56e24-00ce-4a44-8e19-e16b8663507c</gpml:revision>
             <gml:name>Haliburton Intrusions</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2522,9 +2557,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-2746666f-433e-4ea3-89e4-7c3dfa91077a</gpml:identity>
-            <gpml:revision>GPlates-6446f5ec-51f1-4dae-af22-1ac775a61be5</gpml:revision>
-            <gml:name>Tsezotene Sills Combined</gml:name>
+            <gpml:identity>GPlates-888c5108-932b-4e60-8534-99dbb091d834</gpml:identity>
+            <gpml:revision>GPlates-4e0f4949-8990-4e32-94a1-81cc3e6aac08</gpml:revision>
+            <gml:name>Tsezotene Sills</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1000</gpml:value>
@@ -2557,9 +2592,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-cac00b59-257c-4d48-989f-854c94f4a750</gpml:identity>
-            <gpml:revision>GPlates-4b1b6a0d-92f5-41fb-9aed-78cf2ba867c7</gpml:revision>
-            <gml:name>MEAN Wyoming &quot;Gunbarrel&quot; dykes</gml:name>
+            <gpml:identity>GPlates-bf6aba11-a9aa-4881-98c2-fef46b54eb3a</gpml:identity>
+            <gpml:revision>GPlates-4620b954-5220-4eec-b1bc-3a32b7fbf989</gpml:revision>
+            <gml:name>Gunbarrel dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1000</gpml:value>
@@ -2592,8 +2627,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-34d3dd59-562a-44bd-a84c-f6460878a187</gpml:identity>
-            <gpml:revision>GPlates-7a6b63ce-d3e3-4d20-8917-a13c1a462dbd</gpml:revision>
+            <gpml:identity>GPlates-42c893d1-f119-43f2-bf8b-afb791b40804</gpml:identity>
+            <gpml:revision>GPlates-320cd3b3-7432-40aa-a67b-e629e5b7d6fc</gpml:revision>
             <gml:name>Uinta Mountain Group</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2627,8 +2662,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-678fa6af-d3e7-4549-b048-7cb7f61c3817</gpml:identity>
-            <gpml:revision>GPlates-72a28ee9-45c5-4a5c-bab4-3336962d28a6</gpml:revision>
+            <gpml:identity>GPlates-589d7c2e-3578-4941-a760-fba09081964d</gpml:identity>
+            <gpml:revision>GPlates-b72f577d-6dbd-4f10-9a21-e1769e334b99</gpml:revision>
             <gml:name>Franklin event grand mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2662,8 +2697,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-3cadc2d1-1b8f-4017-9c52-58f1896c9189</gpml:identity>
-            <gpml:revision>GPlates-41340e3f-6386-4d25-aab0-b9f4bd093b9d</gpml:revision>
+            <gpml:identity>GPlates-08ea1096-6204-4b9d-94e8-2b2b4465b787</gpml:identity>
+            <gpml:revision>GPlates-ed6d1978-4955-4a74-8030-6b251171f8ad</gpml:revision>
             <gml:name>Long Range Dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2697,8 +2732,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-0dbee9b4-7600-4379-b1a1-5b8ef41a87e5</gpml:identity>
-            <gpml:revision>GPlates-0ace4370-82d6-4134-9831-352d924c0cdd</gpml:revision>
+            <gpml:identity>GPlates-0c9f4805-0174-4de5-830a-34f95dcd231d</gpml:identity>
+            <gpml:revision>GPlates-14323e81-981e-4c37-bd8c-857a497cd89b</gpml:revision>
             <gml:name>Baie des Moutons complex</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2732,8 +2767,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-61a4f855-385a-4648-a77a-236c3195e9cf</gpml:identity>
-            <gpml:revision>GPlates-3d854ae6-2c42-47a8-ad13-4e74b4a60659</gpml:revision>
+            <gpml:identity>GPlates-6f352fd8-f616-4ade-9665-3bc6101cd923</gpml:identity>
+            <gpml:revision>GPlates-4acc1f7b-efcb-431b-8088-76cd583ee797</gpml:revision>
             <gml:name>Baie des Moutons complex</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2767,8 +2802,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-4efde216-d170-461f-b60e-c591213ca177</gpml:identity>
-            <gpml:revision>GPlates-42542317-f568-41c0-bbad-06d6c11a3caf</gpml:revision>
+            <gpml:identity>GPlates-b35ef876-f173-4e82-bea7-42537160343d</gpml:identity>
+            <gpml:revision>GPlates-bc67661a-5103-4f0f-91fe-6700760791c3</gpml:revision>
             <gml:name>Callander Alkaline Complex</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2802,8 +2837,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-1a5a99cd-75b5-4274-b9b9-f2ded3970b63</gpml:identity>
-            <gpml:revision>GPlates-644be106-68ae-4a0a-859c-cb5d815c25fb</gpml:revision>
+            <gpml:identity>GPlates-417bf6bc-ae39-450b-b420-d2aae13172a4</gpml:identity>
+            <gpml:revision>GPlates-a045bd84-3a34-46be-97e2-1e5e958b8d20</gpml:revision>
             <gml:name>Catoctin Basalts</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2837,9 +2872,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-a8b13a6e-9a68-45f3-a400-ea4fbb90c461</gpml:identity>
-            <gpml:revision>GPlates-6a7bdadb-a571-421f-8563-92008cba918f</gpml:revision>
-            <gml:name>Sept-Iles Layered Intrusion</gml:name>
+            <gpml:identity>GPlates-85939c80-9a51-4ec7-9fb2-0a32b2b59efb</gpml:identity>
+            <gpml:revision>GPlates-2fcb9ed0-1307-4c7a-81a0-1ea085610adf</gpml:revision>
+            <gml:name>Sept-Iles layered intrusion</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>1000</gpml:value>
@@ -2872,8 +2907,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-38b5bcb8-893d-43d1-ad34-93abba3c86b3</gpml:identity>
-            <gpml:revision>GPlates-d38032ad-1a49-479a-897c-2a227992ff40</gpml:revision>
+            <gpml:identity>GPlates-0d35ef80-d3f8-417b-974f-d82d1b7da7c4</gpml:identity>
+            <gpml:revision>GPlates-2cc3308a-df17-4414-a337-7491da70b66d</gpml:revision>
             <gml:name>Melville Bugt diabase dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2907,8 +2942,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-6419f00d-5f7e-4637-ad14-d65efe2edc81</gpml:identity>
-            <gpml:revision>GPlates-b5d12f34-f151-4030-b277-86892d70272a</gpml:revision>
+            <gpml:identity>GPlates-0ba24cb5-bd50-4c1a-93b7-e9fd5c0a46d5</gpml:identity>
+            <gpml:revision>GPlates-f875b0b9-cb29-4bf5-8dcb-b194e7a88a0f</gpml:revision>
             <gml:name>Victoria Fjord dolerite dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2942,8 +2977,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-29d108cd-ea3f-42a1-8ba2-bb0b7bcfefc2</gpml:identity>
-            <gpml:revision>GPlates-d0ae7d8a-d1d0-4853-a4cb-7bb620c18811</gpml:revision>
+            <gpml:identity>GPlates-a51c5cbe-ab57-43e4-b47c-241e03704cc1</gpml:identity>
+            <gpml:revision>GPlates-f7bcac67-54c8-4e9d-bc65-c8ca784b9d3f</gpml:revision>
             <gml:name>Midsommersoe Dolerite</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -2977,8 +3012,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-e347ebae-1042-4b7d-ba00-2773b84684eb</gpml:identity>
-            <gpml:revision>GPlates-74bbb545-5d56-4a45-9a7b-312efe23a7d9</gpml:revision>
+            <gpml:identity>GPlates-8ac8a07e-3c0d-46fa-b721-1714bac14bde</gpml:identity>
+            <gpml:revision>GPlates-03387908-e2a6-4609-9f20-635b10262608</gpml:revision>
             <gml:name>Zig-Zag Dal Basalts</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -3012,8 +3047,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-412d1c44-7023-4de9-9e27-db9fea7d5d97</gpml:identity>
-            <gpml:revision>GPlates-a11d4ad3-35d0-47cd-a39b-32c401164ab9</gpml:revision>
+            <gpml:identity>GPlates-a8662dfb-856a-4013-8a37-65300980d21a</gpml:identity>
+            <gpml:revision>GPlates-cc9c1ad5-57ea-4430-b504-33692696075e</gpml:revision>
             <gml:name>Kungnat Ring Dyke</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -3047,9 +3082,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-af7fe2af-5a9f-40d2-a366-4a6fa11dca4e</gpml:identity>
-            <gpml:revision>GPlates-b960877e-0014-49a2-ae82-26733d00c75e</gpml:revision>
-            <gml:name>North Qoroq Intr.</gml:name>
+            <gpml:identity>GPlates-b9bdea9a-44ed-470a-b31e-1b49c22f2a6c</gpml:identity>
+            <gpml:revision>GPlates-4866185a-5c10-42a0-a4bd-df1500eea77d</gpml:revision>
+            <gml:name>North Qoroq intrusives</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10032</gpml:value>
@@ -3082,8 +3117,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-aed66d19-55e5-49ab-8f83-2038613a9e03</gpml:identity>
-            <gpml:revision>GPlates-e3fb5955-179b-4987-9280-dde821739a50</gpml:revision>
+            <gpml:identity>GPlates-1edf7939-ecd2-42a1-84aa-70e94c549b81</gpml:identity>
+            <gpml:revision>GPlates-c5d29152-2ea9-47a7-abe2-ef1480faa24c</gpml:revision>
             <gml:name>West Gardar Dolerite Dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -3117,8 +3152,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-9ac64bc3-afda-48ce-b4e4-f80ebdf50bdb</gpml:identity>
-            <gpml:revision>GPlates-48348c4b-f9e0-4b67-b02c-ddfea4007894</gpml:revision>
+            <gpml:identity>GPlates-b38bb003-69cc-4ce6-b14a-813df3ccc3ed</gpml:identity>
+            <gpml:revision>GPlates-d8b456e4-3cec-4832-a442-dd22136bf1d0</gpml:revision>
             <gml:name>West Gardar Lamprophyre Dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -3152,8 +3187,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-d1fa7744-2cc4-4a41-82e5-d85c05089a0d</gpml:identity>
-            <gpml:revision>GPlates-f78bcd40-8933-451b-86e8-4f2fb5d5b144</gpml:revision>
+            <gpml:identity>GPlates-5f853b93-8d5f-46f1-9e13-774d784e5511</gpml:identity>
+            <gpml:revision>GPlates-7d36cc52-ef36-49e7-bb25-c861b0c16aa5</gpml:revision>
             <gml:name>Hviddal Giant Dyke</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -3187,8 +3222,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-b6f06ed9-e537-4f3d-bdc1-6f3f8e6b564e</gpml:identity>
-            <gpml:revision>GPlates-103ec250-109b-46dd-a2ea-2d481c3afd45</gpml:revision>
+            <gpml:identity>GPlates-af02c58f-c074-42e4-9401-56d06c9fcda8</gpml:identity>
+            <gpml:revision>GPlates-d6fd6c5b-4bad-4b89-af16-ca81341eb067</gpml:revision>
             <gml:name>Narssaq Gabbro</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -3222,8 +3257,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-a4e729cd-67b2-4fb0-ba5d-7c22250ef5c6</gpml:identity>
-            <gpml:revision>GPlates-c9ed13dc-8bf0-4a5b-ba9b-32dd16f704a5</gpml:revision>
+            <gpml:identity>GPlates-10803e87-4ae8-4d91-8f3a-a97133106715</gpml:identity>
+            <gpml:revision>GPlates-ef05b931-ade6-4909-94a5-203cde0ee2bc</gpml:revision>
             <gml:name>South Qoroq Intr.</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -3257,8 +3292,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-a623f026-920f-431b-a1db-f9ae4d95ab90</gpml:identity>
-            <gpml:revision>GPlates-f91cd613-5cec-4fdd-9ed6-50356bcf0dd0</gpml:revision>
+            <gpml:identity>GPlates-7c6b05c1-4dbf-40cd-b7ef-d4c250a82a8c</gpml:identity>
+            <gpml:revision>GPlates-b36515ca-a0db-47ea-a161-5a7402372b11</gpml:revision>
             <gml:name>Giant Gabbro Dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -3292,9 +3327,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-82358007-d8f4-4860-8ea4-725500d7c49e</gpml:identity>
-            <gpml:revision>GPlates-ea617c1e-0b7f-489d-af83-1ed3de556b04</gpml:revision>
-            <gml:name>NE-SW Trending Dyke Swarm</gml:name>
+            <gpml:identity>GPlates-ddd3841e-f34f-47e4-b013-a58bfcc1377f</gpml:identity>
+            <gpml:revision>GPlates-101e6ffc-ed30-4094-a110-a330644ad309</gpml:revision>
+            <gml:name>NE-SW Trending dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10032</gpml:value>
@@ -3327,8 +3362,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-48b5a835-c98a-4e44-90df-3acb42862238</gpml:identity>
-            <gpml:revision>GPlates-3b61586a-393f-4478-8104-eaa6780f69cf</gpml:revision>
+            <gpml:identity>GPlates-d4c76e44-33f1-4778-9887-f4e68e11a1a7</gpml:identity>
+            <gpml:revision>GPlates-438a84bc-a83a-46d7-bddc-5cb0620df9fb</gpml:revision>
             <gml:name>Kangamiut Dykes</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -3362,9 +3397,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-8e2dc1ac-e3ea-46ae-b7b5-8ac0ad2614ff</gpml:identity>
-            <gpml:revision>GPlates-97c53896-3e5d-450a-86f0-ffb6b3081ddd</gpml:revision>
-            <gml:name>MEAN Stoer Group</gml:name>
+            <gpml:identity>GPlates-8f780fbb-3786-4db7-8823-199e36b905e6</gpml:identity>
+            <gpml:revision>GPlates-d57f86fc-a080-42f8-9d51-6a9b18b80ec9</gpml:revision>
+            <gml:name>Stoer Group</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10258</gpml:value>
@@ -3397,9 +3432,9 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-7b2917a5-f2e1-428e-9951-5ec607c414f3</gpml:identity>
-            <gpml:revision>GPlates-d8b4e816-fa29-4a9f-89a3-1f9c43b3511b</gpml:revision>
-            <gml:name>MEAN Torridon Group</gml:name>
+            <gpml:identity>GPlates-47ea311b-2f58-46d8-a37a-3858a7fda161</gpml:identity>
+            <gpml:revision>GPlates-d836d74b-1dfb-4af4-b48d-ac9448dbf2b3</gpml:revision>
+            <gml:name>Torridon Group</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>10258</gpml:value>
@@ -3432,8 +3467,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-588814b8-6d1d-4758-9c65-ca283aa6b8f6</gpml:identity>
-            <gpml:revision>GPlates-5fdbf712-d515-4964-b4b1-f8b883024e21</gpml:revision>
+            <gpml:identity>GPlates-9035c6aa-8447-4cb8-ae7f-11ae83e872e3</gpml:identity>
+            <gpml:revision>GPlates-487cc245-a345-4cc8-b613-021713c1f1a6</gpml:revision>
             <gml:name>Lower Grusdievbreen Formation</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -3467,8 +3502,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-88740c52-e6f8-4b7b-b42d-7e00f3ec3261</gpml:identity>
-            <gpml:revision>GPlates-84a4c5f5-40c4-4137-beb6-5c99e6c9e9d5</gpml:revision>
+            <gpml:identity>GPlates-6f58c689-2596-4640-baed-e43846362af3</gpml:identity>
+            <gpml:revision>GPlates-6c08cd80-4e52-4a58-a826-57b72c8142ef</gpml:revision>
             <gml:name>Upper Grusdievbreen Formation</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -3502,8 +3537,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-2e4dc449-380e-4e99-ad17-b80488936f7f</gpml:identity>
-            <gpml:revision>GPlates-0b018160-31f3-480d-b374-45444b6d2cbe</gpml:revision>
+            <gpml:identity>GPlates-16e88c57-f7be-4b61-9b9c-fddf1e3559be</gpml:identity>
+            <gpml:revision>GPlates-4d402cc0-b7d1-4b7c-8c6d-c823f13db236</gpml:revision>
             <gml:name>Svanbergfjellet Formation</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>

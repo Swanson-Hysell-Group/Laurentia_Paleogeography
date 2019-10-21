@@ -159,7 +159,7 @@ There are more published models that show snapshots and publish rotation paramet
 
  The synthesis of \citet{Pesonen2012a} developed reconstructions at various Proterozoic time slices.
 
-In this work, I develop a continuous paleogeographic reconstruciton of Laurentia constrained the paleomagnetic poles compilation. This path is based on Laurentia data alone which means that it is poorly constrained through intervals of sparse data (900-800 Ma for example). One could use interpretations of paleogeographic connections with other cratons (e.g. Baltica in the Neoproterozoic) to fill in such portions of the path, however the result then becomes model-dependent without being constrained by data from Laurentia itself. The paleolatitude implied by this continuous model is shown in Figure \ref{fig:Laurentia_paleolatitude}. Paleogeographic snapshots for the past position of Laurentia are shown in Figure \ref{fig:Laurentia_reconstructions.pdf}. These reconstructions use the tectonic elements as defined by \citet{Whitmeyer2007a} with these elements being progressively added associated with Laurentia's growth. As a reminder to the reader, paleomagnetic poles provide constraints on the paleolatitude of a continental block as well as its orientation (which way was north relative to the block). While they provide constraints in this regard, they do not provide constraints in and of themselves to the longitudinal position of the block. Other approaches to obtain paleolongitude utilize geophysical hypotheses such as assuming that large low shear velocity provinces have been stable plume-generating zones in the lower mantle to which plumes can be reconstructed \citep{Torsvik2014a} or that significant pole motion in certain time intervals is associated with true polar wander axes that switch through time in conjunction with the supercontinent cycle \citep{Mitchell2012a}. In Figure \ref{fig:Laurentia_reconstructions}, Laurentia is centered on the longitudinal position of Duluth with the orientation and paleolatitude being constrained by the paleomagnetic pole compilation as synthesized in the simple Laurentia pole interpolation model.
+In this work, I develop a continuous paleogeographic reconstruction of Laurentia constrained the paleomagnetic poles compilation. This path is based on Laurentia data alone which means that it is poorly constrained through intervals of sparse data (900-800 Ma for example). One could use interpretations of paleogeographic connections with other cratons (e.g. Baltica in the Neoproterozoic) to fill in such portions of the path, however the result then becomes model-dependent without being constrained by data from Laurentia itself. The paleolatitude implied by this continuous model is shown in Figure \ref{fig:Laurentia_paleolatitude}. Paleogeographic snapshots for the past position of Laurentia are shown in Figure \ref{fig:Laurentia_reconstructions.pdf}. These reconstructions use the tectonic elements as defined by \citet{Whitmeyer2007a} with these elements being progressively added associated with Laurentia's growth. As a reminder to the reader, paleomagnetic poles provide constraints on the paleolatitude of a continental block as well as its orientation (which way was north relative to the block). While they provide constraints in this regard, they do not provide constraints in and of themselves to the longitudinal position of the block. Other approaches to obtain paleolongitude utilize geophysical hypotheses such as assuming that large low shear velocity provinces have been stable plume-generating zones in the lower mantle to which plumes can be reconstructed \citep{Torsvik2014a} or that significant pole motion in certain time intervals is associated with true polar wander axes that switch through time in conjunction with the supercontinent cycle \citep{Mitchell2012a}. In Figure \ref{fig:Laurentia_reconstructions}, Laurentia is centered on the longitudinal position of Duluth with the orientation and paleolatitude being constrained by the paleomagnetic pole compilation as synthesized in the simple Laurentia pole interpolation model.
 
 \section*{Conclusion}
 
@@ -169,13 +169,15 @@ To make an argument that differential plate tectonic motion began in the Neoprot
 
 \section*{Acknowledgements}
 
-Many participants in the Nordic Paleomagnetism Workshop have contributed to the compilation and evaluation of the pole list utilized herein. Particular acknowledgement goes to David Evans for maintaining and distributing the compiled pole lists as well as additional efforts of Lauri Pesonen in maintaining the Paleomagia database \citep{Veikkolainen2014a}. GPlates, and in particular the pyGPlates API, was utilized in this work \citep{Muller2018b}. Figures were made using Matplotlib \citep{Hunter2007a} in conjunction with cartopy \citep{Met-Office2010a} and pmagpy \citep{Tauxe2016a} within an interactive python environment \citep{Perez2007a}. This work was supported by NSF CAREER Grant 1847277 awarded to N.L.S.-H. 
+Many participants in the Nordic Paleomagnetism Workshop have contributed to the compilation and evaluation of the pole list utilized herein. Particular acknowledgement goes to David Evans for maintaining and distributing the compiled pole lists as well as additional efforts of Lauri Pesonen in maintaining the Paleomagia database \citep{Veikkolainen2014a}. GPlates, and in particular the pyGPlates API, was utilized in this work \citep{Muller2018b}. Figures were made using Matplotlib \citep{Hunter2007a} in conjunction with cartopy \citep{Met-Office2010a} and pmagpy \citep{Tauxe2016a} within an interactive Python environment \citep{Perez2007a}. This work was supported by NSF CAREER Grant EAR-1847277 awarded to N.L.S.-H. 
 
 \bibliographystyle{gsabull}
 \footnotesize\bibliography{../../references/allrefs}
 
 
 \begin{table}[hbt]
+\caption{Rotations of separated terranes}
+{\scriptsize
 \begin{tabular}{|l|l|l|l|p{2 in}|}
   \hline
 & Euler pole & Euler pole & rotation & note and \\
@@ -188,13 +190,13 @@ Scotland & 161.9 & 78.6 & -31.0 & Reconstructing Atlantic opening following \cit
 Svalbard & 125.0 & -81.0 & 68 & Rotate Svalbard to Laurentia in fit that works well with East Greenland basin according to \cite{Maloof2006a}\\
 \hline
 \end{tabular}
-\caption{}
+}
 \label{tab:rotations}
 \end{table}
 
 {\scriptsize
 \begin{landscape}
-\input{pole_table_editted.tex}
+\input{pole_table_edited.tex}
 \end{landscape}
 }
 
