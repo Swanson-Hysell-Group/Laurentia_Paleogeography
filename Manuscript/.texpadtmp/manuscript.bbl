@@ -1,4 +1,4 @@
-\begin{thebibliography}{55}
+\begin{thebibliography}{146}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -7,29 +7,56 @@
   \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
   \urlstyle{rm}\Url}\fi
 
+\bibitem[{Abrahamsen and Van Der~Voo(1987)}]{Abrahamsen1987a}
+Abrahamsen, N. and Van Der~Voo, R., 1987, {Palaeomagnetism of middle
+  Proterozoic (c. 1.25 Ga) dykes from central North Greenland}: Geophysical
+  Journal International, v.~91, p. 597--611,
+  \doi{10.1111/j.1365-246x.1987.tb01660.x}.
+
+\bibitem[{Abrajevitch and Van~der Voo(2010)}]{Abrajevitch2010a}
+Abrajevitch, A. and Van~der Voo, R., 2010, Incompatible {E}diacaran
+  paleomagnetic directions suggest an equatorial geomagnetic dipole hypothesis:
+  Earth and Planetary Science Letters, v. 293, p. 164--170.
+
 \bibitem[{Bates and Halls(1991)}]{Bates1991a}
-Bates, M.~P. and Halls, H.~C., 1991, Broad-scale proterozoic deformation of the
-  central superior province revealed by paleomagnetism of the 2.45 ga
-  matachewan dyke swarm: Canadian Journal of Earth Sciences, v.~28, p.
+Bates, M.~P. and Halls, H.~C., 1991, {Broad-scale Proterozoic deformation of
+  the central Superior Province revealed by paleomagnetism of the 2.45 Ga
+  Matachewan dyke swarm}: Canadian Journal of Earth Sciences, v.~28, p.
   1780--1796, \doi{10.1139/e91-159}.
 
 \bibitem[{Berman et~al.(2007)Berman, Davis, and Pehrsson}]{Berman2007a}
-Berman, R., Davis, A., and Pehrsson, S., 2007, Collisional snowbird tectonic
-  zone resurrected: Growth of laurentia during the 1.9 ga accretionary phase of
-  the hudsonian orogeny: Geology, v.~35, p. 911--914.
+Berman, R., Davis, A., and Pehrsson, S., 2007, {Collisional Snowbird tectonic
+  zone resurrected: Growth of Laurentia during the 1.9 Ga accretionary phase of
+  the Hudsonian orogeny}: Geology, v.~35, p. 911--914, \doi{10.1130/G23771A.1}.
 
 \bibitem[{Bickford et~al.(2015)Bickford, Van~Schmus, Karlstrom, Mueller, and
   Kamenov}]{Bickford2015a}
 Bickford, M., Van~Schmus, W., Karlstrom, K., Mueller, P., and Kamenov, G.,
-  2015, Mesoproterozoic-trans-laurentian magmatism: A synthesis of
-  continent-wide age distributions, new sims u--pb ages, zircon saturation
-  temperatures, and hf and nd isotopic compositions: Precambrian Research, v.
+  2015, {Mesoproterozoic-trans-Laurentian magmatism: A synthesis of
+  continent-wide age distributions, new SIMS U--Pb ages, zircon saturation
+  temperatures, and Hf and Nd isotopic compositions}: Precambrian Research, v.
   265, p. 286--312, \doi{10.1016/j.precamres.2014.11.024}.
 
 \bibitem[{Bond et~al.(1984)Bond, Nickleson, and Kominz}]{Bond1984a}
 Bond, G., Nickleson, P., and Kominz, M., 1984, Breakup of a supercontinent
   between 625 and 555 {M}a: new evidence and implications for continental
-  histories: Earth and Planetary Science Letters, v.~70, p. 325--345.
+  histories: Earth and Planetary Science Letters, v.~70, p. 325--345,
+  \doi{10.1016/0012-821X(84)90017-7}.
+
+\bibitem[{Bono et~al.(2019)Bono, Tarduno, Nimmo, and Cottrell}]{Bono2019a}
+Bono, R.~K., Tarduno, J.~A., Nimmo, F., and Cottrell, R.~D., 2019, Young inner
+  core inferred from {E}diacaran ultra-low geomagnetic field intensity: Nature
+  Geoscience, v.~12, p. 143--147, \doi{10.1038/s41561-018-0288-0}.
+
+\bibitem[{Books(1972)}]{Books1972a}
+Books, K., 1972, Paleomagnetism of some {L}ake {S}uperior {K}eweenawan rocks:
+  U.S. Geological Survey Professional Paper, v. P 0760, p.~42.
+
+\bibitem[{Borradaile and Middleton(2006)}]{Borradaile2006a}
+Borradaile, G. and Middleton, R., 2006, Proterozoic paleomagnetism in the
+  {N}ipigon {E}mbayment of northern {O}ntario: {P}illar {L}ake {L}ava, {W}aweig
+  {T}roctolite and {G}unflint {F}ormation tuffs: Precambrian Research, v. 144,
+  p. 69--91, \doi{10.1016/j.precamres.2005.10.007}.
 
 \bibitem[{Brown and McEnroe(2012)}]{Brown2012a}
 Brown, L.~L. and McEnroe, S.~A., 2012, {Paleomagnetism and magnetic mineralogy
@@ -37,9 +64,48 @@ Brown, L.~L. and McEnroe, S.~A., 2012, {Paleomagnetism and magnetic mineralogy
   Precambrian Research, v. 212--213, p. 57--74,
   \doi{10.1016/j.precamres.2012.04.012}.
 
+\bibitem[{Buchan et~al.(2000)Buchan, Mertanen, Park, Pesonen, Elming,
+  Abrahamsen, and Bylund}]{Buchan2000a}
+Buchan, K., Mertanen, S., Park, R., Pesonen, L., Elming, S.~A., Abrahamsen, N.,
+  and Bylund, G., 2000, Comparing the drift of {L}aurentia and {B}altica in the
+  {P}roterozoic: the importance of key paleomagnetic poles: Tectonophysics, v.
+  319, p. 167--198.
+
+\bibitem[{Buchan et~al.(2009)Buchan, LeCheminant, and van
+  Breemen}]{Buchan2009a}
+Buchan, K.~L., LeCheminant, A.~N., and van Breemen, O., 2009, {Paleomagnetism
+  and U--Pb geochronology of the Lac de Gras diabase dyke swarm, Slave
+  Province, Canada: implications for relative drift of Slave and Superior
+  provinces in the Paleoproterozoic}: Canadian Journal of Earth Sciences,
+  v.~46, p. 361--379, \doi{10.1139/e09-026}.
+
+\bibitem[{Buchan et~al.(2012)Buchan, LeCheminant, and van
+  Breemen}]{Buchan2012a}
+Buchan, K.~L., LeCheminant, A.~N., and van Breemen, O., 2012, {Malley diabase
+  dykes of the Slave craton, Canadian Shield: U--Pb age, paleomagnetism, and
+  implications for continental reconstructions in the early Paleoproterozoic}:
+  Canadian Journal of Earth Sciences, v.~49, p. 435--454,
+  \doi{10.1139/e11-061}.
+
+\bibitem[{Buchan et~al.(2016)Buchan, Mitchell, Bleeker, Hamilton, and
+  LeCheminant}]{Buchan2016a}
+Buchan, K.~L., Mitchell, R.~N., Bleeker, W., Hamilton, M.~A., and LeCheminant,
+  A.~N., 2016, {Paleomagnetism of ca. 2.13--2.11 Ga Indin and ca. 1.885 Ga
+  Ghost dyke swarms of the Slave craton: Implications for the Slave craton APW
+  path and relative drift of Slave, Superior and Siberian cratons in the
+  Paleoproterozoic}: Precambrian Research, v. 275, p. 151--175,
+  \doi{10.1016/j.precamres.2016.01.012}.
+
+\bibitem[{Buchan et~al.(1993)Buchan, Mortensen, and Card}]{Buchan1993a}
+Buchan, K.~L., Mortensen, J.~K., and Card, K.~D., 1993, {Northeast-trending
+  early Proterozoic dykes of southern Superior Province: multiple episodes of
+  emplacement recognized from integrated paleomagnetism and U--Pb
+  geochronology}: Canadian Journal of Earth Sciences, v.~30, p. 1286--1296,
+  \doi{10.1139/e93-110}.
+
 \bibitem[{Burton and Southworth(2010)}]{Burton2010a}
-Burton, W.~C. and Southworth, S., 2010, A model for iapetan rifting of
-  laurentia based on neoproterozoic dikes and related rocks: From Rodinia to
+Burton, W.~C. and Southworth, S., 2010, {A model for Iapetan rifting of
+  Laurentia based on Neoproterozoic dikes and related rocks}: From Rodinia to
   Pangea: The Lithotectonic Record of the Appalachian Region, p. 455--476,
   \doi{10.1130/2010.1206(20)}.
 
@@ -47,108 +113,281 @@ Burton, W.~C. and Southworth, S., 2010, A model for iapetan rifting of
   Rapela, Pankhurst, Morales, Murra, and Mark~Fanning}]{Casquet2018a}
 Casquet, C., Dahlquist, J.~A., Verdecchia, S.~O., Baldo, E.~G., Galindo, C.,
   Rapela, C.~W., Pankhurst, R.~J., Morales, M.~M., Murra, J.~A., and
-  Mark~Fanning, C., 2018, Review of the cambrian pampean orogeny of argentina;
-  a displaced orogen formerly attached to the saldania belt of south africa?:
+  Mark~Fanning, C., 2018, {Review of the Cambrian Pampean orogeny of Argentina;
+  a displaced orogen formerly attached to the Saldania Belt of South Africa?}:
   Earth-Science Reviews, v. 177, p. 209--225,
   \doi{10.1016/j.earscirev.2017.11.013}.
 
 \bibitem[{Condit et~al.(2015)Condit, Mahan, Ault, and Flowers}]{Condit2015a}
 Condit, C.~B., Mahan, K.~H., Ault, A.~K., and Flowers, R.~M., 2015,
-  Foreland-directed propagation of high-grade tectonism in the deep roots of a
-  paleoproterozoic collisional orogen, sw montana, usa: Lithosphere, p. L460.1,
-  \doi{10.1130/l460.1}.
+  {Foreland-directed propagation of high-grade tectonism in the deep roots of a
+  Paleoproterozoic collisional orogen, SW Montana, USA}: Lithosphere, p.
+  L460.1, \doi{10.1130/l460.1}.
 
 \bibitem[{Corrigan et~al.(2009)Corrigan, Pehrsson, Wodicka, and
   de~Kemp}]{Corrigan2009a}
-Corrigan, D., Pehrsson, S., Wodicka, N., and de~Kemp, E., 2009, The
-  palaeoproterozoic trans-hudson orogen: a prototype of modern accretionary
-  processes: Geological Society, London, Special Publications, v. 327, p.
+Corrigan, D., Pehrsson, S., Wodicka, N., and de~Kemp, E., 2009, {The
+  Palaeoproterozoic Trans-Hudson Orogen: a prototype of modern accretionary
+  processes}: Geological Society, London, Special Publications, v. 327, p.
   457--479, \doi{10.1144/sp327.19}.
 
 \bibitem[{Dahl et~al.(1999)Dahl, Holm, Gardner, Hubacher, and
   Foland}]{Dahl1999a}
 Dahl, P.~S., Holm, D.~K., Gardner, E.~T., Hubacher, F.~A., and Foland, K.~A.,
-  1999, New constraints on the timing of early proterozoic tectonism in the
-  black hills (south dakota), with implications for docking of the wyoming
-  province with laurentia: Geological Society of America Bulletin, v. 111, p.
+  1999, {New constraints on the timing of Early Proterozoic tectonism in the
+  Black Hills (South Dakota), with implications for docking of the Wyoming
+  province with Laurentia}: Geological Society of America Bulletin, v. 111, p.
   1335--1349, \doi{10.1130/0016-7606(1999)111<1335:ncotto>2.3.co;2}.
 
+\bibitem[{Denyszyn et~al.(2009{\natexlab{a}})Denyszyn, Davis, and
+  Halls}]{Denyszyn2009a}
+Denyszyn, S.~W., Davis, D.~W., and Halls, H.~C., 2009{\natexlab{a}},
+  {Paleomagnetism and U--Pb geochronology of the Clarence Head dykes, Arctic
+  Canada: orthogonal emplacement of mafic dykes in a large igneous province}:
+  Canadian Journal of Earth Sciences, v.~46, p. 155--167,
+  \doi{10.1139/E09-011}.
+
+\bibitem[{Denyszyn et~al.(2009{\natexlab{b}})Denyszyn, Halls, Davis, and
+  Evans}]{Denyszyn2009b}
+Denyszyn, S.~W., Halls, H.~C., Davis, D.~W., and Evans, D. A.~D.,
+  2009{\natexlab{b}}, {Paleomagnetism and U--Pb geochronology of Franklin dykes
+  in High Arctic Canada and Greenland: a revised age and paleomagnetic pole
+  constraining block rotations in the Nares Strait region}: Canadian Journal of
+  Earth Sciences, v.~46, p. 689--705, \doi{10.1139/E09-042}.
+
 \bibitem[{Dickerson and Keller(1998)}]{Dickerson1998a}
-Dickerson, P.~w. and Keller, M., 1998, The argentine precordillera: its odyssey
-  from the laurentian ouachita margin towards the sierras pampeanas of
-  gondwana: Geological Society, London, Special Publications, v. 142, p.
+Dickerson, P.~W. and Keller, M., 1998, {The Argentine Precordillera: its
+  odyssey from the Laurentian Ouachita margin towards the Sierras Pampeanas of
+  Gondwana}: Geological Society, London, Special Publications, v. 142, p.
   85--105, \doi{10.1144/gsl.sp.1998.142.01.05}.
+
+\bibitem[{Donadini et~al.(2011)Donadini, Pesonen, Korhonen, Deutsch, and
+  Harlan}]{Donadini2011b}
+Donadini, F., Pesonen, L.~J., Korhonen, K., Deutsch, A., and Harlan, S.~S.,
+  2011, Paleomagnetism and paleointensity of the 1.1 {G}a old diabase sheets
+  from central {A}rizona: Geophysica, v.~47, p. 3--30.
 
 \bibitem[{Elming et~al.(2009)Elming, D'Agrella-Filho, Page, Tohver, Trindade,
   Pacca, Geraldes, and Teixeira}]{Elming2009a}
 Elming, S.~{\AA}., D'Agrella-Filho, M.~S., Page, L.~M., Tohver, E., Trindade,
-  R. I.~F., Pacca, I. I.~G., Geraldes, M.~C., and Teixeira, W., 2009, A
-  palaeomagnetic and 40ar/39ar study of late precambrian sills in the sw part
-  of the amazonian craton: Amazonia in the rodinia reconstruction: Geophysical
+  R. I.~F., Pacca, I. I.~G., Geraldes, M.~C., and Teixeira, W., 2009, {A
+  palaeomagnetic and 40Ar/39Ar study of late precambrian sills in the SW part
+  of the Amazonian craton: Amazonia in the Rodinia reconstruction}: Geophysical
   Journal International, v. 178, p. 106--122.
 
-\bibitem[{Evans and Halls(2010)}]{Evans2010a}
-Evans, D. and Halls, H., 2010, Restoring proterozoic deformation within the
-  superior craton: Precambrian Research, v. 183, p. 474 -- 489,
-  \doi{http://doi.org/10.1016/j.precamres.2010.02.007}, precambrian Large
-  Igneous Provinces (LIPs) and their dyke swarms: New insights from
-  high-precision geochronology integrated with paleomagnetism and
-  geochemistrySymposium Mafic dyke swarms: a global perspective [MPI-04] during
-  the 33rd International Geological Congress.
+\bibitem[{Elston et~al.(2002)Elston, Enkin, Baker, and
+  Kisilevsky}]{Elston2002a}
+Elston, D.~P., Enkin, R.~J., Baker, J., and Kisilevsky, D.~K., 2002,
+  {Tightening the Belt: Paleomagnetic-stratigraphic constraints on deposition,
+  correlation, and deformation of the Middle Proterozoic (ca. 1.4 Ga)
+  Belt-Purcell Supergroup, United States and Canada}: GSA Bulletin, v. 114, p.
+  619--638, \doi{10.1130/0016-7606(2002)114<0619:TTBPSC>2.0.CO;2}.
 
-\bibitem[{Halls et~al.(2015)Halls, Lovette, Hamilton, and
-  S{\"o}derlund}]{Halls2015a}
-Halls, H.~C., Lovette, A., Hamilton, M., and S{\"o}derlund, U., 2015, A
-  paleomagnetic and u--pb geochronology study of the western end of the
-  grenville dyke swarm: Rapid changes in paleomagnetic field direction at ca.
-  585\&{\#}xa0;ma related to polarity reversals?: Precambrian Research, v. 257,
-  p. 137--166, \doi{http://dx.doi.org/10.1016/j.precamres.2014.11.029}.
+\bibitem[{Emslie et~al.(1976)Emslie, Irving, and Park}]{Emslie1976a}
+Emslie, R.~F., Irving, E., and Park, J.~K., 1976, {Further paleomagnetic
+  results from the Michikamau Intrusion, Labrador}: Canadian Journal of Earth
+  Sciences, v.~13, p. 1052--1057, \doi{10.1139/e76-108}.
+
+\bibitem[{Ernst and Buchan(1993)}]{Ernst1993a}
+Ernst, R. and Buchan, K., 1993, Paleomagnetism of the {A}bitibi dike swarm,
+  southern {S}uperior {P}rovince, and implications for the {L}ogan {L}oop:
+  Canadian Journal of Earth Science, v.~30, p. 1886--1897,
+  \doi{10.1139/e93-167}.
+
+\bibitem[{Evans and Halls(2010)}]{Evans2010a}
+Evans, D. and Halls, H., 2010, {Restoring Proterozoic deformation within the
+  Superior craton}: Precambrian Research, v. 183, p. 474 -- 489,
+  \doi{10.1016/j.precamres.2010.02.007}.
+
+\bibitem[{Evans and Bingham(1973)}]{Evans1973a}
+Evans, M.~E. and Bingham, D.~K., 1973, {Paleomagnetism of the Precambrian
+  Martin Formation, Saskatchewan}: Canadian Journal of Earth Sciences, v.~10,
+  p. 1485--1493, \doi{10.1139/e73-141}.
+
+\bibitem[{Evans and Hoye(1981)}]{Evans1981a}
+Evans, M.~E. and Hoye, G.~S., 1981, Paleomagnetic results from the lower
+  proterozoic rocks of {Great Slave Lake and Bathurst Inlet} areas, {N}orthwest
+  {T}erritories: \emph{In} Proterozoic Basins of Canada; Geological Survey of
+  Canada, Paper 81-10, Natural Resources Canada/ESS/Scientific and Technical
+  Publishing Services, \doi{10.4095/109374}.
+
+\bibitem[{Eyster et~al.(2019)Eyster, Weiss, Karlstrom, and
+  Macdonald}]{Eyster2019a}
+Eyster, A., Weiss, B.~P., Karlstrom, K., and Macdonald, F.~A., 2019,
+  {Paleomagnetism of the Chuar Group and evaluation of the late Tonian
+  Laurentian apparent polar wander path with implications for the makeup and
+  breakup of Rodinia}: GSA Bulletin, \doi{10.1130/b32012.1}.
+
+\bibitem[{Fahrig and Bridgwater(1976)}]{Fahrig1976b}
+Fahrig, W. and Bridgwater, D., 1976, {Late Archean-early Proterozoic
+  paleomagnetic pole positions from west Greenland}: \emph{In} Windley, B.,
+  ed., Early History of the Earth, Wiley, p. 427--442.
+
+\bibitem[{Fahrig and Jones(1976)}]{Fahrig1976a}
+Fahrig, W.~F. and Jones, D.~L., 1976, {The paleomagnetism of the Helikian
+  Mistastin pluton, Labrador, Canada}: Canadian Journal of Earth Sciences,
+  v.~13, p. 832--837, \doi{10.1139/e76-086}.
+
+\bibitem[{Fairchild et~al.(2017)Fairchild, Swanson-Hysell, Ramezani, Sprain,
+  and Bowring}]{Fairchild2017a}
+Fairchild, L.~M., Swanson-Hysell, N.~L., Ramezani, J., Sprain, C.~J., and
+  Bowring, S.~A., 2017, {The end of Midcontinent Rift magmatism and the
+  paleogeography of Laurentia}: Lithosphere, v.~9, p. 117--133,
+  \doi{10.1130/L580.1}.
+
+\bibitem[{Gala et~al.(1995)Gala, Symons, and Palmer}]{Gala1995a}
+Gala, M.~G., Symons, D. T.~A., and Palmer, H.~C., 1995, {Paleomagnetism of the
+  Jan Lake Granite, Trans-Hudson Orogen}: Saskatchewan Geological Survey
+  Summary of Investigations, v. 95-4.
+
+\bibitem[{Halls(1974)}]{Halls1974a}
+Halls, H., 1974, A paleomagnetic reversal in the {O}sler {V}olcanic {G}roup,
+  northern {L}ake {S}uperior: Canadian Journal of Earth Science, v.~11, p.
+  1200--1207, \doi{10.1139/e74-113}.
+
+\bibitem[{Halls(2015)}]{Halls2015b}
+Halls, H.~C., 2015, {Paleomagnetic evidence for $\sim$4000 km of crustal
+  shortening across the 1 Ga Grenville orogen of North America}: Geology,
+  v.~43, p. 1051--1054, \doi{10.1130/G37188.1}.
+
+\bibitem[{Halls et~al.(2008)Halls, Davis, Stott, Ernst, and
+  Hamilton}]{Halls2008a}
+Halls, H.~C., Davis, D.~W., Stott, G.~M., Ernst, R.~E., and Hamilton, M.~A.,
+  2008, {The Paleoproterozoic Marathon Large Igneous Province: New evidence for
+  a 2.1 Ga long-lived mantle plume event along the southern margin of the North
+  American Superior Province}: Precambrian Research, v. 162, p. 327--353,
+  \doi{10.1016/j.precamres.2007.10.009}.
+
+\bibitem[{Halls et~al.(2011)Halls, Hamilton, and Denyszyn}]{Halls2011a}
+Halls, H.~C., Hamilton, M.~A., and Denyszyn, S.~W., 2011, {The Melville Bugt
+  Dyke Swarm of Greenland: A Connection to the 1.5-1.6 Ga Fennoscandian
+  Rapakivi Granite Province?}, Springer Berlin Heidelberg, p. 509--535:
+  \doi{10.1007/978-3-642-12496-9{\_}27}.
+
+\bibitem[{Halls and Hanes(1999)}]{Halls1999a}
+Halls, H.~C. and Hanes, J.~A., 1999, {Paleomagnetism, anisotropy of magnetic
+  susceptibility, and argon--argon geochronology of the Clearwater anorthosite,
+  Saskatchewan, Canada}: Tectonophysics, v. 312, p. 235--248,
+  \doi{10.1016/s0040-1951(99)00166-3}.
 
 \bibitem[{Halverson et~al.(2018)Halverson, Porter, and Gibson}]{Halverson2018a}
 Halverson, G.~P., Porter, S.~M., and Gibson, T.~M., 2018, Dating the late
-  proterozoic stratigraphic record: Emerging Topics in Life Sciences, v.~2, p.
-  137--147, \doi{10.1042/etls20170167}.
+  {P}roterozoic stratigraphic record: Emerging Topics in Life Sciences, v.~2,
+  p. 137--147, \doi{10.1042/etls20170167}.
+
+\bibitem[{Hamilton(2011)}]{Hamilton2011a}
+Hamilton, W.~B., 2011, {Plate tectonics began in Neoproterozoic time, and
+  plumes from deep mantle have never operated}: Lithos, v. 123, p. 1--20,
+  \doi{10.1016/j.lithos.2010.12.007}.
+
+\bibitem[{Harlan(1993)}]{Harlan1993a}
+Harlan, S., 1993, Paleomagnetism of {M}iddle {P}roterozoic diabase sheets from
+  central {A}rizona: Canadian Journal of Earth Science, v.~30, p. 1415--1426.
+
+\bibitem[{Harlan et~al.(1997)Harlan, Geissman, and Snee}]{Harlan1997a}
+Harlan, S., Geissman, J., and Snee, L., 1997, Paleomagnetic and
+  $^{40}${A}r$/$$^{39}${A}r geochronologic data from late {P}roterozoic mafic
+  dykes and sills, {M}ontana and {W}yoming: USGS Professional Paper, v. 1580,
+  p.~16.
+
+\bibitem[{Harlan and Geissman(1998)}]{Harlan1998a}
+Harlan, S.~S. and Geissman, J.~W., 1998, {Paleomagnetism of the middle
+  Proterozoic Electra Lake Gabbro, Needle Mountains, southwestern Colorado}:
+  Journal of Geophysical Research: Solid Earth, v. 103, p. 15,497--15,507,
+  \doi{10.1029/98jb01350}.
+
+\bibitem[{Harlan et~al.(2008)Harlan, Geissman, and Snee}]{Harlan2008a}
+Harlan, S.~S., Geissman, J.~W., and Snee, L.~W., 2008, {Paleomagnetism of
+  Proterozoic mafic dikes from the Tobacco Root Mountains, southwest Montana}:
+  Precambrian Research, v. 163, p. 239--264.
+
+\bibitem[{Harlan et~al.(1994)Harlan, Snee, Geissman, and
+  Brearley}]{Harlan1994a}
+Harlan, S.~S., Snee, L.~W., Geissman, J.~W., and Brearley, A.~J., 1994,
+  Paleomagnetism of the middle proterozoic laramie anorthosite complex and
+  sherman granite, southern laramie range, wyoming and colorado: Journal of
+  Geophysical Research: Solid Earth, v.~99, p. 17,997--18,020,
+  \doi{10.1029/94jb00580}.
+
+\bibitem[{Henry et~al.(1977)Henry, Mauk, and Van~der Voo}]{Henry1977a}
+Henry, S., Mauk, F., and Van~der Voo, R., 1977, Paleomagnetism of the upper
+  {K}eweenawan sediments: {N}onesuch {S}hale and {F}reda {S}andstone: Canadian
+  Journal of Earth Science, v.~14, p. 1128--1138, \doi{10.1139/e77-103}.
 
 \bibitem[{Hildebrand et~al.(2009)Hildebrand, Hoffman, and
   Bowring}]{Hildebrand2009a}
-Hildebrand, R.~S., Hoffman, P.~F., and Bowring, S.~A., 2009, The calderian
-  orogeny in wopmay orogen (1.9 ga), northwestern canadian shield: Geological
-  Society of America Bulletin, p.~--.
+Hildebrand, R.~S., Hoffman, P.~F., and Bowring, S.~A., 2009, {The Calderian
+  orogeny in Wopmay orogen (1.9 Ga), northwestern Canadian Shield}: Geological
+  Society of America Bulletin, v. 122, p. 794--814, \doi{10.1130/B26521.1}.
+
+\bibitem[{{Hnat} et~al.(2006){Hnat}, {van der Pluijm}, and {Van der
+  Voo}}]{Hnat2006a}
+{Hnat}, J.~S., {van der Pluijm}, B.~A., and {Van der Voo}, R., 2006, {Primary
+  curvature in the Mid-Continent Rift: Paleomagnetism of the Portage Lake
+  Volcanics (northern Michigan, USA)}: Tectonophysics, v. 425, p. 71--82,
+  \doi{10.1016/j.tecto.2006.07.006}.
 
 \bibitem[{Hoffman(1991)}]{Hoffman1991a}
 Hoffman, P., 1991, Did the breakout of {L}aurentia turn {G}ondwana inside out?:
   Science, v. 252, p. 1409--1412.
 
 \bibitem[{Hoffman(1988)}]{Hoffman1988a}
-Hoffman, P.~F., 1988, United plates of america, the birth of a craton: Early
-  proterozoic assembly and growth of laurentia: Annual Review of Earth and
-  Planetary Sciences, v.~16.
+Hoffman, P.~F., 1988, United plates of {A}merica, the birth of a craton: Early
+  {P}roterozoic assembly and growth of {L}aurentia: Annual Review of Earth and
+  Planetary Sciences, v.~16, p. 543--603,
+  \doi{10.1146/annurev.ea.16.050188.002551}.
 
 \bibitem[{Hoffman(1989)}]{Hoffman1989a}
-Hoffman, P.~F., 1989, Speculations on laurentia's first gigayear (2.0 to 1.0
-  ga): Geology, v.~17, p. 135--138.
+Hoffman, P.~F., 1989, Speculations on {L}aurentia's first gigayear (2.0 to 1.0
+  {G}a): Geology, v.~17, p. 135--138,
+  \doi{10.1130/0091-7613(1989)017<0135:SOLSFG>2.3.CO;2}.
+
+\bibitem[{Hoffman et~al.(2012)Hoffman, Halverson, Domack, Maloof,
+  Swanson-Hysell, and Cox}]{Hoffman2012a}
+Hoffman, P.~F., Halverson, G.~P., Domack, E.~W., Maloof, A.~C., Swanson-Hysell,
+  N.~L., and Cox, G.~M., 2012, {Cryogenian glaciations on the southern tropical
+  paleomargin of Laurentia (NE Svalbard and East Greenland), and a primary
+  origin for the upper Russ{\o}ya (Islay) carbon isotope excursion}:
+  Precambrian Research, v. 206--207, p. 137--158,
+  \doi{10.1016/j.precamres.2012.02.018}.
 
 \bibitem[{Holm et~al.(2005)Holm, Van~Schmus, MacNeill, Boerboom, Schweitzer,
   and Schneider}]{Holm2005a}
 Holm, D.~K., Van~Schmus, W.~R., MacNeill, L.~C., Boerboom, T.~J., Schweitzer,
-  D., and Schneider, D., 2005, U-pb zircon geochronology of paleoproterozoic
-  plutons from the northern midcontinent, usa: Evidence for subduction flip and
-  continued convergence after geon 18 penokean orogenesis: Geological Society
+  D., and Schneider, D., 2005, {U-Pb zircon geochronology of Paleoproterozoic
+  plutons from the northern midcontinent, USA: Evidence for subduction flip and
+  continued convergence after geon 18 Penokean orogenesis}: Geological Society
   of America Bulletin, v. 117, p. 259, \doi{10.1130/b25395.1}.
 
 \bibitem[{Hrncir et~al.(2017)Hrncir, Karlstrom, and Dahl}]{Hrncir2017a}
-Hrncir, J., Karlstrom, K., and Dahl, P., 2017, Wyoming on the run---toward
-  final paleoproterozoic assembly of laurentia: Comment: Geology, v.~45, p.
+Hrncir, J., Karlstrom, K., and Dahl, P., 2017, {Wyoming on the run---Toward
+  final Paleoproterozoic assembly of Laurentia: COMMENT}: Geology, v.~45, p.
   e411--e411, \doi{10.1130/g38826c.1}.
 
 \bibitem[{Hunter(2007)}]{Hunter2007a}
-Hunter, J.~D., 2007, Matplotlib: A 2d graphics environment: Computing in
+Hunter, J.~D., 2007, Matplotlib: A 2{D} graphics environment: Computing in
   Science \& Engineering, v.~9, p. 90--95, \doi{10.1109/MCSE.2007.55}.
 
+\bibitem[{Irving(2004)}]{Irving2004a}
+Irving, E., 2004, Early {P}roterozoic geomagnetic field in western {L}aurentia:
+  implications for paleolatitudes, local rotations and stratigraphy:
+  Precambrian Research, v. 129, p. 251--270,
+  \doi{10.1016/j.precamres.2003.10.002}.
+
+\bibitem[{Irving and McGlynn(1979)}]{Irving1979a}
+Irving, E. and McGlynn, J.~C., 1979, {Palaeomagnetism in the Coronation
+  Geosyncline and arrangement of continents in the middle Proterozoic}:
+  Geophysical Journal International, v.~58, p. 309--336,
+  \doi{10.1111/j.1365-246X.1979.tb01027.x}.
+
+\bibitem[{Irving and Park(1972)}]{Irving1972a}
+Irving, E. and Park, J.~K., 1972, Hairpins and superintervals: Canadian Journal
+  of Earth Sciences, v.~9, p. 1318--1324, \doi{10.1139/e72-115}.
+
 \bibitem[{Jones et~al.(2015)Jones, Daniel, and Doe}]{Jones2015a}
-Jones, J.~V., Daniel, C.~G., and Doe, M.~F., 2015, Tectonic and sedimentary
-  linkages between the belt-purcell basin and southwestern laurentia during the
-  mesoproterozoic, ca. 1.60--1.40 ga: Lithosphere, v.~7, p. 465--472,
+Jones, J.~V., Daniel, C.~G., and Doe, M.~F., 2015, {Tectonic and sedimentary
+  linkages between the Belt-Purcell basin and southwestern Laurentia during the
+  Mesoproterozoic, ca. 1.60--1.40 Ga}: Lithosphere, v.~7, p. 465--472,
   \doi{10.1130/l438.1}.
 
 \bibitem[{Karlstrom et~al.(2001)Karlstrom, Ahall, Harlan, Williams, McLelland,
@@ -156,25 +395,61 @@ Jones, J.~V., Daniel, C.~G., and Doe, M.~F., 2015, Tectonic and sedimentary
 Karlstrom, K.~E., Ahall, K.-I., Harlan, S.~S., Williams, M.~L., McLelland, J.,
   and Geissman, J.~W., 2001, {Long-lived (1.8-1.0 Ga) convergent orogen in
   southern Laurentia, its extensions to Australia and Baltica, and implications
-  for refining Rodinia}: Precambrian Research, v. 111, p. 5--30.
+  for refining Rodinia}: Precambrian Research, v. 111, p. 5--30,
+  \doi{10.1016/S0301-9268(01)00154-1}.
 
-\bibitem[{Kilian et~al.(2016)Kilian, Swanson-Hysell, Bold, Crowley, and
-  Macdonald}]{Kilian2016a}
-Kilian, T.~M., Swanson-Hysell, N.~L., Bold, U., Crowley, J., and Macdonald,
-  F.~A., 2016, Paleomagnetism of the teel basalts from the zavkhan terrane:
-  Implications for paleozoic paleogeography in mongolia and the growth of
-  continental crust: Lithosphere.
+\bibitem[{Karlstrom and Bowring(1988)}]{Karlstrom1988a}
+Karlstrom, K.~E. and Bowring, S.~A., 1988, Early {P}roterozoic assembly of
+  tectonostratigraphic terranes in southwestern {N}orth {A}merica: The Journal
+  of Geology, v.~96, p. 561--576, \doi{10.1086/629252}.
 
-\bibitem[{LEVY and CHRISTIE-BLICK(1991)}]{Levy1991a}
-LEVY, M. and CHRISTIE-BLICK, N., 1991, Tectonic subsidence of the early
-  paleozoic passive continental margin in eastern california and southern
-  nevada: Geological Society of America Bulletin, v. 103, p. 1590--1606,
+\bibitem[{Kean et~al.(1997)Kean, Williams, and Feeney}]{Kean1997a}
+Kean, W., Williams, I., and Feeney, J., 1997, Magnetism of the {K}eweenawan age
+  {C}hengwatana lava flows, northwest {W}isconsin: Geophysical Research
+  Letters, v.~24, p. 1523--1526, \doi{10.1029/97gl00993}.
+
+\bibitem[{Kilian et~al.(2015)Kilian, Bleeker, Chamberlain, Evans, and
+  Cousens}]{Kilian2015a}
+Kilian, T.~M., Bleeker, W., Chamberlain, K., Evans, D. A.~D., and Cousens, B.,
+  2015, {Palaeomagnetism, geochronology and geochemistry of the
+  Palaeoproterozoic Rabbit Creek and Powder River dyke swarms: implications for
+  Wyoming in supercraton Superia}: Geological Society, London, Special
+  Publications, v. 424, p. 15--45, \doi{10.1144/sp424.7}.
+
+\bibitem[{Kilian et~al.(2016)Kilian, Chamberlain, Evans, Bleeker, and
+  Cousens}]{Kilian2016b}
+Kilian, T.~M., Chamberlain, K.~R., Evans, D.~A., Bleeker, W., and Cousens,
+  B.~L., 2016, {Wyoming on the run---Toward final Paleoproterozoic assembly of
+  Laurentia}: Geology, v.~44, p. 863--866, \doi{10.1130/g38042.1}.
+
+\bibitem[{Korenaga(2013)}]{Korenaga2013a}
+Korenaga, J., 2013, Initiation and evolution of plate tectonics on earth:
+  Theories and observations: Annual Review of Earth and Planetary Sciences,
+  v.~41, p. 117--151, \doi{10.1146/annurev-earth-050212-124208}.
+
+\bibitem[{Kulakov et~al.(2013)Kulakov, Smirnov, and Diehl}]{Kulakov2013a}
+Kulakov, E.~V., Smirnov, A.~V., and Diehl, J.~F., 2013, {Paleomagnetism of
+  $\sim$1.09 Ga Lake Shore Traps (Keweenaw Peninsula, Michigan): new results
+  and implications}: Canadian Journal of Earth Sciences, v.~50, p. 1085--1096,
+  \doi{10.1139/cjes-2013-0003}.
+
+\bibitem[{Levy and Christie-Blick(1991)}]{Levy1991a}
+Levy, M. and Christie-Blick, N., Nicholas, 1991, {Tectonic subsidence of the
+  early Paleozoic passive continental margin in eastern California and southern
+  Nevada}: Geological Society of America Bulletin, v. 103, p. 1590--1606,
   \doi{10.1130/0016-7606(1991)103<1590:tsotep>2.3.co;2}.
 
 \bibitem[{Li et~al.(2008)}]{Li2008a}
 Li, Z.~X. et~al., 2008, Assembly, configuration, and break-up history of
   {R}odinia: A synthesis: Precambrian Research, v. 160, p. 179--210,
   \doi{10.1016/j.precamres.2007.04.021}.
+
+\bibitem[{Macdonald et~al.(2012)Macdonald, Halverson, Strauss, Smith, Cox,
+  Sperling, and Roots}]{Macdonald2012a}
+Macdonald, F., Halverson, G., Strauss, J., Smith, E., Cox, G., Sperling, E.,
+  and Roots, C., 2012, Early {N}eoproterozoic basin formation in {Y}ukon,
+  {C}anada: Implications for the make-up and break-up of {R}odinia: Geoscience
+  Canada, v.~39.
 
 \bibitem[{Maloof et~al.(2006)Maloof, Halverson, Kirschvink, Schrag, Weiss, and
   Hoffman}]{Maloof2006a}
@@ -184,16 +459,42 @@ Maloof, A., Halverson, G., Kirschvink, J., Schrag, D., Weiss, B., and Hoffman,
   {S}valbard, {N}orway: Geological Society of America Bulletin, v. 118, p.
   1099--1124, \doi{10.1130/B25892.1}.
 
+\bibitem[{Marcussen and Abrahamsen(1983)}]{Marcussen1983a}
+Marcussen, C. and Abrahamsen, N., 1983, {Palaeomagnetism of the Proterozoic
+  Zig-Zag Dal Basalt and the Midsommerso Dolerites, eastern North Greenland}:
+  Geophysical Journal International, v.~73, p. 367--387,
+  \doi{10.1111/j.1365-246x.1983.tb03321.x}.
+
 \bibitem[{Martin et~al.(2019)Martin, Collins, and Spencer}]{Martin2019a}
-Martin, E.~L., Collins, W.~J., and Spencer, C.~J., 2019, Laurentian origin of
-  the cuyania suspect terrane, western argentina, confirmed by hf isotopes in
-  zircon: GSA Bulletin, \doi{10.1130/b35150.1}.
+Martin, E.~L., Collins, W.~J., and Spencer, C.~J., 2019, {Laurentian origin of
+  the Cuyania suspect terrane, western Argentina, confirmed by Hf isotopes in
+  zircon}: GSA Bulletin, \doi{10.1130/b35150.1}.
+
+\bibitem[{McCausland et~al.(2011)McCausland, Hankard, Van~der Voo, and
+  Hall}]{McCausland2011a}
+McCausland, P. J.~A., Hankard, F., Van~der Voo, R., and Hall, C.~M., 2011,
+  {Ediacaran paleogeography of Laurentia: Paleomagnetism and 40Ar-39Ar
+  geochronology of the 583 Ma Baie des Moutons syenite, Quebec}: Precambrian
+  Research, v. 187, p. 58--78, \doi{10.1016/j.precamres.2011.02.004}.
+
+\bibitem[{McCausland et~al.(2007)McCausland, Van~der Voo, and
+  Hall}]{McCausland2007a}
+McCausland, P. J.~A., Van~der Voo, R., and Hall, C.~M., 2007, {Circum-Iapetus
+  paleogeography of the Precambrian--Cambrian transition with a new
+  paleomagnetic constraint from Laurentia}: Precambrian Research, v. 156, p.
+  125--152, \doi{10.1016/j.precamres.2007.03.004}.
 
 \bibitem[{McFarlane(2015)}]{McFarlane2015a}
-McFarlane, C.~R., 2015, A geochronological framework for sedimentation and
-  mesoproterozoic tectono-magmatic activity in lower belt--purcell rocks
-  exposed west of kimberley, british columbia: Canadian Journal of Earth
+McFarlane, C.~R., 2015, {A geochronological framework for sedimentation and
+  Mesoproterozoic tectono-magmatic activity in lower Belt--Purcell rocks
+  exposed west of Kimberley, British Columbia}: Canadian Journal of Earth
   Sciences, v.~52, p. 444--465, \doi{10.1139/cjes-2014-0215}.
+
+\bibitem[{McGlynn et~al.(1974)McGlynn, Hanson, Irving, and Park}]{McGlynn1974a}
+McGlynn, J.~C., Hanson, G.~N., Irving, E., and Park, J.~K., 1974,
+  {Paleomagnetism and age of Nonacho Group sandstones and associated Sparrow
+  dikes, District of Mackenzie}: Canadian Journal of Earth Sciences, v.~11, p.
+  30--42, \doi{10.1139/e74-003}.
 
 \bibitem[{McLelland et~al.(2010)McLelland, Selleck, and
   Bickford}]{McLelland2010a}
@@ -210,28 +511,53 @@ McLelland, J.~M., Selleck, B.~W., and Bickford, M.~E., 2013, Tectonic evolution
   {USA}: Geoscience Canada, v.~40, p. 318, \doi{10.12789/geocanj.2013.40.022}.
 
 \bibitem[{McMechan and Price(1982)}]{McMechan1982a}
-McMechan, M.~E. and Price, R.~A., 1982, Superimposed low-grade metamorphism in
-  the mount fisher area, southeastern british columbia---implications for the
-  east kootenay orogeny: Canadian Journal of Earth Sciences, v.~19, p.
+McMechan, M.~E. and Price, R.~A., 1982, {Superimposed low-grade metamorphism in
+  the Mount Fisher area, southeastern British Columbia---implications for the
+  East Kootenay orogeny}: Canadian Journal of Earth Sciences, v.~19, p.
   476--489, \doi{10.1139/e82-039}.
 
-\bibitem[{Merdith et~al.(2017)Merdith, Williams, M{\"u}ller, and
-  Collins}]{Merdith2017a}
-Merdith, A.~S., Williams, S.~E., M{\"u}ller, R.~D., and Collins, A.~S., 2017,
-  Kinematic constraints on the rodinia to gondwana transition: Precambrian
-  Research, v. 299, p. 132--150, \doi{10.1016/j.precamres.2017.07.013}.
+\bibitem[{Meert et~al.(1994)Meert, der Voo, and Payne}]{Meert1994a}
+Meert, J., der Voo, R.~V., and Payne, T., 1994, Paleomagnetism of the
+  {C}atoctin volcanic province: a new {V}endian-{C}ambrian apparent polar
+  wander path for {N}orth {A}merica: Journal of Geophysical Research, v.~99, p.
+  4625--4641.
+
+\bibitem[{Meert and Stuckey(2002)}]{Meert2002b}
+Meert, J.~G. and Stuckey, W., 2002, {Revisiting the paleomagnetism of the 1.476
+  Ga St. Francois Mountains igneous province, Missouri}: Tectonics, v.~21,
+  \doi{10.1029/2000tc001265}.
+
+\bibitem[{Merdith et~al.(2017)Merdith, Collins, Williams, Pisarevsky, Foden,
+  Archibald, Blades, Alessio, Armistead, Plavsa, and et~al.}]{Merdith2017b}
+Merdith, A.~S., Collins, A.~S., Williams, S.~E., Pisarevsky, S., Foden, J.~D.,
+  Archibald, D.~B., Blades, M.~L., Alessio, B.~L., Armistead, S., Plavsa, D.,
+  and et~al., 2017, A full-plate global reconstruction of the {N}eoproterozoic:
+  Gondwana Research, v.~50, p. 84--134, \doi{10.1016/j.gr.2017.04.001}.
 
 \bibitem[{{Met Office}(2010 - 2015)}]{Met-Office2010a}
 {Met Office}, 2010 - 2015, Cartopy: a cartographic python library with a
   matplotlib interface: Exeter, Devon,
   \urlprefix\url{http://scitools.org.uk/cartopy}.
 
+\bibitem[{Middleton et~al.(2004)Middleton, Borradaile, Baker, and
+  Lucas}]{Middleton2004a}
+Middleton, R.~S., Borradaile, G.~J., Baker, D., and Lucas, K., 2004,
+  Proterozoic diabase sills of northern {O}ntario: Magnetic properties and
+  history: Journal of Geophysical Research: Solid Earth, v. 109,
+  \doi{10.1029/2003jb002581}.
+
 \bibitem[{Mitchell et~al.(2014)Mitchell, Bleeker, van Breemen, Lecheminant,
   Peng, Nilsson, and Evans}]{Mitchell2014a}
 Mitchell, R.~N., Bleeker, W., van Breemen, O., Lecheminant, T.~N., Peng, P.,
-  Nilsson, M. K.~M., and Evans, D. A.~D., 2014, Plate tectonics before 2.0 ga:
-  Evidence from paleomagnetism of cratons within supercontinent nuna: American
-  Journal of Science, v. 314, p. 878--894.
+  Nilsson, M. K.~M., and Evans, D. A.~D., 2014, {Plate tectonics before 2.0 Ga:
+  Evidence from paleomagnetism of cratons within supercontinent Nuna}: American
+  Journal of Science, v. 314, p. 878--894, \doi{10.2475/04.2014.03}.
+
+\bibitem[{Mitchell et~al.(2010)Mitchell, Hoffman, and Evans}]{Mitchell2010c}
+Mitchell, R.~N., Hoffman, P.~F., and Evans, D. A.~D., 2010, Coronation loop
+  resurrected: Oscillatory apparent polar wander of orosirian (2.05-1.8†ga)
+  paleomagnetic poles from slave craton: Precambrian Research, v. 179, p.
+  121--134.
 
 \bibitem[{Mitchell et~al.(2012)Mitchell, Kilian, and Evans}]{Mitchell2012a}
 Mitchell, R.~N., Kilian, T.~M., and Evans, D. A.~D., 2012, Supercontinent
@@ -242,39 +568,121 @@ Mitchell, R.~N., Kilian, T.~M., and Evans, D. A.~D., 2012, Supercontinent
   Williams, Pfaffelmoser, Seton, Russell, and Zahirovic}]{Muller2018b}
 M{\"u}ller, R.~D., Cannon, J., Qin, X., Watson, R.~J., Gurnis, M., Williams,
   S., Pfaffelmoser, T., Seton, M., Russell, S. H.~J., and Zahirovic, S., 2018,
-  Gplates: Building a virtual earth through deep time: Geochemistry,
+  {GPlates}: Building a virtual earth through deep time: Geochemistry,
   Geophysics, Geosystems, v.~19, p. 2243--2261, \doi{10.1029/2018gc007584}.
+
+\bibitem[{Murthy et~al.(1992)Murthy, Gower, Tubett, and Patzold}]{Murthy1992a}
+Murthy, G., Gower, C., Tubett, M., and Patzold, R., 1992, Paleomagnetism of
+  {E}ocambrian {L}ong {R}ange dykes and {D}ouble {M}er {F}ormation from
+  {L}abrador, {C}anada: Canadian Journal of Earth Sciences, v.~29, p.
+  1224--1234, \doi{10.1139/e92-098}.
+
+\bibitem[{Murthy(1978)}]{Murthy1978a}
+Murthy, G.~S., 1978, Paleomagnetic results from the {N}ain anorthosite and
+  their tectonic implications: Canadian Journal of Earth Sciences, v.~15, p.
+  516--525, \doi{10.1139/e78-058}.
 
 \bibitem[{Nesheim et~al.(2012)Nesheim, Vervoort, McClelland, Gilotti, and
   Lang}]{Nesheim2012a}
 Nesheim, T.~O., Vervoort, J.~D., McClelland, W.~C., Gilotti, J.~A., and Lang,
-  H.~M., 2012, Mesoproterozoic syntectonic garnet within belt supergroup
-  metamorphic tectonites: Evidence of grenville-age metamorphism and
-  deformation along northwest laurentia: Lithos, v. 134-135, p. 91--107,
+  H.~M., 2012, {Mesoproterozoic syntectonic garnet within Belt Supergroup
+  metamorphic tectonites: Evidence of Grenville-age metamorphism and
+  deformation along northwest Laurentia}: Lithos, v. 134-135, p. 91--107,
   \doi{10.1016/j.lithos.2011.12.008}.
+
+\bibitem[{Palin and White(2015)}]{Palin2015a}
+Palin, R.~M. and White, R.~W., 2015, Emergence of blueschists on {E}arth linked
+  to secular changes in oceanic crust composition: Nature Geoscience, v.~9, p.
+  60--64, \doi{10.1038/ngeo2605}.
+
+\bibitem[{Palmer(1970)}]{Palmer1970a}
+Palmer, H., 1970, Paleomagnetism and correlation of some {M}iddle {K}eweenawan
+  rocks, {L}ake {S}uperior: Canadian Journal of Earth Science, v.~7, p.
+  1410--1436, \doi{10.1139/e70-136}.
+
+\bibitem[{Palmer et~al.(1977)Palmer, Merz, and Hayatsu}]{Palmer1977a}
+Palmer, H.~C., Merz, B.~A., and Hayatsu, A., 1977, {The Sudbury dikes of the
+  Grenville Front region: paleomagnetism, petrochemistry, and K--Ar age
+  studies}: Canadian Journal of Earth Sciences, v.~14, p. 1867--1887.
+
+\bibitem[{Park et~al.(1989)Park, Norris, and LaRochelle}]{Park1989a}
+Park, J., Norris, D., and LaRochelle, A., 1989, Paleomagnetism and the origin
+  of the {M}ackenzie {A}rc of northwestern {C}anada: Canadian Journal of Earth
+  Science, v.~26, p. 2194--2203, \doi{10.1139/e89-186}.
+
+\bibitem[{Park et~al.(1973)Park, Irving, and Donaldson}]{Park1973a}
+Park, J.~K., Irving, E., and Donaldson, J.~A., 1973, {Paleomagnetism of the
+  Precambrian Dubawnt Group}: Geological Society of America Bulletin, v.~84, p.
+  859, \doi{10.1130/0016-7606(1973)84<859:potpdg>2.0.co;2}.
 
 \bibitem[{Pehrsson et~al.(2015)Pehrsson, Eglington, Evans, Huston, and
   Reddy}]{Pehrsson2015a}
 Pehrsson, S.~J., Eglington, B.~M., Evans, D. A.~D., Huston, D., and Reddy,
-  S.~M., 2015, Metallogeny and its link to orogenic style during the nuna
+  S.~M., 2015, Metallogeny and its link to orogenic style during the {N}una
   supercontinent cycle: Geological Society, London, Special Publications, v.
-  424.
+  424, \doi{10.1144/SP424.5}.
 
 \bibitem[{P\'erez and Granger(2007)}]{Perez2007a}
 P\'erez, F. and Granger, B.~E., 2007, {IP}ython: a system for interactive
   scientific computing: Computing in Science and Engineering, v.~9, p. 21--29,
   \doi{10.1109/MCSE.2007.53}.
 
-\bibitem[{Pesonen et~al.(2012)Pesonen, Mertanen, and
-  Veikkolainen}]{Pesonen2012a}
-Pesonen, L.~J., Mertanen, S., and Veikkolainen, T., 2012, Paleo-mesoproterozoic
-  supercontinents -- a paleomagnetic view: Geophysica, v.~48, p. 5--48.
+\bibitem[{Pesonen(1979)}]{Pesonen1979a}
+Pesonen, L., 1979, Paleomagnetism of late {P}recambrian {K}eweenawan igneous
+  and baked contact rocks from {T}hunder {B}ay district, northern {L}ake
+  {S}uperior: Bulletin of the Geological Society of Finland, v.~51, p. 27--44.
+
+\bibitem[{Pesonen and Halls(1979)}]{Pesonen1979b}
+Pesonen, L.~J. and Halls, H., 1979, The paleomagnetism of {K}eweenawan dikes
+  from {B}araga and {M}arquette {C}ounties, northern {M}ichigan: Canadian
+  Journal of Earth Science, v.~16, p. 2136--2149, \doi{10.1139/e79-201}.
+
+\bibitem[{Piispa et~al.(2018)Piispa, Smirnov, Pesonen, and
+  Mitchell}]{Piispa2018a}
+Piispa, E.~J., Smirnov, A.~V., Pesonen, L.~J., and Mitchell, R.~H., 2018,
+  Paleomagnetism and geochemistry of ~1144-ma lamprophyre dikes, {N}orthwestern
+  {O}ntario: Implications for the {N}orth {A}merican polar wander and plate
+  velocities: Journal of Geophysical Research: Solid Earth,
+  \doi{10.1029/2018jb015992}.
+
+\bibitem[{Piper(1992)}]{Piper1992a}
+Piper, J., 1992, {The palaeomagnetism of major (Middle Proterozoic) igneous
+  complexes, South Greenland and the Gardar apparent polar wander track}:
+  Precambrian Research, v.~54, p. 153 -- 172,
+  \doi{10.1016/0301-9268(92)90068-Y}.
+
+\bibitem[{Piper and Stearn(1977)}]{Piper1977b}
+Piper, J. and Stearn, J., 1977, {Palaeomagnetism of the dyke swarms of the
+  Gardar Igneous Province, south Greenland}: Physics of the Earth and Planetary
+  Interiors, v.~14, p. 345--358, \doi{10.1016/0031-9201(77)90167-4}.
+
+\bibitem[{Piper(1977)}]{Piper1977a}
+Piper, J. D.~A., 1977, {Palaeomagnetism of the giant dykes of Tugtutoq and
+  Narssaq Gabbro, Gardar Igneous Province, South Greenland}: Bull. Geol. Soc.
+  Den, v.~26, p. 85--94.
+
+\bibitem[{Pisarevsky et~al.(2014)Pisarevsky, Elming, Pesonen, and
+  Li}]{Pisarevsky2014b}
+Pisarevsky, S.~A., Elming, S.-{\AA}., Pesonen, L.~J., and Li, Z.-X., 2014,
+  Mesoproterozoic paleogeography: Supercontinent and beyond: Precambrian
+  Research, v. 244, p. 207--225, \doi{10.1016/j.precamres.2013.05.014}.
+
+\bibitem[{Pullaiah and Irving(1975)}]{Pullaiah1975b}
+Pullaiah, G. and Irving, E., 1975, Paleomagnetism of the contact aureole and
+  late dikes of the {O}tto stock, {O}ntario, and its application to early
+  proterozoic apparent polar wandering: Canadian Journal of Earth Sciences,
+  v.~12, p. 1609--1618, \doi{10.1139/e75-143}.
+
+\bibitem[{Rapalini(2018)}]{Rapalini2018a}
+Rapalini, A.~E., 2018, The assembly of western {G}ondwana: Reconstruction based
+  on paleomagnetic data: Geology of Southwest Gondwana, p. 3--18,
+  \doi{10.1007/978-3-319-68920-3_1}.
 
 \bibitem[{Redden et~al.(1990)Redden, Peterman, Zartman, and
   De-Witt}]{Redden1990a}
-Redden, J., Peterman, Z., Zartman, R., and De-Witt, E., 1990, U-th-pb
-  geochronology and preliminary interpretation of precambrian tectonic events
-  in the black hills, south dakota: \emph{In} The Early Proterozoic
+Redden, J., Peterman, Z., Zartman, R., and De-Witt, E., 1990, {U-Th-Pb
+  geochronology and preliminary interpretation of Precambrian tectonic events
+  in the Black Hills, South Dakota}: \emph{In} The Early Proterozoic
   Trans-Hudson Orogen, Geological Association of Canada Special Paper 37, p.
   229--251.
 
@@ -284,31 +692,140 @@ Rivers, T., 2008, Assembly and preservation of lower, mid, and upper orogenic
   hot long-duration orogens: Precambrian Research, v. 167, p. 237--259,
   \doi{10.1016/j.precamres.2008.08.005}.
 
+\bibitem[{Robert et~al.(2017)Robert, Besse, Blein, Greff-Lefftz, Baudin, Lopes,
+  Meslouh, and Belbadaoui}]{Robert2017a}
+Robert, B., Besse, J., Blein, O., Greff-Lefftz, M., Baudin, T., Lopes, F.,
+  Meslouh, S., and Belbadaoui, M., 2017, Constraints on the ediacaran inertial
+  interchange true polar wander hypothesis: A new paleomagnetic study in
+  morocco (west african craton): Precambrian Research, v. 295, p. 90--116,
+  \doi{10.1016/j.precamres.2017.04.010}.
+
+\bibitem[{Robertson and Fahrig(1971)}]{Robertson1971a}
+Robertson, W. and Fahrig, W., 1971, The great {L}ogan {L}oop - the polar
+  wandering path from {C}anadian shield rocks during the {N}eohelikian era:
+  Canadian Journal of Earth Science, v.~8, p. 1355--1372,
+  \doi{10.1139/e71-125}.
+
+\bibitem[{Roest and Srivastava(1989)}]{Roest1989a}
+Roest, W.~R. and Srivastava, S.~P., 1989, Sea-floor spreading in the labrador
+  sea: A new reconstruction: Geology, v.~17, p. 1000,
+  \doi{10.1130/0091-7613(1989)017<1000:sfsitl>2.3.co;2}.
+
 \bibitem[{Rooney et~al.(2017)Rooney, Austermann, Smith, Li, Selby, Dehler,
   Schmitz, Karlstrom, and Macdonald}]{Rooney2017a}
 Rooney, A.~D., Austermann, J., Smith, E.~F., Li, Y., Selby, D., Dehler, C.~M.,
-  Schmitz, M.~D., Karlstrom, K.~E., and Macdonald, F.~A., 2017, Coupled re-os
-  and u-pb geochronology of the tonian chuar group, grand canyon: GSA Bulletin,
-  \doi{10.1130/b31768.1}.
+  Schmitz, M.~D., Karlstrom, K.~E., and Macdonald, F.~A., 2017, {Coupled Re-Os
+  and U-Pb geochronology of the Tonian Chuar Group, Grand Canyon}: GSA
+  Bulletin, \doi{10.1130/b31768.1}.
 
 \bibitem[{Ross(1991)}]{Ross1991a}
-Ross, G.~M., 1991, Tectonic setting of the windermere supergroup revisited:
+Ross, G.~M., 1991, {Tectonic setting of the Windermere Supergroup revisited}:
   Geology, v.~19, p. 1125,
   \doi{10.1130/0091-7613(1991)019<1125:tsotws>2.3.co;2}.
 
+\bibitem[{Schmidt(1980)}]{Schmidt1980a}
+Schmidt, P.~W., 1980, {Paleomagnetism of igneous rocks from the Belcher
+  Islands, Northwest Territories, Canada}: Canadian Journal of Earth Sciences,
+  v.~17, p. 807--822, \doi{10.1139/e80-081}.
+
+\bibitem[{Schulz and Cannon(2007)}]{Schulz2007a}
+Schulz, K.~J. and Cannon, W.~F., 2007, {The Penokean orogeny in the Lake
+  Superior region}: Precambrian Research, v. 157, p. 4--25,
+  \doi{10.1016/j.precamres.2007.02.022}.
+
+\bibitem[{Schwarz et~al.(1982)Schwarz, Clark, and Fujiwara}]{Schwarz1982a}
+Schwarz, E.~J., Clark, K.~R., and Fujiwara, Y., 1982, {Paleomagnetism of the
+  Sutton Lake Proterozoic inlier, Ontario, Canada}: Canadian Journal of Earth
+  Sciences, v.~19, p. 1330--1332, \doi{10.1139/e82-114}.
+
+\bibitem[{Selkin et~al.(2008)Selkin, Gee, Meurer, and Hemming}]{Selkin2008a}
+Selkin, P.~A., Gee, J.~S., Meurer, W.~P., and Hemming, S.~R., 2008,
+  Paleointensity record from the 2.7 {Ga Stillwater Complex, Montana}: Geochem.
+  Geophys. Geosyst., v.~9, p. 10.1029/2008GC001,950.
+
+\bibitem[{Skipton et~al.(2016)Skipton, St-Onge, Schneider, and
+  McFarlane}]{Skipton2016a}
+Skipton, D.~R., St-Onge, M.~R., Schneider, D.~A., and McFarlane, C. R.~M.,
+  2016, Tectonothermal evolution of the middle crust in the {Trans-Hudson
+  Orogen, Baffin Island, Canada}: Evidence from petrology and monazite
+  geochronology of sillimanite-bearing migmatites: Journal of Petrology, v.~57,
+  p. 1437--1462, \doi{10.1093/petrology/egw046}.
+
 \bibitem[{Slagstad et~al.(2009)Slagstad, Culshaw, Daly, and
   Jamieson}]{Slagstad2009a}
-Slagstad, T., Culshaw, N.~G., Daly, J.~S., and Jamieson, R.~A., 2009, Western
-  grenville province holds key to midcontinental granite-rhyolite province
-  enigma: Terra Nova, v.~21, p. 181--187,
+Slagstad, T., Culshaw, N.~G., Daly, J.~S., and Jamieson, R.~A., 2009, {Western
+  Grenville Province holds key to midcontinental Granite-Rhyolite Province
+  enigma}: Terra Nova, v.~21, p. 181--187,
   \doi{10.1111/j.1365-3121.2009.00871.x}.
+
+\bibitem[{St-Onge et~al.(2009)St-Onge, Van~Gool, Garde, and
+  Scott}]{St-Onge2009a}
+St-Onge, M.~R., Van~Gool, J. A.~M., Garde, A.~A., and Scott, D.~J., 2009,
+  {Correlation of Archaean and Palaeoproterozoic units between northeastern
+  Canada and western Greenland: constraining the pre-collisional upper plate
+  accretionary history of the Trans-Hudson orogen}: Geological Society, London,
+  Special Publications, v. 318, p. 193--235, \doi{10.1144/sp318.7}.
+
+\bibitem[{Stern and Miller(2018)}]{Stern2018a}
+Stern, R.~J. and Miller, N.~R., 2018, Did the transition to plate tectonics
+  cause neoproterozoic snowball earth?: Terra Nova, v.~30, p. 87--94,
+  \doi{10.1111/ter.12321}.
+
+\bibitem[{Stern et~al.(2013)Stern, Tsujimori, Harlow, and Groat}]{Stern2013a}
+Stern, R.~J., Tsujimori, T., Harlow, G., and Groat, L.~A., 2013, Plate tectonic
+  gemstones: Geology, v.~41, p. 723--726, \doi{10.1130/g34204.1}.
+
+\bibitem[{Swanson-Hysell et~al.(2014{\natexlab{a}})Swanson-Hysell, Burgess,
+  Maloof, and Bowring}]{Swanson-Hysell2014a}
+Swanson-Hysell, N.~L., Burgess, S.~D., Maloof, A.~C., and Bowring, S.~A.,
+  2014{\natexlab{a}}, Magmatic activity and plate motion during the latent
+  stage of {M}idcontinent {R}ift development: Geology, v.~42, p. 475--478,
+  \doi{10.1130/G35271.1}.
 
 \bibitem[{Swanson-Hysell et~al.(2019)Swanson-Hysell, Ramezani, Fairchild, and
   Rose}]{Swanson-Hysell2019a}
 Swanson-Hysell, N.~L., Ramezani, J., Fairchild, L.~M., and Rose, I.~R., 2019,
-  Failed rifting and fast drifting: Midcontinent rift development, laurentia's
-  rapid motion and the driver of grenvillian orogenesis: GSA Bulletin,
+  {Failed rifting and fast drifting: Midcontinent Rift development, Laurentia's
+  rapid motion and the driver of Grenvillian orogenesis}: GSA Bulletin,
   \doi{10.1130/b31944.1}.
+
+\bibitem[{Swanson-Hysell et~al.(2014{\natexlab{b}})Swanson-Hysell, Vaughan,
+  Mustain, and Asp}]{Swanson-Hysell2014b}
+Swanson-Hysell, N.~L., Vaughan, A.~A., Mustain, M.~R., and Asp, K.~E.,
+  2014{\natexlab{b}}, {Confirmation of progressive plate motion during the
+  Midcontinent Rift's early magmatic stage from the Osler Volcanic Group,
+  Ontario, Canada}: Geochemistry Geophysics Geosystems, v.~15, p. 2039--2047,
+  \doi{10.1002/2013GC005180}.
+
+\bibitem[{Symons and Chiasson(1991)}]{Symons1991a}
+Symons, D. and Chiasson, A., 1991, Paleomagnetism of the {C}allander {C}omplex
+  and the {C}ambrian apparent polar wander path for {N}orth {A}merica: Canadian
+  Journal of Earth Science, v. 1991, p. 355--363, \doi{10.1139/e91-032}.
+
+\bibitem[{Symons et~al.(2000)Symons, Symons, and Lewchuk}]{Symons2000a}
+Symons, D., Symons, T., and Lewchuk, M., 2000, Paleomagnetism of the
+  {D}eschambault pegmatites: Stillstand and hairpin at the end of the
+  {Paleoproterozoic Trans-Hudson Orogeny, Canada}: Physics and Chemistry of the
+  Earth, Part A: Solid Earth and Geodesy, v.~25, p. 479--487,
+  \doi{10.1016/s1464-1895(00)00074-0}.
+
+\bibitem[{Symons and Mackay(1999)}]{Symons1999a}
+Symons, D. T.~A. and Mackay, C.~D., 1999, Paleomagnetism of the {Boot-Phantom}
+  pluton and the amalgamation of the juvenile domains in the {Paleoproterozoic
+  Trans-Hudson Orogen, Canada}: \emph{In} Sinha, A.~K., ed., Basement Tectonics
+  13, Springer Netherlands, Dordrecht, p. 313--331,
+  \doi{10.1007/978-94-011-4800-9{\_}18}.
+
+\bibitem[{Tanczyk et~al.(1987)Tanczyk, Lapointe, Morris, and
+  Schmidt}]{Tanczyk1987a}
+Tanczyk, E., Lapointe, P., Morris, W., and Schmidt, P., 1987, A paleomagnetic
+  study of the layered mafic intrusions at {S}ept-{I}les, {Q}uebec: Canadian
+  Journal of Earth Science, v.~24, p. 1431--1438, \doi{10.1139/e87-135}.
+
+\bibitem[{Tauxe and Kodama(2009)}]{Tauxe2009a}
+Tauxe, L. and Kodama, K., 2009, Paleosecular variation models for ancient
+  times: Clues from {K}eweenawan lava flows: Physics of the Earth and Planetary
+  Interiors, v. 177, p. 31--45, \doi{10.1016/j.pepi.2009.07.006}.
 
 \bibitem[{Tauxe et~al.(2016)Tauxe, Shaar, Jonestrask, Swanson-Hysell, Minnett,
   Koppers, Constable, Jarboe, Gaastra, and Fairchild}]{Tauxe2016a}
@@ -326,8 +843,9 @@ Torsvik, T.~H. and Cocks, L. R.~M., 2017, Earth history and palaeogeography:
   Steinberger, Ashwal, Tr{\o}nnes, Webb, and Bull}]{Torsvik2014a}
 Torsvik, T.~H., van~der Voo, R., Doubrovine, P.~V., Burke, K., Steinberger, B.,
   Ashwal, L.~D., Tr{\o}nnes, R.~G., Webb, S.~J., and Bull, A.~L., 2014, Deep
-  mantle structure as a reference frame for movements in and on the earth:
-  Proceedings of the National Academy of Sciences.
+  mantle structure as a reference frame for movements in and on the {E}arth:
+  Proceedings of the National Academy of Sciences,
+  \doi{10.1073/pnas.1318135111}.
 
 \bibitem[{Torsvik et~al.(2012)Torsvik, Van~der Voo, Preeden, Mac~Niocaill,
   Steinberger, Doubrovine, van Hinsbergen, Domeier, Gaina, Tohver, Meert,
@@ -340,18 +858,50 @@ Torsvik, T.~H., Van~der Voo, R., Preeden, U., Mac~Niocaill, C., Steinberger,
 
 \bibitem[{Veikkolainen et~al.(2014)Veikkolainen, Pesonen, and
   Evans}]{Veikkolainen2014a}
-Veikkolainen, T., Pesonen, L., and Evans, D.~D., 2014, Paleomagia: A php/mysql
-  database of the precambrian paleomagnetic data: p. 1--17,
+Veikkolainen, T., Pesonen, L., and Evans, D.~D., 2014, {PALEOMAGIA: A PHP/MYSQL
+  database of the Precambrian paleomagnetic data}: p. 1--17,
   \doi{10.1007/s11200-013-0382-0}.
+
+\bibitem[{Warnock et~al.(2000)Warnock, Kodama, and Zeitler}]{Warnock2000a}
+Warnock, A., Kodama, K., and Zeitler, P., 2000, Using thermochronometry and
+  low-temperature demagnetization to accurately date {P}recambrian
+  paleomagnetic poles: Journal of Geophysical Research, v. 105, p.
+  19,435--19,453, \doi{10.1029/2000jb900114}.
+
+\bibitem[{Weil et~al.(2003)Weil, Geissman, Heizler, and {Van der
+  Voo}}]{Weil2003a}
+Weil, A., Geissman, J., Heizler, M., and {Van der Voo}, R., 2003,
+  Paleomagnetism of {M}iddle {P}roterozoic mafic intrusions and {U}pper
+  {P}roterozoic ({N}ankoweap) red beds from the {L}ower {G}rand {C}anyon
+  {S}upergroup, {A}rizona: Tectonophysics, v. 375, p. 199--220,
+  \doi{10.1016/S0040-1951(03)00339-1}.
+
+\bibitem[{Weil et~al.(2006)Weil, Geissman, and Ashby}]{Weil2006b}
+Weil, A.~B., Geissman, J.~W., and Ashby, J.~M., 2006, {A new paleomagnetic pole
+  for the Neoproterozoic Uinta Mountain supergroup, Central Rocky Mountain
+  States, USA}: Precambrian Research, v. 147, p. 234--259,
+  \doi{10.1016/j.precamres.2006.01.017}.
+
+\bibitem[{Weller and St-Onge(2017)}]{Weller2017a}
+Weller, O.~M. and St-Onge, M.~R., 2017, {Record of modern-style plate tectonics
+  in the Palaeoproterozoic Trans-Hudson orogen}: Nature Geoscience, v.~10,
+  \doi{10.1038/ngeo2904}.
 
 \bibitem[{Whitmeyer and Karlstrom(2007)}]{Whitmeyer2007a}
 Whitmeyer, S. and Karlstrom, K., 2007, {Tectonic model for the Proterozoic
-  growth of North America}: Geosphere, v.~3, p. 220--259.
+  growth of North America}: Geosphere, v.~3, p. 220--259,
+  \doi{10.1130/GES00055.1}.
 
 \bibitem[{Witkosky and Wernicke(2018)}]{Witkosky2018a}
-Witkosky, R. and Wernicke, B.~P., 2018, Subsidence history of the ediacaran
-  johnnie formation and related strata of southwest laurentia: Implications for
-  the age and duration of the shuram isotopic excursion and animal evolution:
+Witkosky, R. and Wernicke, B.~P., 2018, {Subsidence history of the Ediacaran
+  Johnnie Formation and related strata of southwest Laurentia: Implications for
+  the age and duration of the Shuram isotopic excursion and animal evolution}:
   Geosphere, v.~14, p. 2245--2276, \doi{10.1130/ges01678.1}.
+
+\bibitem[{Zhang et~al.(2012)Zhang, Li, Evans, Wu, Li, and Dong}]{Zhang2012a}
+Zhang, S., Li, Z.-X., Evans, D. A.~D., Wu, H., Li, H., and Dong, J., 2012,
+  {Pre-Rodinia supercontinent Nuna shaping up: A global synthesis with new
+  paleomagnetic results from North China}: Earth and Planetary Science Letters,
+  v. 353--354, p. 145--155.
 
 \end{thebibliography}

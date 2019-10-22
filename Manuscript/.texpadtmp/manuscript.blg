@@ -3,56 +3,60 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: /Users/superior/0000_Github/Laurentia_Paleogeography/Manuscript/.texpadtmp/manuscript.aux
 The style file: ../gsabull.bst
 Database file #1: ../../../references/allrefs.bib
-Repeated entry---line 11213 of file ../../../references/allrefs.bib
- : @article{Evans2010a
- :                    ,
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Skipton2016a"
-Warning--I didn't find a database entry for "Weller2017a"
-Warning--I didn't find a database entry for "St-Onge2009a"
-Warning--I didn't find a database entry for "Veikkolainen2013a"
-Warning--I didn't find a database entry for "Roest1989"
-Warning--I didn't find a database entry for "Torsvik2012"
+Name 2 in "Fahrig,W.F. and Bridgwater, D.," has a comma at the end for entry Fahrig1976b
+while executing---line 1420 of file ../gsabull.bst
+Name 2 in "Fahrig,W.F. and Bridgwater, D.," has a comma at the end for entry Fahrig1976b
+while executing---line 1420 of file ../gsabull.bst
+Name 2 in "Fahrig,W.F. and Bridgwater, D.," has a comma at the end for entry Fahrig1976b
+while executing---line 1420 of file ../gsabull.bst
+Name 2 in "Fahrig,W.F. and Bridgwater, D.," has a comma at the end for entry Fahrig1976b
+while executing---line 1497 of file ../gsabull.bst
+Name 2 in "Fahrig,W.F. and Bridgwater, D.," has a comma at the end for entry Fahrig1976b
+while executing---line 1497 of file ../gsabull.bst
+Name 2 in "Fahrig,W.F. and Bridgwater, D.," has a comma at the end for entry Fahrig1976b
+while executing---line 1497 of file ../gsabull.bst
+Name 2 in "Fahrig,W.F. and Bridgwater, D.," has a comma at the end for entry Fahrig1976b
+while executing---line 1497 of file ../gsabull.bst
 Warning--empty journal in Veikkolainen2014a
-You've used 55 entries,
+You've used 146 entries,
             2885 wiz_defined-function locations,
-            1064 strings with 24797 characters,
-and the built_in function-call counts, 59346 in all, are:
-= -- 6721
-> -- 1923
-< -- 106
-+ -- 959
-- -- 645
-* -- 3433
-:= -- 6535
-add.period$ -- 55
-call.type$ -- 55
-change.case$ -- 490
-chr.to.int$ -- 55
-cite$ -- 56
-duplicate$ -- 5862
-empty$ -- 3044
-format.name$ -- 817
-if$ -- 11986
-int.to.chr$ -- 1
+            1753 strings with 47895 characters,
+and the built_in function-call counts, 165689 in all, are:
+= -- 19681
+> -- 4443
+< -- 318
++ -- 2408
+- -- 1463
+* -- 9090
+:= -- 17205
+add.period$ -- 146
+call.type$ -- 146
+change.case$ -- 1221
+chr.to.int$ -- 144
+cite$ -- 147
+duplicate$ -- 16963
+empty$ -- 8474
+format.name$ -- 1934
+if$ -- 33822
+int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 580
-newline$ -- 174
-num.names$ -- 220
-pop$ -- 2056
+missing$ -- 1485
+newline$ -- 447
+num.names$ -- 588
+pop$ -- 5708
 preamble$ -- 1
-purify$ -- 434
+purify$ -- 1070
 quote$ -- 0
-skip$ -- 3601
+skip$ -- 10739
 stack$ -- 0
-substring$ -- 2906
-swap$ -- 5073
-text.length$ -- 86
+substring$ -- 8713
+swap$ -- 15115
+text.length$ -- 257
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 492
+type$ -- 1308
 warning$ -- 1
-while$ -- 332
+while$ -- 915
 width$ -- 0
-write$ -- 646
-(There was 1 error message)
+write$ -- 1733
+(There were 7 error messages)

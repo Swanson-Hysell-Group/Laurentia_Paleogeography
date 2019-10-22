@@ -75,16 +75,18 @@
 1000 615.0   34.61 -173.55 -166.66  001 !Long Range Dykes pole - paleolong kept pretty similar to before, farther west
 1000 720.0  -47.05   -2.16  156.4  001 !Reconstruction from Franklin LIP pole
 1000 750.0  -45.6914   -6.5683  157.5503  001 !Reconstruction from Uinta Mtn/Galeros pole
-1000 778.0  -48.1907  -20.5893  144.7696  001 !Reconstruction from Tsezotene Sills/Gunbarrel poles
+1000 775.0  -45.7737  -16.92  147.9515  001 !Reconstruction from Gunbarrel pole
+1000 960.0  -34.0781  -26.5816  176.6017  001 !Laurentia reconstructed using 960 Ma mean pole
+1000 970.0  -32.181  -28.8236  173.6118  001 !
+1000 990.0  -30.7355  -31.8233  170.9506  001 !
 1000 1015.0  -28.41  -32.4  174.59  001 !Laurentia reconstructed using Haliburton Pole
 1000 1070.0  -46.6455  -14.8904  199.1903  001 !Laurentia reconstructed using Freda/Nonesuch poles
-1000 1084.0  -51.1689  -16.0196  196.4655  001 !Laurentia reconstructed using Michipicoten Island pole
+1000 1084.0  -50.9448  -13.8919  198.3253  001 !Laurentia reconstructed using Michipicoten Island pole
 1000 1095.0  -57.52  -11.05  201.25  001 !Laurentia reconstructed using Portage Lake Pole
 1000 1105.0  -65.69    5.17  210.07  001 !Laurentia reconstructed using 1105 Ma Osler Pole
-1000 1110.0  -68.52   27.25  216.73  001 !Laurentia reconstructed using lower R1 Mamainse Pole
+1000 1110.0  -66.3558   18.0002  218.7758  001 !Laurentia reconstructed using lower R1 Mamainse Pole
 1000 1140.0  -70.8963   21.4214  213.1761  001 !Laurentia reconstructed using 1140 Ma mean pole
 1000 1150.0  -67.6586   22.3003  212.8528  001 !Laurentia reconstructed using 1150 Ma mean pole
-1000 1170.0  -61.4161   14.2844  209.2074  001 !Laurentia reconstructed using 1170 Ma mean pole
 1000 1190.0  -61.2443   13.6704  210.201  001 !Laurentia reconstructed using 1190 Ma mean pole
 1000 1237.0  -44.3581    0.7052  197.957  001 !Laurentia reconstructed using Sudbury pole
 1000 1270.0  -46.04   -1.48  196.66  001 !Laurentia reconstructed using Mackenzie pole
