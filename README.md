@@ -18,4 +18,4 @@ The Laurentia_reconstructions_generate.ipynb notebook uses a Python 2.7 environm
 
 ```conda env create -f pygplates.yml```
 
-Additionally, an installation of pygplates is required.
+Additionally, an installation of pygplates is required (www.gplates.org).
