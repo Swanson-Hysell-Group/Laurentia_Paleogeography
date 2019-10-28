@@ -29,7 +29,7 @@ The Python 3.7 environment for Laurentia_tectonic_summary.ipynb, Laurentia_pole_
 
 ```conda env create -f laurentia_paleogeography.yml```
 
-Additionally, these notebooks utilize the PmagPy project which can be installed using pip:
+Additionally, these notebooks utilize the PmagPy project (https://github.com/PmagPy) which can be installed using pip:
 
 ```pip install pmagpy```
 
@@ -37,7 +37,7 @@ The Laurentia_reconstructions_generate.ipynb notebook uses a Python 2.7 environm
 
 ```conda env create -f pygplates.yml```
 
-Additionally, an installation of pygplates is required (www.gplates.org).
+Additionally, an installation of pygplates is required (www.gplates.org) to run the  Laurentia_reconstructions_generate.ipynb notebook.
 
 ## Reconstructions
 
