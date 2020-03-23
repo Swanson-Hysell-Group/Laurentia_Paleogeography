@@ -15,10 +15,12 @@ rift_intracratonic,Belt,1470,1400,,,west
 rift_intracratonic,MCR,1108,1083,Swanson-Hysell2019a,,east
 rift_passive_margin,East Greenland,840,820,,Available geochronological constraints and thermal subsidence modeling indicate ca. 820 Ma rifting followed by thermal subsidence of a stable platform \citep{Maloof2006a Halverson2018a}. These data suggest that conjugate continental lithosphere rifted away from northeast Greenland at the time,east
 rift, ,780,630,,,west
-rift_passive_margin, ,630,545,,the timing of the rift-to-drift transition in western Laurentia remains equivocal with arguments that it was ongoing by 630 Ma but the possibility that it is better interpretted as ongoing in the latest Ediacaran. The Levy thermal subsidence modeling paints it as uncertain whether rift-to-drift is in the Wood Canyon (Ediacaran-Cambrian boundary) or the Noonday (635 Ma),west
+rift_passive_margin,proto-Cord,630,545,,the timing of the rift-to-drift transition in western Laurentia remains equivocal with arguments that it was ongoing by 630 Ma but the possibility that it is better interpretted as ongoing in the latest Ediacaran. The Levy thermal subsidence modeling paints it as uncertain whether rift-to-drift is in the Wood Canyon (Ediacaran-Cambrian boundary) or the Noonday (635 Ma),west
 rift, ,620,580,,,east
-rift_passive_margin, ,580,539,,the Rome-Reelfoot-OK rifts are stranded portions of successful rifting that resulted in Cambrian passive margin thermal subsidence,east
+rift_passive_margin,Iapetus,580,539,,the Rome-Reelfoot-OK rifts are stranded portions of successful rifting that resulted in Cambrian passive margin thermal subsidence,east
 rift_passive_margin,Atlantic,230,200,Olsen1997a,,east
+LIP,Kivalliq,1760,1740,Peterson2015a,,
+LIP,Melville Bugt,1635,1630,Klausen2019,,
 LIP,Mackenzie,1269,1265,,,
 LIP,Sudbury,1240,1236,,,
 LIP,Keweenawan,1108,1090,,,
