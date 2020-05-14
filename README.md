@@ -23,6 +23,7 @@ The code that conducts the analyses and develops the visualizations for the manu
 - Laurentia_reconstructions_generate.ipynb *This notebook uses pygplates to generate reconstructions using the paleogeographic models and shapefiles. It also generates motion path calculations that are plotted along with the paleolatiudes of poles within Laurentia_pole_compilation.ipynb.*
 - Laurentia_reconstructions_plot.ipynb *This notebook plots the reconstructed shapefiles that were generated in the Laurentia_reconstructions_generate.ipynb notebook.*
 - Laurentia_tectonic_summary.ipynb *This notebook develops the tectonic summary figure for the manuscript*
+
 The notebooks can be viewed statically at this link: https://nbviewer.jupyter.org/github/Swanson-Hysell-Group/Laurentia_Paleogeography/tree/master/Code/
 
 The Python 3.7 environment for Laurentia_tectonic_summary.ipynb, Laurentia_pole_compilation.ipynb and 	Laurentia_reconstructions_plot.ipynb is specified within the laurentia_paleogeography.yml file. If one is using an Anaconda installation of Python, they can create this environment with the following command: 
@@ -37,7 +38,7 @@ The Laurentia_reconstructions_generate.ipynb notebook uses a Python 2.7 environm
 
 ```conda env create -f pygplates.yml```
 
-Additionally, an installation of pygplates is required (www.gplates.org) to run the  Laurentia_reconstructions_generate.ipynb notebook.
+Additionally, an installation of pygplates is required (www.gplates.org) to run the Laurentia_reconstructions_generate.ipynb notebook.
 
 ## Reconstructions
 
