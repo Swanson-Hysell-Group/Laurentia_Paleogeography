@@ -147,6 +147,13 @@ FUNCTION {add.blank}
 {  " " * before.all 'output.state :=
 }
 
+FUNCTION {add.period}
+{ duplicate$ empty$
+ 'skip$
+ { "." * add.blank }
+ if$
+}
+
 FUNCTION {add.colon}
 { duplicate$ empty$
     'skip$
@@ -930,8 +937,9 @@ FUNCTION {article}
   author format.key output
   format.date "year" output.check
   date.block
+  add.period
   format.title "title" output.check
-  add.colon
+  add.period
   crossref missing$
     {
       journal
@@ -965,12 +973,12 @@ FUNCTION {book}
   format.btitle "title" output.check
   crossref missing$
     { format.bvolume output
-  add.colon
+  add.period
       format.number.series output
       format.publisher.address output
     }
     {
-  add.colon
+  add.period
       format.book.crossref output.nonnull
     }
   if$
@@ -988,7 +996,7 @@ FUNCTION {booklet}
   format.date "year" output.check
   date.block
   format.title "title" output.check
-  add.colon
+  add.period
   howpublished "howpublished" bibinfo.check output
   address "address" bibinfo.check output
   format.book.pages output
@@ -1019,12 +1027,12 @@ FUNCTION {inbook}
       format.publisher.address output
       format.bvolume output
       format.chapter.pages "chapter and pages" output.check
-  add.colon
+  add.period
       format.number.series output
     }
     {
       format.chapter.pages "chapter and pages" output.check
-  add.colon
+  add.period
       format.book.crossref output.nonnull
     }
   if$
@@ -1042,7 +1050,7 @@ FUNCTION {incollection}
   format.date "year" output.check
   date.block
   format.title "title" output.check
-  add.colon
+  add.period
   crossref missing$
     { format.in.ed.booktitle "booktitle" output.check
       format.publisher.address output
@@ -1067,7 +1075,7 @@ FUNCTION {inproceedings}
   format.date "year" output.check
   date.block
   format.title "title" output.check
-  add.colon
+  add.period
   crossref missing$
     { format.in.ed.booktitle "booktitle" output.check
       publisher empty$
@@ -1097,7 +1105,7 @@ FUNCTION {manual}
   format.date "year" output.check
   date.block
   format.btitle "title" output.check
-  add.colon
+  add.period
   organization "organization" bibinfo.check output
   address "address" bibinfo.check output
   format.edition output
@@ -1115,7 +1123,7 @@ FUNCTION {mastersthesis}
   date.block
   format.btitle
   "title" output.check
-  add.colon
+  add.period
   bbl.mthesis format.thesis.type output.nonnull
   school "school" bibinfo.warn output
   address "address" bibinfo.check output
@@ -1132,7 +1140,7 @@ FUNCTION {misc}
   format.date "year" output.check
   date.block
   format.title output
-  add.colon
+  add.period
   howpublished "howpublished" bibinfo.check output
   format.doi output
   format.url output
@@ -1147,7 +1155,7 @@ FUNCTION {phdthesis}
   date.block
   format.btitle
   "title" output.check
-  add.colon
+  add.period
   bbl.phdthesis format.thesis.type output.nonnull
   school "school" bibinfo.warn output
   address "address" bibinfo.check output
@@ -1186,7 +1194,7 @@ FUNCTION {techreport}
   date.block
   format.title
   "title" output.check
-  add.colon
+  add.period
   format.tr.number output.nonnull
   institution "institution" bibinfo.warn output
   address "address" bibinfo.check output
