@@ -2,6 +2,8 @@
 
 This repository contains a manuscript that is in preparation for a forthcoming book entitled *Ancient Supercontinents and the Paleogeography of the Earth*. This chapter focuses on the paleogeography of the Precambrian interior of North American known as Laurentia.
 
+*Swanson-Hysell, N. L. (2021) The Precambrian paleogeography of Laurentia. In: Pesonen, L.J., Salminen, J., Evans, D.A.D., Elming, S.-Å., Veikkolainen, T. (eds.) Ancient Supercontinents and the Paleogeography of the Earth.*
+
 The contents of this repository are licensed for reuse under a [Creative Commons Attribution (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/) license.
 
 ## Manuscript
