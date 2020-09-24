@@ -1,4 +1,8 @@
 era,b_age,t_age,abbr,color
+Eoarchean,4000,3600,Eoarch.,white
+Paleoarchean,3600,3200,Paleoarch.,white
+Mesoarchean,3200,2800,Mesoarch.,white
+Neoarchean,2800,2500,Neoarch.,white
 Paleoproterozoic,2500,1600,Paleoprot.,white
 Mesoproterozoic,1600,1000,Mesoprot.,white
 Neoproterozoic,1000,539,Neoprot.,white
