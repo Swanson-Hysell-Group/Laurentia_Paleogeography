@@ -1,4 +1,4 @@
-Formation,lat,lon,age,age_lower,age_upper
+Formation,lat,lon,age,age_lower,age_upper,comment
 Alytan (Belt),49,-114,1469,1500,1457
 Helena and Wallace (Belt),49,-114,1454,1463,1443
 Iqqittuq,72.3,-81,1047,1060,1030
@@ -6,6 +6,9 @@ Ten Stone,64.5,-130,850,900,811
 Minto Inlet,72,-113,850,900,811
 Redstone River,64.5,-130,740,780,727
 Kilian,72,-113,740,780,727
+Michigan Basin,41,279,430,433,427,Salina Formation (Wenloack Epoch; Caruthers et al. 2018)
+Prairie Evaporite, 55,250,388,393,383,Prairie Evaporite Formation in Saskatchewan
 Canadian Maritime,46,298,340,340,340
-Sverdrup,79,264,315,315,315
-Midcontinental USA, 41, 257,270,270,270
+Sverdrup,79,264,318,323,315,Otto-Fjord Formation Bashkirian in age
+Midcontinental USA, 41, 257,275,280,270,Nippewalla Group
+Gulf of Mexico, 27,265,168,170,165,Louann Fm
