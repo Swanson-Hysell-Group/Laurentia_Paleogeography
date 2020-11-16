@@ -1,6 +1,7 @@
 event_type,name,start,end,reference,comment,location
 orogeny_collisional,Alleghanian,325,290,,Pangea assembly,
-orogeny_microcontinent,Acadian,420,390,Wilson2017a,Carolinia and Avalonia collision,
+orogeny_microcontinent,Acadian,415,390,Wilson2017a,Carolinia and Avalonia collision initiation is diachronous starts closer to 420 Ma in southern New Brunswick,
+orogeny_microcontinent,Salinic,433,420,Wilson2017a,Ganderia collision,
 orogeny_accretionary,Taconic,465,445,Macdonald2017a, arc accretion,
 orogeny_collisional,Grenvillian,1090,980,Rivers2008a,,
 orogeny_microcontinent,Llano,1150,1115,Mosher2008a and Barker2009, Mosher's model is of arc-continent collision followed by collision of continental crust with Barker2009a data showing that there were synkinematic granites emplaced 1119–1116 Ma. There is peak ca. 1050 Ma metamorphism further towards the Laurentia interior ca. 1050 Ma (Grimes2004a) is time coicident with Ottawan orogenesis which Mosher2008a proposes as evidence for continued collisional orogenesis in the region,
