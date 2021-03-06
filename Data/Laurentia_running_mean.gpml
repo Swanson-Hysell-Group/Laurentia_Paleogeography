@@ -2,8 +2,8 @@
 <gpml:FeatureCollection xmlns:gpml="http://www.gplates.org/gplates" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/XMLSchema-instance" gpml:version="1.6.0334" xsi:schemaLocation="http://www.gplates.org/gplates ../xsd/gpml.xsd http://www.opengis.net/gml ../../../gml/current/base">
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-be572dfe-86df-4f21-85eb-1f9b4dd563be</gpml:identity>
-            <gpml:revision>GPlates-0ff464ca-4b6e-46bf-a532-d7a064ceacba</gpml:revision>
+            <gpml:identity>GPlates-c3dc283d-e535-41e4-817b-d6a9e6fd4cbf</gpml:identity>
+            <gpml:revision>GPlates-26811d3e-cd12-4564-b820-71040af83749</gpml:revision>
             <gml:name>Franklin event grand mean pole</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -37,8 +37,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-b29ad6fa-ac9a-42a4-8e7f-06041c1af998</gpml:identity>
-            <gpml:revision>GPlates-84576535-6790-44c1-a806-fab257847bdd</gpml:revision>
+            <gpml:identity>GPlates-8a98572b-91d8-4770-a24c-89efb06bff87</gpml:identity>
+            <gpml:revision>GPlates-3d09b9e9-8027-4668-998a-bbba5ef3c32a</gpml:revision>
             <gml:name>Franklin event grand mean pole</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -72,8 +72,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-71bf6c79-1bbc-458b-9554-bab33f5b9bad</gpml:identity>
-            <gpml:revision>GPlates-710b6244-8da0-4d30-8048-b3c72759d4a8</gpml:revision>
+            <gpml:identity>GPlates-fe9b6436-f67e-40c7-98fd-0c7c029e788f</gpml:identity>
+            <gpml:revision>GPlates-eccc2b6f-ada1-431d-8958-eb23c6d51c80</gpml:revision>
             <gml:name>740 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -107,8 +107,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-0b464dfc-e3b2-412e-b104-62a2328096bf</gpml:identity>
-            <gpml:revision>GPlates-1dd5b3aa-9927-4fbb-aecf-16c46197e976</gpml:revision>
+            <gpml:identity>GPlates-3677c0a6-f137-4c51-9a36-7eb66c564ddb</gpml:identity>
+            <gpml:revision>GPlates-d8dda320-ab84-4090-857e-57301aedd128</gpml:revision>
             <gml:name>760 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -142,8 +142,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-c0713081-b4b0-490f-b0a1-613ed21e3e1b</gpml:identity>
-            <gpml:revision>GPlates-512c3ec1-dde5-40d5-a8ac-7c21311d8082</gpml:revision>
+            <gpml:identity>GPlates-37906c59-2ce3-4ad0-8391-b5b59d61da78</gpml:identity>
+            <gpml:revision>GPlates-9d68f53c-8de9-4482-9b56-5c1436627758</gpml:revision>
             <gml:name>960 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -177,8 +177,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-a26ae012-6ede-43dd-91da-14485eda63d6</gpml:identity>
-            <gpml:revision>GPlates-d6e204e7-d9bb-44eb-b20a-b37c5da525e3</gpml:revision>
+            <gpml:identity>GPlates-7bbc768f-20c1-4648-9296-ea1f73f50f56</gpml:identity>
+            <gpml:revision>GPlates-4d92d1ae-924e-42e2-8887-f1f5ccd7b478</gpml:revision>
             <gml:name>980 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -212,8 +212,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-fca58023-146d-4624-b957-5274f5e9cf48</gpml:identity>
-            <gpml:revision>GPlates-33be0d0d-b7dc-4dd8-a63b-09afaddf15b9</gpml:revision>
+            <gpml:identity>GPlates-c94f4260-ea95-4ec6-8955-ee52f16d1e3c</gpml:identity>
+            <gpml:revision>GPlates-adad4c38-5996-437b-9738-882dbc3b8de3</gpml:revision>
             <gml:name>1000 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -247,8 +247,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-07177844-912f-4792-a633-5217cc84a87c</gpml:identity>
-            <gpml:revision>GPlates-5ce8c1bb-fb35-4fbb-b9a5-90c2f9d2dc0b</gpml:revision>
+            <gpml:identity>GPlates-ec0f552d-abf4-48f2-bfa0-cbea0bb493e4</gpml:identity>
+            <gpml:revision>GPlates-8b4f5350-1492-43ca-b9b7-c4c4e454c7d3</gpml:revision>
             <gml:name>1060 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -282,8 +282,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-d61bd8b5-edbd-4d04-a036-6559cd53c5fd</gpml:identity>
-            <gpml:revision>GPlates-7eb48c05-2ac0-4821-912d-99fd6d6dbd22</gpml:revision>
+            <gpml:identity>GPlates-e8318007-41d2-42e2-b70c-0878efbaa467</gpml:identity>
+            <gpml:revision>GPlates-5f15a410-3c0d-40db-878a-65c6badda68b</gpml:revision>
             <gml:name>1080 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -317,8 +317,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-0478723c-94c6-4d37-83d8-e6bb1506ce8d</gpml:identity>
-            <gpml:revision>GPlates-4a69a43d-9c94-4f7b-8fc9-2be123b4e236</gpml:revision>
+            <gpml:identity>GPlates-a51083ca-fc59-47a4-a3ae-dd1796e799af</gpml:identity>
+            <gpml:revision>GPlates-17fc5647-4b4c-40c6-bd87-cce1412204b4</gpml:revision>
             <gml:name>1100 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -352,8 +352,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-e1b8263c-a55a-4b7e-a4f6-2d196ca224e9</gpml:identity>
-            <gpml:revision>GPlates-b070b440-01dd-4fc4-a232-1d7ca15482b6</gpml:revision>
+            <gpml:identity>GPlates-f3946c51-bc56-4243-84f1-1cd859dd1fa9</gpml:identity>
+            <gpml:revision>GPlates-bc14dddd-bcc1-4877-bbd8-429aa0a1453f</gpml:revision>
             <gml:name>1120 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -387,8 +387,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-3b622dc5-eb45-4d27-a998-4c792fc9de94</gpml:identity>
-            <gpml:revision>GPlates-cefcd560-f95e-4cf2-b8e8-7a104b201ee0</gpml:revision>
+            <gpml:identity>GPlates-96418314-2b7e-483a-8233-01f9a7121dc0</gpml:identity>
+            <gpml:revision>GPlates-963bd811-0cec-4018-b818-d62ea56767a4</gpml:revision>
             <gml:name>1140 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -422,8 +422,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-f178bc3d-8957-47a0-b906-0b7902237e2a</gpml:identity>
-            <gpml:revision>GPlates-4ffd70a3-176f-408e-ae5f-ea204506b1ff</gpml:revision>
+            <gpml:identity>GPlates-ab003d02-6fb2-4472-93d6-ca2b4a20d8b4</gpml:identity>
+            <gpml:revision>GPlates-275f74cd-0018-4d78-90a3-43a8efb155bd</gpml:revision>
             <gml:name>1160 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -457,8 +457,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-dc26fa53-871d-46f4-a3e8-07d68e3340e5</gpml:identity>
-            <gpml:revision>GPlates-db6537cd-037c-4543-956d-eafadedc2265</gpml:revision>
+            <gpml:identity>GPlates-2a4e28d0-b80e-4794-9254-a53f1d09d698</gpml:identity>
+            <gpml:revision>GPlates-1c9252b8-683c-477b-874e-3b31508bf67e</gpml:revision>
             <gml:name>1180 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -492,8 +492,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-9003ac92-5ae5-49f8-be66-cf9e8994c53a</gpml:identity>
-            <gpml:revision>GPlates-2f5be2f8-8577-4a75-951b-98a44f541bbf</gpml:revision>
+            <gpml:identity>GPlates-2cf2e7f1-4898-4596-91f6-5bef8bba8e89</gpml:identity>
+            <gpml:revision>GPlates-e56863f0-8e45-41d9-ba9f-bd105db842ea</gpml:revision>
             <gml:name>1200 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -527,8 +527,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-d848cf35-ac26-4763-a2b5-e2d963c96ecf</gpml:identity>
-            <gpml:revision>GPlates-24c99cb0-a946-4809-b386-78986043e97b</gpml:revision>
+            <gpml:identity>GPlates-cde8de7d-d93b-4595-a195-d066351e5ed1</gpml:identity>
+            <gpml:revision>GPlates-aaf2e4b2-2cc7-42c5-93f6-acd5d7903669</gpml:revision>
             <gml:name>1220 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -562,8 +562,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-76d59d3e-4565-4f8d-a60c-4808ad3777cd</gpml:identity>
-            <gpml:revision>GPlates-6f1ff89c-f327-47f2-9ec3-8ad7d304514d</gpml:revision>
+            <gpml:identity>GPlates-f6fdffc0-bc14-4fb5-bef8-fca4fbab5a8a</gpml:identity>
+            <gpml:revision>GPlates-45925222-49e0-4428-ab31-0739843f006b</gpml:revision>
             <gml:name>1240 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -597,8 +597,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-49d1fba9-9927-4fcd-aa25-2a0d29bc9197</gpml:identity>
-            <gpml:revision>GPlates-218dc43e-23fd-4d43-aa76-e55ad84fee8f</gpml:revision>
+            <gpml:identity>GPlates-c81923a5-d3c2-4132-9a95-efbbc7a56168</gpml:identity>
+            <gpml:revision>GPlates-03cb66c2-4d1f-41b4-a6cc-2b2009e2c417</gpml:revision>
             <gml:name>1260 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -632,8 +632,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-b273d5e3-9826-4260-877f-8a169eeb9a60</gpml:identity>
-            <gpml:revision>GPlates-df0d6add-e389-4aed-9f03-681a2b5c5230</gpml:revision>
+            <gpml:identity>GPlates-2013b301-b3aa-40e9-84ab-39329ae3d1ce</gpml:identity>
+            <gpml:revision>GPlates-ec6b3a51-5d26-4e04-b558-705b34334c9a</gpml:revision>
             <gml:name>1280 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -667,8 +667,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-a6ad6d6c-f1a2-46d2-a9c1-e1f2122931d3</gpml:identity>
-            <gpml:revision>GPlates-430c2427-3f36-449e-867c-efd2cf66abf4</gpml:revision>
+            <gpml:identity>GPlates-e944f0c1-d42b-4d25-aeb5-e41bf2a9bc02</gpml:identity>
+            <gpml:revision>GPlates-e4478332-36c1-43ec-87e7-b98edc1b54ad</gpml:revision>
             <gml:name>1380 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -702,8 +702,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-0c4bf20b-4465-484a-9a4c-0afafaf62bde</gpml:identity>
-            <gpml:revision>GPlates-3420e7f9-bc03-412e-ba35-5ff892e3ac32</gpml:revision>
+            <gpml:identity>GPlates-7fd63248-8e2d-4e82-bb12-61590684fd71</gpml:identity>
+            <gpml:revision>GPlates-11fe95ed-df48-4e86-9c98-1e412e2aec47</gpml:revision>
             <gml:name>1400 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -737,8 +737,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-2ac1a39e-582c-465c-96e9-472a3d764a8f</gpml:identity>
-            <gpml:revision>GPlates-738a2c16-ab56-4f73-b225-a4bc980b9a8d</gpml:revision>
+            <gpml:identity>GPlates-e2ae7fe9-b1de-4516-aa5a-1aefb4df7b05</gpml:identity>
+            <gpml:revision>GPlates-fc6f7fa6-9009-417b-9cb8-ae7b53d8d60d</gpml:revision>
             <gml:name>1420 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -772,8 +772,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-5fdac7c4-ef3f-43af-92e8-caa16b741187</gpml:identity>
-            <gpml:revision>GPlates-b94b0954-4a12-4b74-b8b5-28f3eb7ed9a8</gpml:revision>
+            <gpml:identity>GPlates-5ede3758-6464-49fc-ae11-3ba2f0fd0b08</gpml:identity>
+            <gpml:revision>GPlates-7b9b4501-5de4-46ea-8a19-bcd7db51c486</gpml:revision>
             <gml:name>1440 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -807,8 +807,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-6d0cc5ca-22e1-4741-855e-2c8f4edce501</gpml:identity>
-            <gpml:revision>GPlates-9286fcb0-bb76-464f-b663-30e9ce57a327</gpml:revision>
+            <gpml:identity>GPlates-e02b7ad2-e411-42ef-8629-66810079d765</gpml:identity>
+            <gpml:revision>GPlates-571f14a3-f2c9-4649-af3d-a9c898234b89</gpml:revision>
             <gml:name>1460 running mean</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -842,8 +842,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-8c2b3b52-c73a-486b-8e1a-36d511f0aba4</gpml:identity>
-            <gpml:revision>GPlates-8544ede7-785c-4a5b-98be-7f35eff6a980</gpml:revision>
+            <gpml:identity>GPlates-b8cc295b-86f7-4386-833a-1c60bd1e4ed6</gpml:identity>
+            <gpml:revision>GPlates-a94e781d-a8c8-40b1-80d6-1079cc6b5838</gpml:revision>
             <gml:name>Western Channel Diabase pole</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
@@ -877,8 +877,8 @@
     </gml:featureMember>
     <gml:featureMember>
         <gpml:VirtualGeomagneticPole>
-            <gpml:identity>GPlates-2b25ef97-aee3-4a8d-8cb7-594a461e697a</gpml:identity>
-            <gpml:revision>GPlates-8394c904-cbcc-4437-9a08-5a8a46535dfb</gpml:revision>
+            <gpml:identity>GPlates-d958c016-bd63-4c90-93ac-5d7b62cb3b17</gpml:identity>
+            <gpml:revision>GPlates-c9ca3092-cf93-43cd-8f43-07226b1c98e1</gpml:revision>
             <gml:name>Western Channel Diabase pole</gml:name>
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
