@@ -96,7 +96,8 @@
 1000 1590.0  -29.1632    3.6466  263.5929  001 !Laurentia reconstructed using Western Channel diabase pole
 1000 1635.0  -17.631    9.1677  267.5615  001 !Laurentia reconstructed using Melville Bugt pole
 1000 1740.0   -5.3961   10.7109  289.4095  001 !Laurentia reconstructed using Cleaver dikes pole
-1000 1800.0    0.2705    6.6469  277.5901  001 !Laurentia reconstructed using Dubawnt Group pole
+1000 1780.0  -13.9893    5.8437  287.9787  001 !Laurentia reconstructed using ECMB pole
+1000 1800.0    -6.65    7.135  281.9258  001 !Laurentia reconstructed to satisfy Dubawnt Group pole within uncertainty
 1000 1827.0   14.7035    4.3031  277.4074  001 !
 1000 1850.0  -16.1676   -6.6018  262.3377  001 !Mirror Superior
 10015  0.0   90.0    0.0    0.0  10640 !Associate Hearne with Rae
