@@ -1,4 +1,4 @@
-\begin{thebibliography}{305}
+\begin{thebibliography}{306}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -1310,14 +1310,22 @@ Park, J.~K., Irving, E., and Donaldson, J.~A., 1973. {Paleomagnetism of the
   Precambrian Dubawnt Group}. Geological Society of America Bulletin, v.~84, p.
   859--870, \doi{10.1130/0016-7606(1973)84<859:potpdg>2.0.co;2}.
 
-\bibitem[{Park et~al.(2021)Park, Swanson-Hysell, Macdonald, and
+\bibitem[{Park et~al.(2021{\natexlab{a}})Park, Swanson-Hysell, Macdonald, and
   Lisiecki}]{Park2021a}
-Park, Y., Swanson-Hysell, N., Macdonald, F., and Lisiecki, L., 2021, Evaluating
-  the relationship between the area and latitude of large igneous provinces and
-  earth's long-term climate state. \emph{In} Ernst, R.~E., Dickson, A.~J., and
-  Bekker, A., eds., Large Igneous Provinces: A Driver of Global Environmental
-  and Biotic Changes, Geophysical Monograph 255, American Geophysical Union,
-  \doi{10.1002/9781119507444.ch7}.
+Park, Y., Swanson-Hysell, N., Macdonald, F., and Lisiecki, L.,
+  2021{\natexlab{a}}, Evaluating the relationship between the area and latitude
+  of large igneous provinces and earth's long-term climate state. \emph{In}
+  Ernst, R.~E., Dickson, A.~J., and Bekker, A., eds., Large Igneous Provinces:
+  A Driver of Global Environmental and Biotic Changes, Geophysical Monograph
+  255, American Geophysical Union, \doi{10.1002/9781119507444.ch7}.
+
+\bibitem[{Park et~al.(2021{\natexlab{b}})Park, Swanson-Hysell, Xian, Zhang,
+  Condon, Fu, and Macdonald}]{Park2021b}
+Park, Y., Swanson-Hysell, N.~L., Xian, H., Zhang, S., Condon, D.~J., Fu, H.,
+  and Macdonald, F.~A., 2021{\natexlab{b}}. {A consistently high latitude South
+  China from 820 to 780 Ma: Implications for exclusion from Rodinia and the
+  feasibility of large-scale true polar wander}. Journal of Geophysical
+  Research: Solid Earth, v. 126, \doi{10.1029/2020jb021541}.
 
 \bibitem[{Patchett et~al.(1978)Patchett, Bylund, and Upton}]{Patchett1978a}
 Patchett, P., Bylund, G., and Upton, B., 1978. {Palaeomagnetism and the
